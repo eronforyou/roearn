@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "RoEarn: Кэшбэк за покупки в Roblox"
+  },
+  "extDescription": {
+    "message": "Зарабатывай Robux кэшбэк с каждой покупки на Roblox!"
+  },
+  "extActionTitle": {
+    "message": "Открыть панель RoEarn"
+  },
+  "dashboard_shorts_disclaimer": {
+    "message": "Публикации низкого качества с менее чем 5 000 просмотрами получат только 50 Robux за 1 000 просмотров."
+  },
+  "yt_err_missing_fields": {
+    "message": "Пожалуйста, введите действительный URL видео YouTube."
+  },
+  "dashboard_roregion_subtitle": {
+    "message": "Выберите местоположение вашего сервера Roblox"
+  },
+  "shareOnWhatsApp": {
+    "message": "Поделиться в WhatsApp"
+  },
+  "shareTextWhatsApp": {
+    "message": "Только что узнал, что можно получать кэшбэк Robux при покупке вещей в Roblox с помощью RoEarn. Если попробуешь, код приглашения $1 даёт 5 Robux.\n\nСкачай здесь: https://chromewebstore.google.com/detail/roearn-cashback-on-roblox/fooenmopnfaejehogdbmegaleanpdcea?utm_campaign=whatsapp"
+  }
+}

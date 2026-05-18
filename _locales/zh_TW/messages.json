@@ -1,0 +1,1080 @@
+{
+  "extName": {
+    "message": "RoEarn: Roblox 購買返現"
+  },
+  "extDescription": {
+    "message": "在 Roblox 上的每次購買都能獲得 Robux 返現！"
+  },
+  "extActionTitle": {
+    "message": "開啟 RoEarn 控制面板"
+  },
+  "badgeEarn": {
+    "message": "賺取"
+  },
+  "buy": {
+    "message": "購買"
+  },
+  "ineligible": {
+    "message": "不符合條件"
+  },
+  "successPopupTitle": {
+    "message": "購買完成"
+  },
+  "successPopupMessage": {
+    "message": "您已成功以 $2 獲得 $1。"
+  },
+  "successPopupCashback": {
+    "message": "$1 已新增到您的 RoEarn 餘額。"
+  },
+  "successPopupBalanceBtn": {
+    "message": "餘額"
+  },
+  "successPopupCustomizeBtn": {
+    "message": "自訂"
+  },
+  "successPopupContinueBtn": {
+    "message": "繼續"
+  },
+  "notEligibleForCashback": {
+    "message": "不符合返現條件"
+  },
+  "tooltipRobloxLimited": {
+    "message": "Roblox 創建的 Limited 不符合返現條件。"
+  },
+  "tooltipNotInGame": {
+    "message": "此物品不符合條件，因為無法在遊戲內購買。"
+  },
+  "tooltipPriceTooLow": {
+    "message": "價格太低無法獲得返現。最低價格為 $1 Robux。"
+  },
+  "catalogBuyBtn": {
+    "message": "使用 RoEarn 購買（賺取 $1）"
+  },
+  "tooltipGamepassMinPrice": {
+    "message": "遊戲通行證價格必須高於 40 Robux 才能獲得返現。"
+  },
+  "gamepassBuyBtn": {
+    "message": "購買（賺取 $1）"
+  },
+  "tooltipGamepassMinPriceShort": {
+    "message": "遊戲通行證價格必須高於 40 Robux 才能獲得返現。"
+  },
+  "earnAmount": {
+    "message": "（賺取 $1）"
+  },
+  "errorDiscordSupport": {
+    "message": "錯誤 $1：請加入我們的 Discord：<a href=\"https://discord.gg/roearnsupport\" target=\"_blank\">discord.gg/roearnsupport</a>"
+  },
+  "roEarnBalance": {
+    "message": "RoEarn 餘額：$1 Robux"
+  },
+  "roEarnBalanceLoading": {
+    "message": "RoEarn 餘額：載入中..."
+  },
+  "reviewPromptText": {
+    "message": "RoEarn 有用嗎？給我們評價！"
+  },
+  "checkoutPageTitle": {
+    "message": "RoEarn 結帳"
+  },
+  "checkoutTitle": {
+    "message": "完成您的購買"
+  },
+  "checkoutSubtitle": {
+    "message": "在您的 Roblox 購買中獲得返現"
+  },
+  "checkoutSaveBadge": {
+    "message": "節省 $1 Robux！"
+  },
+  "checkoutHowItWorks": {
+    "message": "如何運作"
+  },
+  "checkoutStep1": {
+    "message": "使用下方的播放按鈕加入 RoEarn 中心。"
+  },
+  "checkoutStep2": {
+    "message": "您將被提示在遊戲內購買 $1。"
+  },
+  "checkoutStep3": {
+    "message": "您的 $1 返現將立即記入您的 RoEarn 餘額。"
+  },
+  "checkoutAutoJoin": {
+    "message": "始終自動加入 RoEarn 中心"
+  },
+  "dashboardPageTitle": {
+    "message": "RoEarn 控制面板"
+  },
+  "dashboardTitle": {
+    "message": "RoEarn 控制面板"
+  },
+  "dashboardSubtitle": {
+    "message": "管理您的收入和邀請"
+  },
+  "welcomeTitle": {
+    "message": "歡迎來到 RoEarn"
+  },
+  "welcomeSubtitle": {
+    "message": "這是一個快速入門教學影片"
+  },
+  "referralEntryTitle": {
+    "message": "有人邀請您加入 RoEarn 嗎？"
+  },
+  "referralEntryDescription": {
+    "message": "輸入他們的代碼，你們都將獲得額外返現！"
+  },
+  "referralInputPlaceholder": {
+    "message": "輸入邀請碼"
+  },
+  "optionalLabel": {
+    "message": "（可選）"
+  },
+  "startButton": {
+    "message": "開始使用 RoEarn"
+  },
+  "loadingText": {
+    "message": "載入中..."
+  },
+  "errorInvalidReferralCode": {
+    "message": "無效的邀請碼"
+  },
+  "errorOwnReferralCode": {
+    "message": "您不能使用自己的邀請碼"
+  },
+  "errorSetReferralFailed": {
+    "message": "設定邀請失敗。"
+  },
+  "errorReferralAlreadyUsed": {
+    "message": "您已經使用過邀請碼。"
+  },
+  "errorInvalidReferralCodeRetry": {
+    "message": "無效代碼。請檢查後重試。"
+  },
+  "errorVerificationFailed": {
+    "message": "驗證失敗。請重試。"
+  },
+  "errorPleaseTryAgain": {
+    "message": "請重試。"
+  },
+  "bonusAddedText": {
+    "message": "5 Robux 已新增到您的 RoEarn 餘額！"
+  },
+  "yourBalanceLabel": {
+    "message": "您的 RoEarn 餘額"
+  },
+  "withdrawButton": {
+    "message": "提取到 Roblox"
+  },
+  "errorMinWithdrawal": {
+    "message": "最低提領金額為 4 個 Robux。"
+  },
+  "withdrawalSuccessTitle": {
+    "message": "提取成功"
+  },
+  "withdrawalSuccessMessage": {
+    "message": "請在大約45秒後檢查您的<b><u>待處理的Robux</u></b>和<b><u>商品銷售</u></b>，因為購買可能需要一些時間才能顯示。"
+  },
+  "viewTransactionsCountdown": {
+    "message": "檢視交易（$1）"
+  },
+  "viewTransactionsButton": {
+    "message": "檢視交易"
+  },
+  "referralProgramTitle": {
+    "message": "邀請好友"
+  },
+  "yourReferralCodeLabel": {
+    "message": "您的邀請碼"
+  },
+  "copyButton": {
+    "message": "複製"
+  },
+  "copiedButton": {
+    "message": "已複製！"
+  },
+  "totalEarnedLabel": {
+    "message": "總收入"
+  },
+  "referralsLabel": {
+    "message": "邀請"
+  },
+  "referralDescription": {
+    "message": "<span class=\"roearn-referral-highlight\">分享您的邀請碼。</span>當有人使用您的代碼安裝 RoEarn 時，您可以<b>立即獲得 15 Robux！</b><br><br>使用您邀請碼的任何人都將獲得 <b>5 Robux！</b><br><br><b>⚠️ 免責聲明：</b>替代帳戶將不會獲得 Robux 獎勵。"
+  },
+  "backButton": {
+    "message": "← 返回"
+  },
+  "yourReferralsTitle": {
+    "message": "您的邀請"
+  },
+  "noReferralsMessage": {
+    "message": "還沒有邀請。分享您的代碼開始賺錢！"
+  },
+  "loadingReferralProfiles": {
+    "message": "正在載入被邀請的資料..."
+  },
+  "errorAuthFailed": {
+    "message": "身份驗證失敗。請確保您已登入 Roblox。"
+  },
+  "errorAuthRetry": {
+    "message": "身份驗證失敗。請重試。"
+  },
+  "errorFetchGames": {
+    "message": "無法獲取遊戲。請確保您至少有一個遊戲。"
+  },
+  "errorFetchGamesRetry": {
+    "message": "無法獲取遊戲。請重試。"
+  },
+  "errorNoGames": {
+    "message": "您需要先創建一個 Roblox 遊戲才能使用推薦碼。"
+  },
+  "errorSecurityToken": {
+    "message": "獲取安全令牌失敗。請重新整理頁面後重試。"
+  },
+  "errorCreateGamepass": {
+    "message": "創建驗證遊戲通行證失敗。請重試。"
+  },
+  "errorUpdateGamepass": {
+    "message": "更新遊戲通行證詳情失敗。請重試。"
+  },
+  "errorFetchGamepasses": {
+    "message": "無法獲取遊戲通行證。請重試。"
+  },
+  "errorNoGamepasses": {
+    "message": "沒有可用於驗證的遊戲通行證。請重試。"
+  },
+  "errorUpdateVerification": {
+    "message": "更新驗證遊戲通行證失敗。請重試。"
+  },
+  "errorUnexpected": {
+    "message": "發生錯誤。請重試。"
+  },
+  "cartTitle": {
+    "message": "購物車 ($1)"
+  },
+  "cartEmpty": {
+    "message": "您的購物車是空的"
+  },
+  "cartRemove": {
+    "message": "移除"
+  },
+  "cartTotal": {
+    "message": "共計：$1 件商品"
+  },
+  "cartTotalPlural": {
+    "message": "共計：$1 件商品"
+  },
+  "checkoutBulkStep2": {
+    "message": "您將在遊戲中被提示購買您的商品。"
+  },
+  "checkoutBulkStep2Single": {
+    "message": "您將在遊戲中被提示購買您的商品。"
+  },
+  "cartTotalLabel": {
+    "message": "總計"
+  },
+  "addToCart": {
+    "message": "加入 RoEarn 購物車"
+  },
+  "removeFromCart": {
+    "message": "從 RoEarn 購物車移除"
+  },
+  "somethingWentWrong": {
+    "message": "請在5分鐘後重新嘗試提現。"
+  },
+  "copyExtensionLink": {
+    "message": "複製擴充功能連結"
+  },
+  "altDetectedText": {
+    "message": "⚠️ 可疑帳號"
+  },
+  "pendingRobuxNotice": {
+    "message": "您有 X Robux 待處理。請在 2 分鐘後再查看。"
+  },
+  "tooltipOffSale": {
+    "message": "此物品不符合返現資格，因為原版目前無法購買。"
+  },
+  "contentCreatorTitle": {
+    "message": "創建視頻並賺取 Robux"
+  },
+  "contentCreatorPayout": {
+    "message": "YouTube Shorts 每 1,000 次觀看可獲得 300 Robux"
+  },
+  "contentCreatorDescription": {
+    "message": "影片必須展示 RoEarn 擴充功能及其<u><b>目錄回饋功能。</b></u>请确保您的 Roblox 用戶名在描述中。"
+  },
+  "contentCreatorContact": {
+    "message": "聯絡 creators@roearn.io 領取您的 Robux"
+  },
+  "contentCreatorLink": {
+    "message": "長影片每 1,000 次觀看支付 |SPLIT|"
+  },
+  "withdrawalAgreementTitle": {
+    "message": "提現工作原理"
+  },
+  "withdrawalAgreementText": {
+    "message": "我們將通過購買您的遊戲通行證來支付您的 Robux。RoEarn 會自動為您建立遊戲通行證，所以您無需做任何事情。"
+  },
+  "continueButton": {
+    "message": "繼續"
+  },
+  "joinDiscordButton": {
+    "message": "加入 Discord"
+  },
+  "notificationTitle": {
+    "message": "RoEarn 餘額已更新"
+  },
+  "notificationText": {
+    "message": "Robux 已新增至您的 RoEarn 餘額。您現在可以提領了！"
+  },
+  "dismissButton": {
+    "message": "關閉"
+  },
+  "viewBalanceButton": {
+    "message": "查看餘額"
+  },
+  "now40Text": {
+    "message": "現在每次邀請 40 Robux！"
+  },
+  "countdownPrefix": {
+    "message": "每次邀請獲得 $1 Robux（結束於 "
+  },
+  "countdownDay": {
+    "message": "天"
+  },
+  "countdownDays": {
+    "message": "天"
+  },
+  "countdownHour": {
+    "message": "小時"
+  },
+  "countdownHours": {
+    "message": "小時"
+  },
+  "countdownMinute": {
+    "message": "分鐘"
+  },
+  "countdownMinutes": {
+    "message": "分鐘"
+  },
+  "shareYourInvite": {
+    "message": "🎉 分享您的邀請碼，每邀請一位朋友加入 RoEarn 即可賺取 $1 Robux。",
+    "description": "Referral prompt text with invite bonus amount"
+  },
+  "playAndEarn_Text": {
+    "message": "用 RoEarn 玩遊戲並賺取獎勵！"
+  },
+  "sponsoredPlacements_Text": {
+    "message": "本節中的遊戲透過 RoEarn 作為贊助位置進行推廣。"
+  },
+  "timePlayed_Text": {
+    "message": "遊戲時間"
+  },
+  "earned_Text": {
+    "message": "已賺取"
+  },
+  "rate_Text": {
+    "message": "速率"
+  },
+  "hour_Text": {
+    "message": "/小時"
+  },
+  "tutorialStep1Title_Text": {
+    "message": "透過玩 $1 賺取 Robux"
+  },
+  "tutorialStep1Body_Text": {
+    "message": "RoEarn 為您在贊助遊戲中每花費一小時支付 5 Robux。只需遊戲、賺取，隨時提現。"
+  },
+  "next_Text": {
+    "message": "下一步"
+  },
+  "trackYourEarningsTitle_Text": {
+    "message": "追蹤您的收益"
+  },
+  "tutorialStep2Body_Text": {
+    "message": "此面板顯示您的遊戲時間和賺取的 Robux。您每小時賺取 5 Robux — 即每 12 分鐘 1 Robux，直接新增至您的 RoEarn 餘額。隨時在提現。"
+  },
+  "gotIt_Text": {
+    "message": "明白了"
+  },
+  "shareTextX": {
+    "message": "剛發現在 Roblox 購物時使用 RoEarn 可以獲得 Robux 回饋。如果你試試，邀請碼 $1 可獲得 5 Robux。\n\n在此取得：https://chromewebstore.google.com/detail/roearn-cashback-on-roblox/fooenmopnfaejehogdbmegaleanpdcea?utm_campaign=x\n\n#Robux #Roblox #RoEarn"
+  },
+  "shareTextTelegram": {
+    "message": "剛發現在 Roblox 購物時使用 RoEarn 可以獲得 Robux 回饋。如果你試試，邀請碼 $1 可獲得 5 Robux。"
+  },
+  "shareTextReddit": {
+    "message": "使用 RoEarn 在 Roblox 購物獲得 Robux 回饋（邀請碼 $1 可獲得 5 Robux）"
+  },
+  "shareOnX": {
+    "message": "分享到 X"
+  },
+  "shareOnFacebook": {
+    "message": "分享到 Facebook"
+  },
+  "shareOnTelegram": {
+    "message": "分享到 Telegram"
+  },
+  "shareOnReddit": {
+    "message": "分享到 Reddit"
+  },
+  "dashboard_fav_label": {
+    "message": "透過收藏服裝賺取"
+  },
+  "dashboard_fav_desc": {
+    "message": "在背景自動收藏服裝物品來賺取 Robux"
+  },
+  "dashboard_fav_bubble_title": {
+    "message": "啟用前請注意"
+  },
+  "dashboard_fav_bubble_body": {
+    "message": "這將在 2D 服裝上架時自動收藏它們。您可在背景每 <strong style=\"color:#ffffff;\">20 次收藏賺取 1 Robux</strong>，每天最多 <strong style=\"color:#ffffff;\">24 Robux</strong> ——只要瀏覽器在執行中。收益直接新增至您的 RoEarn 餘額。"
+  },
+  "dashboard_fav_cancel": {
+    "message": "取消"
+  },
+  "dashboard_fav_agree": {
+    "message": "同意"
+  },
+  "dashboard_yt_label": {
+    "message": "透過創建 YouTube 影片賺取"
+  },
+  "dashboard_yt_desc": {
+    "message": "獲得報酬"
+  },
+  "dashboard_yt_desc2": {
+    "message": "YouTube Shorts 每 1,000 次觀看 300"
+  },
+  "dashboard_yt_get_started": {
+    "message": "開始"
+  },
+  "dashboard_subscribe_label": {
+    "message": "訂閱 YouTube"
+  },
+  "dashboard_subscribe_desc": {
+    "message": "獲取我們最新的技巧和新聞"
+  },
+  "dashboard_subscribe_btn": {
+    "message": "訂閱"
+  },
+  "dashboard_other_extensions": {
+    "message": "我們的其他擴充功能"
+  },
+  "dashboard_roexport_name": {
+    "message": "RoExport"
+  },
+  "dashboard_roexport_tagline": {
+    "message": "儲存並重新上傳 Roblox 服裝"
+  },
+  "dashboard_roexport_desc": {
+    "message": "儲存並重新上傳 Roblox 上的任何襯衫、褲子或 T 恤——包括下架商品。在每個服裝頁面新增 <strong style=\"color:$1;\">&ldquo;儲存範本&rdquo;</strong> 和 <strong style=\"color:$1;\">&ldquo;重新上傳&rdquo;</strong> 按鈕。"
+  },
+  "dashboard_roexport_pill1": {
+    "message": "支援下架商品"
+  },
+  "dashboard_roexport_pill2": {
+    "message": "上傳至任意群組"
+  },
+  "dashboard_roexport_pill3": {
+    "message": "無需高級會員"
+  },
+  "dashboard_roexport_cta": {
+    "message": "新增至瀏覽器"
+  },
+  "dashboard_creator_title": {
+    "message": "創建影片並賺取 Robux"
+  },
+  "dashboard_creator_desc": {
+    "message": "使用 Roblox 遊戲畫面或錄影創建關於 RoEarn 的影片。展示擴充功能、您的收益，或製作教學——任何包含 RoEarn 和 Roblox 的內容均可。"
+  },
+  "dashboard_creator_shorts": {
+    "message": "YouTube Shorts"
+  },
+  "dashboard_creator_longform": {
+    "message": "長影片"
+  },
+  "dashboard_creator_per_views": {
+    "message": "每 1,000 次觀看"
+  },
+  "dashboard_creator_rules": {
+    "message": "規則"
+  },
+  "dashboard_creator_rule1": {
+    "message": "影片必須高品質且剪輯精良"
+  },
+  "dashboard_creator_rule2": {
+    "message": "RoEarn 必須清晰地展示給觀眾"
+  },
+  "dashboard_creator_rule3": {
+    "message": "您的 Roblox 使用者名稱必須在影片說明中"
+  },
+  "dashboard_creator_tools": {
+    "message": "推薦工具"
+  },
+  "dashboard_capcut_name": {
+    "message": "CapCut"
+  },
+  "dashboard_capcut_desc": {
+    "message": "免費影片編輯器"
+  },
+  "dashboard_snipping_name": {
+    "message": "截圖工具"
+  },
+  "dashboard_snipping_desc": {
+    "message": "快速螢幕錄製"
+  },
+  "dashboard_submit_title": {
+    "message": "提交您的影片"
+  },
+  "dashboard_submit_desc": {
+    "message": "透過電子郵件傳送影片連結以獲得付款——我們可能需要最多 24 小時回覆"
+  },
+  "dashboard_send_email": {
+    "message": "傳送郵件"
+  },
+  "sidebarNewText": {
+    "message": "新"
+  },
+  "s_fav_lock_title": {
+    "message": "🔒 功能已鎖定"
+  },
+  "s_fav_lock_body": {
+    "message": "透過 RoEarn 進行 1 次購買，即可解鎖自動收藏服裝功能。"
+  },
+  "s_extras_title": {
+    "message": "獎勵收益"
+  },
+  "s_your_invites_title": {
+    "message": "你的邀請"
+  },
+  "s_invites_empty": {
+    "message": "開始邀請好友，他們會顯示在這裡。"
+  },
+  "s_referral_disclaimer": {
+    "message": "⚠️ 備用帳號將不會獲得 Robux 獎勵。"
+  },
+  "s_alt_tooltip": {
+    "message": "此帳號被偵測為可疑帳號，將不會獲得 Robux 獎勵。"
+  },
+  "yt_submit_btn": {
+    "message": "提交"
+  },
+  "yt_view_submissions_btn": {
+    "message": "查看提交"
+  },
+  "yt_status_in_review": {
+    "message": "審核中"
+  },
+  "yt_status_paid": {
+    "message": "已支付"
+  },
+  "yt_status_rejected": {
+    "message": "已拒絕"
+  },
+  "yt_modal_title": {
+    "message": "你的提交"
+  },
+  "yt_stat_total": {
+    "message": "總計"
+  },
+  "yt_videos_label": {
+    "message": "影片"
+  },
+  "yt_no_submissions": {
+    "message": "暫無提交。"
+  },
+  "yt_input_placeholder": {
+    "message": "貼上 YouTube 影片連結（例如 youtube.com/watch?v=...）"
+  },
+  "yt_err_missing_fields": {
+    "message": "請輸入有效的YouTube影片網址。"
+  },
+  "yt_err_invalid_url": {
+    "message": "這看起來不像有效的 YouTube 連結。"
+  },
+  "yt_err_video_not_found": {
+    "message": "找不到影片 — 請確保其為公開狀態。"
+  },
+  "yt_err_fetch_failed": {
+    "message": "暫時無法存取 YouTube，請重試。"
+  },
+  "yt_err_already_submitted": {
+    "message": "你已經提交過這個影片了。"
+  },
+  "yt_err_db_error": {
+    "message": "伺服器錯誤，請稍後重試。"
+  },
+  "yt_err_network_error": {
+    "message": "網路錯誤，請檢查你的連線。"
+  },
+  "yt_err_internal_error": {
+    "message": "出錯了，請稍後再試。"
+  },
+  "yt_err_auth_failed": {
+    "message": "無法驗證你的 Roblox 帳號。"
+  },
+  "yt_err_username_not_in_desc": {
+    "message": "你的 Roblox 使用者名稱 ($1) 必須出現在影片說明中。"
+  },
+  "yt_err_insufficient_views": {
+    "message": "你的影片至少需要 $1 次觀看才符合資格（目前 $2）。"
+  },
+  "yt_submit_success": {
+    "message": "影片已提交！我們將在 24 小時內審核。"
+  },
+  "yt_tooltip_pending": {
+    "message": "您的影片正在審核中，此過程最多需要24小時。"
+  },
+  "yt_tooltip_approved": {
+    "message": "此影片已通過審核，Robux已發放。"
+  },
+  "yt_tooltip_rejected": {
+    "message": "您的影片不符合我們的創作者規則，未獲批准付款。"
+  },
+  "dashboard_roexport_installed": {
+    "message": "您已安裝此擴充功能"
+  },
+  "dashboard_shorts_disclaimer": {
+    "message": "低品質貼文在5,000次觀看以下每1,000次觀看僅獲得50 Robux。"
+  },
+  "dashboard_submit_agreement_title": {
+    "message": "提交前請閱讀"
+  },
+  "dashboard_submit_agreement_body": {
+    "message": "提交影片即表示您同意該影片與 RoEarn 相關，且 RoEarn 出現在影片中。提交無關影片將永久取消您的提交權限。"
+  },
+  "dashboard_submit_agreement_cancel": {
+    "message": "取消"
+  },
+  "dashboard_submit_agreement_confirm": {
+    "message": "我同意"
+  },
+  "dashboard_roregion_subtitle": {
+    "message": "選擇您的Roblox伺服器位置"
+  },
+  "dashboard_roregion_description": {
+    "message": "選擇您的 Roblox 伺服器區域並連接到世界各地的位置 — 讓您始終獲得最佳延遲和最流暢的遊戲體驗。直接在 Roblox 中新增區域選擇器，只需幾次點擊即可依位置篩選伺服器。"
+  },
+  "dashboard_roregion_tag_nolag": {
+    "message": "無延遲"
+  },
+  "dashboard_roregion_tag_ping": {
+    "message": "低延遲"
+  },
+  "dashboard_roregion_tag_gameplay": {
+    "message": "流暢遊戲"
+  },
+  "mobileWarningTitle": {
+    "message": "重要：透過購物賺取返現"
+  },
+  "mobileWarningBody": {
+    "message": "要透過 RoEarn 賺取返現，您必須在瀏覽器中購買 Roblox 目錄物品，而非在 Roblox 應用程式中購買。在 Roblox 應用程式內完成的購買無法被追蹤，因此您將無法獲得相應的返現。"
+  },
+  "mobileWarningCatalogBtn": {
+    "message": "瀏覽 Roblox 目錄"
+  },
+  "shoppingWarningTitle": {
+    "message": "偵測到虛擬形象購物遊戲"
+  },
+  "shoppingWarningBody": {
+    "message": "這是一個虛擬形象購物遊戲。如果您在遊戲內購買任何物品，將無法透過 RoEarn 獲得返現 — 遊戲擁有者將獲得該返現。要獲得返現，請使用 RoEarn 在 Roblox 網站上購買 Roblox 目錄物品。"
+  },
+  "shoppingWarningCatalogBtn": {
+    "message": "明白了 — 瀏覽目錄"
+  },
+  "shoppingWarningDismiss": {
+    "message": "關閉"
+  },
+  "creator_snapshot_title": {
+    "message": "您的觀看次數在提交時鎖定"
+  },
+  "creator_snapshot_body1": {
+    "message": "您的影片<strong>現在</strong>的觀看次數就是您將獲得報酬的依據 — 我們在您提交時拍攝快照。"
+  },
+  "creator_snapshot_body2": {
+    "message": "如果您想等待更多觀看次數，完全沒問題 — 準備好提領時回來提交即可。"
+  },
+  "creator_snapshot_not_yet": {
+    "message": "還沒準備好"
+  },
+  "creator_snapshot_submit_now": {
+    "message": "立即提交"
+  },
+  "creator_channel_url_error": {
+    "message": "這是頻道URL — 請提交指向特定影片的連結。"
+  },
+  "creator_quality_guide_btn": {
+    "message": "影片品質指南 →"
+  },
+  "creator_guide_title": {
+    "message": "如何製作高品質影片"
+  },
+  "creator_guide_subtitle": {
+    "message": "我們前5名創作者每月收入超過<strong>1,000,000 Robux</strong> — 這就是優質提交與被拒絕提交的區別。"
+  },
+  "creator_guide_good_header": {
+    "message": "高品質影片"
+  },
+  "creator_guide_bad_header": {
+    "message": "低品質影片"
+  },
+  "creator_guide_good1": {
+    "message": "Roblox遊戲玩法在整個影片中清晰可見"
+  },
+  "creator_guide_good2": {
+    "message": "擴充功能名稱以可見文字形式出現在螢幕上 — 不只是標誌"
+  },
+  "creator_guide_good3": {
+    "message": "您在螢幕上說明如何尋找和安裝擴充功能"
+  },
+  "creator_guide_good4": {
+    "message": "觀眾可以輕鬆跟隨的專注內容"
+  },
+  "creator_guide_good5": {
+    "message": "鼓勵觀眾留言、按讚和互動"
+  },
+  "creator_guide_good6": {
+    "message": "強大的標題、縮圖和描述以提高可發現性"
+  },
+  "creator_guide_bad1": {
+    "message": "只顯示我們的標誌 — 觀眾不知道如何安裝"
+  },
+  "creator_guide_bad2": {
+    "message": "多次上傳同一影片以獲取報酬"
+  },
+  "creator_guide_bad3": {
+    "message": "參與度低 — 沒有留言、很少按讚、觀看時間短"
+  },
+  "creator_guide_bad4": {
+    "message": "擴充功能名稱從未在螢幕上顯示或提及"
+  },
+  "creator_guide_bad5": {
+    "message": "與Roblox無關的內容"
+  },
+  "creator_guide_bad6": {
+    "message": "感覺像是腳本化或垃圾內容，對觀眾沒有真正價值"
+  },
+  "creator_guide_protip": {
+    "message": "<strong>專業提示：</strong>專注於製作一個真正出色的影片，而不是許多低品質的影片。一個病毒式傳播的影片可以為您贏得更多Robux。"
+  },
+  "creator_section_title": {
+    "message": "透過建立YouTube影片賺取收益"
+  },
+  "creator_section_desc": {
+    "message": "作為認證創作者，您可以製作影片並獲得Robux報酬 — 提交一個展示我們任何擴充功能的影片。"
+  },
+  "creator_stats_header": {
+    "message": "統計資料"
+  },
+  "creator_stat_earned": {
+    "message": "影片總收入"
+  },
+  "creator_stat_views": {
+    "message": "已付費總觀看次數"
+  },
+  "creator_stat_approved": {
+    "message": "已核准影片"
+  },
+  "creator_also_make_label": {
+    "message": "也為以下製作影片"
+  },
+  "creator_optional_badge": {
+    "message": "可選"
+  },
+  "creator_primary_ext_desc": {
+    "message": "您的主要擴充功能是<strong>RoEarn</strong> — 這些是用於多樣化內容和獲得更多收入的獎勵擴充功能。"
+  },
+  "creator_video_requirement": {
+    "message": "<strong>影片要求：</strong>您的影片必須清楚地展示正在使用的擴充功能，並在螢幕上顯示其名稱。"
+  },
+  "shareOnWhatsApp": {
+    "message": "在WhatsApp上分享"
+  },
+  "shareTextWhatsApp": {
+    "message": "剛發現在Roblox購物時可以用RoEarn獲得Robux返現。如果你想試試，邀請碼$1可以獲得5個Robux。\n\n點擊獲取：https://chromewebstore.google.com/detail/roearn-cashback-on-roblox/fooenmopnfaejehogdbmegaleanpdcea?utm_campaign=whatsapp"
+  },
+  "donate_btn_label": {
+    "message": "捐贈"
+  },
+  "donate_back_to_passes": {
+    "message": "返回遊戲通行證"
+  },
+  "donate_join_heading": {
+    "message": "加入以購買"
+  },
+  "donate_join_sub": {
+    "message": "加入遊戲以完成購買。進入後，系統會提示您購買此通行證。"
+  },
+  "donate_join_disclaimer": {
+    "message": "由於這是捐贈，您將不會收到回饋金。"
+  },
+  "donate_empty_title": {
+    "message": "暫無遊戲通行證"
+  },
+  "donate_empty_sub": {
+    "message": "此玩家尚未設定遊戲通行證。"
+  },
+  "donate_pass_buy": {
+    "message": "購買"
+  },
+  "donate_close_label": {
+    "message": "關閉"
+  },
+  "donate_notice_text": {
+    "message": "這些是此玩家的遊戲通行證。購買一個即可將 Robux 直接發送到他們的帳戶。"
+  },
+  "donate_tagline": {
+    "message": "購買 @$1 的遊戲通行證，Robux 將直接發送給他們。"
+  },
+  "donate_search_title": {
+    "message": "向玩家捐贈"
+  },
+  "donate_tab_search": {
+    "message": "搜尋"
+  },
+  "donate_tab_friends": {
+    "message": "好友"
+  },
+  "donate_search_placeholder": {
+    "message": "依使用者名稱搜尋…"
+  },
+  "donate_friends_filter_placeholder": {
+    "message": "篩選好友…"
+  },
+  "donate_search_hint": {
+    "message": "輸入使用者名稱以尋找玩家"
+  },
+  "donate_friends_login": {
+    "message": "登入 Roblox 以查看您的好友"
+  },
+  "donate_friends_empty": {
+    "message": "您還沒有好友"
+  },
+  "donate_friends_none": {
+    "message": "找不到好友"
+  },
+  "donate_search_failed": {
+    "message": "搜尋失敗，請再試一次。"
+  },
+  "donate_search_no_results": {
+    "message": "找不到\"$1\"的玩家"
+  },
+  "donate_search_error": {
+    "message": "發生錯誤，請再試一次。"
+  },
+  "cartLimitTitle": {
+    "message": "購物車已達上限（最多 $1 個活動項目）"
+  },
+  "cartLimitBody": {
+    "message": "Roblox 每次購買僅允許 $1 個項目。您可以停用項目以儲存備用。"
+  },
+  "cartLimitTitleRecheck": {
+    "message": "已達活動項目上限（最多 $1 個）"
+  },
+  "cartLimitBodyRecheck": {
+    "message": "您一次只能有 $1 個活動項目。請先停用其他項目。"
+  },
+  "wm_popup_subtitle": {
+    "message": "每次影片提交都必須包含它 — 從頭到尾可見，無例外。"
+  },
+  "wm_example_label": {
+    "message": "範例"
+  },
+  "wm_how_it_should_look": {
+    "message": "應該是什麼樣子"
+  },
+  "wm_requirements_label": {
+    "message": "要求"
+  },
+  "wm_req1": {
+    "message": "浮水印必須在<strong>整部影片中可見</strong> — 從第一幀到最後一幀。"
+  },
+  "wm_req2": {
+    "message": "必須<strong>易於閱讀和查看</strong> — 不隱藏、不淡出、不被螢幕截斷。"
+  },
+  "wm_req3": {
+    "message": "僅有浮水印<strong>不是捷徑</strong> — 您的影片還必須展示並解釋該擴充功能。"
+  },
+  "wm_download_label": {
+    "message": "下載浮水印"
+  },
+  "wm_save_desc": {
+    "message": "儲存浮水印圖片，並使用任何編輯器將其新增至您的影片。"
+  },
+  "wm_save_btn": {
+    "message": "儲存浮水印"
+  },
+  "wm_intro_title": {
+    "message": "新功能：RoEarn 影片浮水印"
+  },
+  "wm_intro_subtitle": {
+    "message": "我們現在要求每次影片提交都包含浮水印。以下是您需要了解的一切。"
+  },
+  "wm_intro_what_to_do": {
+    "message": "您需要做什麼"
+  },
+  "wm_intro_req1": {
+    "message": "在您提交的<strong>每部影片</strong>中包含 RoEarn 浮水印。"
+  },
+  "wm_intro_req2": {
+    "message": "必須在<strong>整部影片中可見</strong> — 從第一幀到最後一幀，易於查看和閱讀。"
+  },
+  "wm_intro_rejected": {
+    "message": "<strong>沒有</strong>浮水印的影片將被拒絕。"
+  },
+  "wm_rejection_title": {
+    "message": "您的影片已被拒絕"
+  },
+  "wm_rejection_body": {
+    "message": "這意味著您的提交未達到我們的品質標準或浮水印要求。請在重新提交前查看規則 — 仔細遵守規則是獲得批准的最佳方式。"
+  },
+  "wm_rejection_btn": {
+    "message": "查看浮水印要求"
+  },
+  "wm_tooltip_watermark_rule": {
+    "message": "浮水印必須在整部影片中可見"
+  },
+  "wm_save_btn_view": {
+    "message": "查看浮水印"
+  },
+  "wm_dismiss_btn": {
+    "message": "關閉"
+  },
+  "wm_disclaimer": {
+    "message": "觀看次數不足 5,000 次的低品質 Shorts 每 1,000 次觀看僅可獲得 50 Robux。"
+  },
+  "wm_watermark_notice": {
+    "message": "您的影片是否包含 RoEarn 浮水印？如果沒有，將被拒絕。"
+  },
+  "creator_rule1": {
+    "message": "您的影片必須與 <strong>Roblox 相關</strong> — 與 Roblox 無關的內容將不被接受。"
+  },
+  "creator_rule2": {
+    "message": "您的影片必須<strong>高品質且剪輯良好</strong> — 為您的內容投入心力。"
+  },
+  "creator_rule3": {
+    "message": "RoEarn 必須在您的影片中<strong>清楚展示</strong> — 觀眾應能看到並理解它。"
+  },
+  "creator_rule4": {
+    "message": "<strong>RoEarn 浮水印必須從頭到尾出現在您的影片中</strong> — 它需要全程保持在螢幕上。"
+  },
+  "submit_err_missing_fields": {
+    "message": "請先貼上影片 URL。"
+  },
+  "submit_err_not_a_video_url": {
+    "message": "這看起來不像 YouTube 或 TikTok 連結。請確認這是影片 URL。"
+  },
+  "submit_err_youtube_channel_url": {
+    "message": "這看起來像 YouTube 頻道連結，而非影片連結。請貼上指向特定影片的連結（例如 youtube.com/watch?v=...）。"
+  },
+  "submit_err_tiktok_profile_url": {
+    "message": "這看起來像 TikTok 個人主頁連結，而非影片連結。請貼上指向特定影片的連結（例如 tiktok.com/@user/video/...）。"
+  },
+  "submit_err_tiktok_no_video_id": {
+    "message": "在該 TikTok 連結中找不到影片或圖片。請貼上指向特定影片或圖片貼文的連結（例如 tiktok.com/@user/video/... 或 tiktok.com/@user/photo/...）。"
+  },
+  "submit_err_invalid_url_yt": {
+    "message": "這看起來不像有效的 YouTube 影片 URL。"
+  },
+  "submit_err_invalid_url_tt": {
+    "message": "這看起來不像有效的 TikTok 影片 URL。"
+  },
+  "submit_err_invalid_url": {
+    "message": "影片 URL 無效。"
+  },
+  "submit_err_video_not_found_yt": {
+    "message": "找不到該 YouTube 影片。請確認影片為公開狀態且 URL 正確。"
+  },
+  "submit_err_video_not_found_tt": {
+    "message": "找不到該 TikTok 影片。請確認影片為公開狀態且 URL 正確。"
+  },
+  "submit_err_video_not_found": {
+    "message": "找不到影片。"
+  },
+  "submit_err_yt_fetch_failed": {
+    "message": "目前無法載入該 YouTube 影片。請稍後再試。"
+  },
+  "submit_err_tt_fetch_failed": {
+    "message": "目前無法載入該 TikTok 影片。請稍後再試。"
+  },
+  "submit_err_username_not_in_desc_yt": {
+    "message": "您的 Roblox 使用者名稱（$1）必須出現在 YouTube 影片標題或說明中。"
+  },
+  "submit_err_username_not_in_desc_tt": {
+    "message": "您的 Roblox 使用者名稱（$1）必須出現在 TikTok 標題中。（請編輯貼文，將您的使用者名稱新增至標題中）"
+  },
+  "submit_err_username_not_in_desc": {
+    "message": "您的 Roblox 使用者名稱必須出現在影片中。"
+  },
+  "submit_err_insufficient_views": {
+    "message": "您的影片需要至少 $1 次觀看才能符合條件。目前有 $2 次。"
+  },
+  "submit_err_already_submitted_yt": {
+    "message": "該 YouTube 影片已提交過。"
+  },
+  "submit_err_already_submitted_tt": {
+    "message": "該 TikTok 影片已提交過。"
+  },
+  "submit_err_already_submitted": {
+    "message": "該影片已提交過。"
+  },
+  "submit_err_db_error": {
+    "message": "發生伺服器錯誤，請重試。"
+  },
+  "submit_err_network_error": {
+    "message": "無法連線到伺服器。請檢查您的網路連線並重試。"
+  },
+  "submit_err_auth_failed": {
+    "message": "無法驗證您的 Roblox 帳號。請重新整理頁面後重試。"
+  },
+  "submit_err_default": {
+    "message": "出了些問題，請重試。"
+  },
+  "wm_rejection_dismiss_btn": {
+    "message": "關閉"
+  },
+  "donate_recent_label": {
+    "message": "最近"
+  },
+  "plus_subscribed_title": {
+    "message": "🎉 您正在疊加優惠！"
+  },
+  "plus_unsubscribed_title": {
+    "message": "💰 讓每個 Robux 的價值翻倍"
+  },
+  "plus_body_copy": {
+    "message": "Roblox Plus 為您提供 10–20% 的購買折扣，RoEarn 還會在此基礎上回饋現金。兩者疊加使用，與 Plus 節省得越多，透過 RoEarn 獲得的回饋也越多。"
+  },
+  "plus_subscribe_btn": {
+    "message": "透過 RoEarn 訂閱（獲得 $1）"
+  },
+  "creator_earn_title": {
+    "message": "透過創作影片賺取收益"
+  },
+  "creator_url_placeholder": {
+    "message": "貼上 TikTok 或 YouTube 影片連結.."
+  },
+  "creator_rate_shorts_label": {
+    "message": "YouTube Shorts & TikTok"
+  },
+  "creator_rate_longform_label": {
+    "message": "YouTube 長影片"
+  },
+  "creator_rule1_full": {
+    "message": "您的影片必須專注於<strong> Roblox 相關內容</strong>，例如遊戲畫面或 Roblox 網站。"
+  },
+  "creator_rule2_full": {
+    "message": "您的影片必須<strong>品質高、剪輯精良且畫面清晰</strong>。"
+  },
+  "creator_rule3_full": {
+    "message": "您的影片中必須<strong>清楚展示、使用或提及 RoEarn 擴充功能</strong>。"
+  },
+  "creator_rule4_full": {
+    "message": "<strong>官方 RoEarn 浮水印必須從頭到尾保持在螢幕上可見</strong>。"
+  },
+  "creator_earn_subtitle_pre": {
+    "message": "獲得"
+  },
+  "creator_earn_subtitle_post": {
+    "message": "300，每 1,000 次觀看（TikTok & YouTube Shorts）"
+  }
+}

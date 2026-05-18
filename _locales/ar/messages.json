@@ -1,0 +1,1080 @@
+{
+  "extName": {
+    "message": "RoEarn: استرداد نقدي على مشتريات Roblox"
+  },
+  "extDescription": {
+    "message": "احصل على استرداد Robux على كل عملية شراء على Roblox!"
+  },
+  "extActionTitle": {
+    "message": "فتح لوحة تحكم RoEarn"
+  },
+  "badgeEarn": {
+    "message": "اربح"
+  },
+  "buy": {
+    "message": "شراء"
+  },
+  "ineligible": {
+    "message": "غير مؤهل"
+  },
+  "successPopupTitle": {
+    "message": "اكتملت عملية الشراء"
+  },
+  "successPopupMessage": {
+    "message": "لقد حصلت بنجاح على $1 مقابل $2."
+  },
+  "successPopupCashback": {
+    "message": "تمت إضافة $1 إلى رصيد RoEarn الخاص بك."
+  },
+  "successPopupBalanceBtn": {
+    "message": "الرصيد"
+  },
+  "successPopupCustomizeBtn": {
+    "message": "تخصيص"
+  },
+  "successPopupContinueBtn": {
+    "message": "متابعة"
+  },
+  "notEligibleForCashback": {
+    "message": "غير مؤهل للاسترداد النقدي"
+  },
+  "tooltipRobloxLimited": {
+    "message": "العناصر المحدودة التي أنشأتها Roblox غير مؤهلة للاسترداد النقدي."
+  },
+  "tooltipNotInGame": {
+    "message": "هذا العنصر غير مؤهل لأنه لا يمكن شراؤه داخل اللعبة."
+  },
+  "tooltipPriceTooLow": {
+    "message": "السعر منخفض جداً للاسترداد النقدي. الحد الأدنى للسعر هو $1 Robux."
+  },
+  "catalogBuyBtn": {
+    "message": "شراء مع RoEarn (اربح $1)"
+  },
+  "tooltipGamepassMinPrice": {
+    "message": "يجب أن يكون سعر تصريح اللعبة أعلى من 40 Robux للتأهل للاسترداد النقدي."
+  },
+  "gamepassBuyBtn": {
+    "message": "شراء (اربح $1)"
+  },
+  "tooltipGamepassMinPriceShort": {
+    "message": "يجب أن يكون سعر تصريح اللعبة أعلى من 40 Robux للتأهل للاسترداد النقدي."
+  },
+  "earnAmount": {
+    "message": "(اربح $1)"
+  },
+  "errorDiscordSupport": {
+    "message": "خطأ $1: انضم إلى Discord الخاص بنا: <a href=\"https://discord.gg/roearnsupport\" target=\"_blank\">discord.gg/roearnsupport</a>"
+  },
+  "roEarnBalance": {
+    "message": "رصيد RoEarn: $1 Robux"
+  },
+  "roEarnBalanceLoading": {
+    "message": "رصيد RoEarn: جاري التحميل..."
+  },
+  "reviewPromptText": {
+    "message": "هل نجح RoEarn معك؟ اترك تقييماً!"
+  },
+  "checkoutPageTitle": {
+    "message": "الدفع RoEarn"
+  },
+  "checkoutTitle": {
+    "message": "أكمل عملية الشراء"
+  },
+  "checkoutSubtitle": {
+    "message": "احصل على استرداد نقدي على مشترياتك من Roblox"
+  },
+  "checkoutSaveBadge": {
+    "message": "وفر $1 Robux!"
+  },
+  "checkoutHowItWorks": {
+    "message": "كيف يعمل"
+  },
+  "checkoutStep1": {
+    "message": "انضم إلى مركز RoEarn باستخدام زر التشغيل أدناه."
+  },
+  "checkoutStep2": {
+    "message": "سيُطلب منك شراء $1 داخل اللعبة."
+  },
+  "checkoutStep3": {
+    "message": "سيتم إضافة استرداد $1 النقدي فوراً إلى رصيد RoEarn الخاص بك."
+  },
+  "checkoutAutoJoin": {
+    "message": "الانضمام دائماً إلى مركز RoEarn تلقائياً"
+  },
+  "dashboardPageTitle": {
+    "message": "لوحة تحكم RoEarn"
+  },
+  "dashboardTitle": {
+    "message": "لوحة تحكم RoEarn"
+  },
+  "dashboardSubtitle": {
+    "message": "إدارة أرباحك ودعواتك"
+  },
+  "welcomeTitle": {
+    "message": "مرحباً بك في RoEarn"
+  },
+  "welcomeSubtitle": {
+    "message": "فيديو تعليمي سريع لمساعدتك على البدء"
+  },
+  "referralEntryTitle": {
+    "message": "هل دعاك شخص ما إلى RoEarn؟"
+  },
+  "referralEntryDescription": {
+    "message": "أدخل رمزهم وستحصلان كلاكما على استرداد نقدي إضافي!"
+  },
+  "referralInputPlaceholder": {
+    "message": "أدخل رمز الدعوة"
+  },
+  "optionalLabel": {
+    "message": "(اختياري)"
+  },
+  "startButton": {
+    "message": "ابدأ باستخدام RoEarn"
+  },
+  "loadingText": {
+    "message": "جاري التحميل..."
+  },
+  "errorInvalidReferralCode": {
+    "message": "رمز دعوة غير صالح"
+  },
+  "errorOwnReferralCode": {
+    "message": "لا يمكنك استخدام رمز الدعوة الخاص بك"
+  },
+  "errorSetReferralFailed": {
+    "message": "فشل في تعيين الدعوة. "
+  },
+  "errorReferralAlreadyUsed": {
+    "message": "لقد استخدمت رمز دعوة بالفعل."
+  },
+  "errorInvalidReferralCodeRetry": {
+    "message": "رمز غير صالح. تحقق وحاول مرة أخرى."
+  },
+  "errorVerificationFailed": {
+    "message": "فشل التحقق. حاول مرة أخرى."
+  },
+  "errorPleaseTryAgain": {
+    "message": "حاول مرة أخرى."
+  },
+  "bonusAddedText": {
+    "message": "تمت إضافة 5 Robux إلى رصيد RoEarn الخاص بك!"
+  },
+  "yourBalanceLabel": {
+    "message": "رصيد RoEarn الخاص بك"
+  },
+  "withdrawButton": {
+    "message": "سحب إلى Roblox"
+  },
+  "errorMinWithdrawal": {
+    "message": "الحد الأدنى لمبلغ السحب هو 4 Robux."
+  },
+  "withdrawalSuccessTitle": {
+    "message": "تم السحب بنجاح"
+  },
+  "withdrawalSuccessMessage": {
+    "message": "يرجى التحقق من <b><u>Robux المعلقة</u></b> و<b><u>بيع السلع</u></b> بعد حوالي 45 ثانية، حيث قد يستغرق الشراء لحظة للظهور."
+  },
+  "viewTransactionsCountdown": {
+    "message": "عرض المعاملات ($1)"
+  },
+  "viewTransactionsButton": {
+    "message": "عرض المعاملات"
+  },
+  "referralProgramTitle": {
+    "message": "ادعُ أصدقاءك"
+  },
+  "yourReferralCodeLabel": {
+    "message": "رمز الدعوة الخاص بك"
+  },
+  "copyButton": {
+    "message": "نسخ"
+  },
+  "copiedButton": {
+    "message": "تم النسخ!"
+  },
+  "totalEarnedLabel": {
+    "message": "إجمالي الأرباح"
+  },
+  "referralsLabel": {
+    "message": "الدعوات"
+  },
+  "referralDescription": {
+    "message": "<span class=\"roearn-referral-highlight\">شارك رمز الدعوة الخاص بك. </span>عندما يقوم شخص ما بتثبيت RoEarn باستخدام الرمز الخاص بك، ستحصل على <b>15 روبوكس على الفور!</b><br><br>أي شخص يستخدم رمز الدعوة الخاص بك سيحصل على <b>5 روبوكس!</b><br><br><b>⚠️ إخلاء المسؤولية:</b> لن تحصل الحسابات البديلة على مكافأة روبوكس."
+  },
+  "backButton": {
+    "message": "← رجوع"
+  },
+  "yourReferralsTitle": {
+    "message": "دعواتك"
+  },
+  "noReferralsMessage": {
+    "message": "لا توجد دعوات بعد. شارك رمزك لبدء الربح!"
+  },
+  "loadingReferralProfiles": {
+    "message": "جاري تحميل ملفات المدعوين..."
+  },
+  "errorAuthFailed": {
+    "message": "فشل المصادقة. تأكد من تسجيل الدخول إلى Roblox."
+  },
+  "errorAuthRetry": {
+    "message": "فشل المصادقة. حاول مرة أخرى."
+  },
+  "errorFetchGames": {
+    "message": "فشل في جلب ألعابك. تأكد من أن لديك لعبة واحدة على الأقل."
+  },
+  "errorFetchGamesRetry": {
+    "message": "فشل في جلب ألعابك. حاول مرة أخرى."
+  },
+  "errorNoGames": {
+    "message": "تحتاج إلى إنشاء لعبة Roblox أولاً قبل استخدام رمز الإحالة."
+  },
+  "errorSecurityToken": {
+    "message": "فشل في الحصول على رمز الأمان. قم بتحديث الصفحة وحاول مرة أخرى."
+  },
+  "errorCreateGamepass": {
+    "message": "فشل في إنشاء تصريح لعبة التحقق. حاول مرة أخرى."
+  },
+  "errorUpdateGamepass": {
+    "message": "فشل في تحديث تفاصيل تصريح اللعبة. حاول مرة أخرى."
+  },
+  "errorFetchGamepasses": {
+    "message": "فشل في جلب تصاريح اللعبة. حاول مرة أخرى."
+  },
+  "errorNoGamepasses": {
+    "message": "لا تتوفر تصاريح لعبة للتحقق. حاول مرة أخرى."
+  },
+  "errorUpdateVerification": {
+    "message": "فشل في تحديث تصريح اللعبة للتحقق. حاول مرة أخرى."
+  },
+  "errorUnexpected": {
+    "message": "حدث خطأ. حاول مرة أخرى."
+  },
+  "cartTitle": {
+    "message": "عربة التسوق ($1)"
+  },
+  "cartEmpty": {
+    "message": "عربة التسوق فارغة"
+  },
+  "cartRemove": {
+    "message": "إزالة"
+  },
+  "cartTotal": {
+    "message": "المجموع: $1 عنصر"
+  },
+  "cartTotalPlural": {
+    "message": "المجموع: $1 عناصر"
+  },
+  "checkoutBulkStep2": {
+    "message": "سيُطلب منك شراء العناصر الخاصة بك داخل اللعبة."
+  },
+  "checkoutBulkStep2Single": {
+    "message": "سيُطلب منك شراء العنصر الخاص بك داخل اللعبة."
+  },
+  "cartTotalLabel": {
+    "message": "المجموع"
+  },
+  "addToCart": {
+    "message": "أضف إلى سلة RoEarn"
+  },
+  "removeFromCart": {
+    "message": "إزالة من سلة RoEarn"
+  },
+  "somethingWentWrong": {
+    "message": "يرجى المحاولة مرة أخرى لسحب أموالك خلال 5 دقائق."
+  },
+  "copyExtensionLink": {
+    "message": "نسخ رابط الإضافة"
+  },
+  "altDetectedText": {
+    "message": "⚠️ حساب مشبوه"
+  },
+  "pendingRobuxNotice": {
+    "message": "لديك X Robux قيد الانتظار. عد للتحقق بعد 2 دقائق."
+  },
+  "tooltipOffSale": {
+    "message": "هذا العنصر غير مؤهل لاسترداد النقود لأن الأصل غير متاح حاليًا للشراء."
+  },
+  "contentCreatorTitle": {
+    "message": "أنشئ مقاطع فيديو واكسب Robux"
+  },
+  "contentCreatorPayout": {
+    "message": "احصل على 300 Robux لكل 1000 مشاهدة على YouTube Shorts"
+  },
+  "contentCreatorDescription": {
+    "message": "يجب أن يعرض الفيديو إضافة RoEarn و<u><b>ميزة الاسترداد النقدي من الكتالوج.</b></u> يرجى التأكد من أن اسم مستخدم Roblox الخاص بك موجود في الوصف."
+  },
+  "contentCreatorContact": {
+    "message": "اتصل بـ creators@roearn.io للمطالبة بـ Robux الخاصة بك"
+  },
+  "contentCreatorLink": {
+    "message": "يتم الدفع مقابل مقاطع الفيديو الطويلة |SPLIT| لكل 1000 مشاهدة"
+  },
+  "withdrawalAgreementTitle": {
+    "message": "كيف تعمل الانسحابات"
+  },
+  "withdrawalAgreementText": {
+    "message": "سندفع لك Robux عن طريق شراء ممر اللعبة الخاص بك. ينشئ RoEarn ممر اللعبة تلقائيًا لك، لذا لا تحتاج إلى فعل أي شيء."
+  },
+  "continueButton": {
+    "message": "متابعة"
+  },
+  "joinDiscordButton": {
+    "message": "انضم إلى Discord"
+  },
+  "notificationTitle": {
+    "message": "تم تحديث رصيد RoEarn"
+  },
+  "notificationText": {
+    "message": "تمت إضافة Robux إلى رصيد RoEarn الخاص بك. يمكنك سحبه الآن!"
+  },
+  "dismissButton": {
+    "message": "إغلاق"
+  },
+  "viewBalanceButton": {
+    "message": "عرض الرصيد"
+  },
+  "now40Text": {
+    "message": "الآن 40 روبوكس لكل دعوة!"
+  },
+  "countdownPrefix": {
+    "message": "اكسب $1 Robux لكل دعوة (ينتهي في "
+  },
+  "countdownDay": {
+    "message": "يوم"
+  },
+  "countdownDays": {
+    "message": "أيام"
+  },
+  "countdownHour": {
+    "message": "ساعة"
+  },
+  "countdownHours": {
+    "message": "ساعات"
+  },
+  "countdownMinute": {
+    "message": "دقيقة"
+  },
+  "countdownMinutes": {
+    "message": "دقائق"
+  },
+  "shareYourInvite": {
+    "message": "🎉 شارك رمز الدعوة الخاص بك واكسب $1 Robux عن كل صديق تجلبه إلى RoEarn.",
+    "description": "Referral prompt text with invite bonus amount"
+  },
+  "playAndEarn_Text": {
+    "message": "العب واكسب مع RoEarn!"
+  },
+  "sponsoredPlacements_Text": {
+    "message": "يتم الترويج للألعاب في هذا القسم عبر RoEarn كجزء من المواضع المدعومة."
+  },
+  "timePlayed_Text": {
+    "message": "وقت اللعب"
+  },
+  "earned_Text": {
+    "message": "المكتسب"
+  },
+  "rate_Text": {
+    "message": "المعدل"
+  },
+  "hour_Text": {
+    "message": "/ساعة"
+  },
+  "tutorialStep1Title_Text": {
+    "message": "اكسب Robux بلعب $1"
+  },
+  "tutorialStep1Body_Text": {
+    "message": "يدفع لك RoEarn 5 Robux عن كل ساعة تقضيها في الألعاب المدعومة. فقط العب واكسب واسحب متى تشاء."
+  },
+  "next_Text": {
+    "message": "التالي"
+  },
+  "trackYourEarningsTitle_Text": {
+    "message": "تتبع أرباحك"
+  },
+  "tutorialStep2Body_Text": {
+    "message": "تعرض هذه اللوحة وقت اللعب و Robux المكتسبة. تكسب 5 Robux في الساعة — أي 1 Robux كل 12 دقيقة، تضاف مباشرة إلى رصيد RoEarn الخاص بك. اسحب في أي وقت على"
+  },
+  "gotIt_Text": {
+    "message": "فهمت"
+  },
+  "shareTextX": {
+    "message": "اكتشفت للتو أنك تستطيع الحصول على استرداد Robux عند شراء الأشياء في Roblox باستخدام RoEarn. إذا جربته، كود الدعوة $1 يمنحك 5 Robux.\n\nاحصل عليه هنا: https://chromewebstore.google.com/detail/roearn-cashback-on-roblox/fooenmopnfaejehogdbmegaleanpdcea?utm_campaign=x\n\n#Robux #Roblox #RoEarn"
+  },
+  "shareTextTelegram": {
+    "message": "اكتشفت للتو أنك تستطيع الحصول على استرداد Robux عند شراء الأشياء في Roblox باستخدام RoEarn. إذا جربته، كود الدعوة $1 يمنحك 5 Robux."
+  },
+  "shareTextReddit": {
+    "message": "احصل على استرداد Robux على مشتريات Roblox باستخدام RoEarn (كود الدعوة $1 يمنحك 5 Robux)"
+  },
+  "shareOnX": {
+    "message": "مشاركة على X"
+  },
+  "shareOnFacebook": {
+    "message": "مشاركة على Facebook"
+  },
+  "shareOnTelegram": {
+    "message": "مشاركة على Telegram"
+  },
+  "shareOnReddit": {
+    "message": "مشاركة على Reddit"
+  },
+  "dashboard_fav_label": {
+    "message": "اكسب بتفضيل الملابس"
+  },
+  "dashboard_fav_desc": {
+    "message": "اكسب Robux بتفضيل عناصر الملابس تلقائياً في الخلفية"
+  },
+  "dashboard_fav_bubble_title": {
+    "message": "قبل تفعيل هذا"
+  },
+  "dashboard_fav_bubble_body": {
+    "message": "سيقوم هذا بتفضيل ملابس 2D تلقائياً عند إصدارها. تكسب <strong style=\"color:#ffffff;\">1 Robux لكل 20 إضافة للمفضلة</strong>، حتى <strong style=\"color:#ffffff;\">24 Robux يومياً</strong> في الخلفية — طالما المتصفح يعمل. تُضاف الأرباح مباشرة إلى رصيد RoEarn."
+  },
+  "dashboard_fav_cancel": {
+    "message": "إلغاء"
+  },
+  "dashboard_fav_agree": {
+    "message": "أوافق"
+  },
+  "dashboard_yt_label": {
+    "message": "اكسب بإنشاء مقاطع فيديو يوتيوب"
+  },
+  "dashboard_yt_desc": {
+    "message": "احصل على أجر"
+  },
+  "dashboard_yt_desc2": {
+    "message": "300 لكل 1,000 مشاهدة على YouTube Shorts"
+  },
+  "dashboard_yt_get_started": {
+    "message": "ابدأ"
+  },
+  "dashboard_subscribe_label": {
+    "message": "اشترك على يوتيوب"
+  },
+  "dashboard_subscribe_desc": {
+    "message": "ابق على اطلاع بأحدث نصائحنا وأخبارنا"
+  },
+  "dashboard_subscribe_btn": {
+    "message": "اشتراك"
+  },
+  "dashboard_other_extensions": {
+    "message": "إضافاتنا الأخرى"
+  },
+  "dashboard_roexport_name": {
+    "message": "RoExport"
+  },
+  "dashboard_roexport_tagline": {
+    "message": "احفظ وأعد رفع ملابس Roblox"
+  },
+  "dashboard_roexport_desc": {
+    "message": "احفظ وأعد رفع أي قميص أو سروال أو تيشيرت على Roblox — بما في ذلك العناصر غير المتاحة. يضيف أزرار <strong style=\"color:$1;\">&ldquo;حفظ القالب&rdquo;</strong> و<strong style=\"color:$1;\">&ldquo;إعادة الرفع&rdquo;</strong>."
+  },
+  "dashboard_roexport_pill1": {
+    "message": "يعمل على العناصر غير المتاحة"
+  },
+  "dashboard_roexport_pill2": {
+    "message": "رفع إلى أي مجموعة"
+  },
+  "dashboard_roexport_pill3": {
+    "message": "لا يلزم اشتراك مميز"
+  },
+  "dashboard_roexport_cta": {
+    "message": "أضف إلى المتصفح"
+  },
+  "dashboard_creator_title": {
+    "message": "أنشئ مقاطع فيديو واكسب Robux"
+  },
+  "dashboard_creator_desc": {
+    "message": "أنشئ مقاطع فيديو عن RoEarn باستخدام طريقة اللعب أو لقطات Roblox. اعرض الإضافة ومكاسبك أو اصنع شرحاً — أي شيء يتضمن RoEarn وRoblox."
+  },
+  "dashboard_creator_shorts": {
+    "message": "YouTube Shorts"
+  },
+  "dashboard_creator_longform": {
+    "message": "فيديو طويل"
+  },
+  "dashboard_creator_per_views": {
+    "message": "لكل 1,000 مشاهدة"
+  },
+  "dashboard_creator_rules": {
+    "message": "القواعد"
+  },
+  "dashboard_creator_rule1": {
+    "message": "يجب أن يكون الفيديو عالي الجودة ومحرراً جيداً"
+  },
+  "dashboard_creator_rule2": {
+    "message": "يجب أن يظهر RoEarn بوضوح للمشاهد"
+  },
+  "dashboard_creator_rule3": {
+    "message": "يجب أن يكون اسم مستخدم Roblox في وصف الفيديو"
+  },
+  "dashboard_creator_tools": {
+    "message": "الأدوات الموصى بها"
+  },
+  "dashboard_capcut_name": {
+    "message": "CapCut"
+  },
+  "dashboard_capcut_desc": {
+    "message": "محرر فيديو مجاني"
+  },
+  "dashboard_snipping_name": {
+    "message": "أداة القص"
+  },
+  "dashboard_snipping_desc": {
+    "message": "تسجيل سريع للشاشة"
+  },
+  "dashboard_submit_title": {
+    "message": "أرسل فيديوك"
+  },
+  "dashboard_submit_desc": {
+    "message": "أرسل لنا رابط الفيديو عبر البريد الإلكتروني لاستلام الدفع — قد يستغرق الرد ما يصل إلى 24 ساعة"
+  },
+  "dashboard_send_email": {
+    "message": "إرسال بريد إلكتروني"
+  },
+  "sidebarNewText": {
+    "message": "جديد"
+  },
+  "s_fav_lock_title": {
+    "message": "🔒 الميزة مقفلة"
+  },
+  "s_fav_lock_body": {
+    "message": "قم بإجراء عملية شراء واحدة باستخدام RoEarn لفتح ميزة المفضلة التلقائية للملابس."
+  },
+  "s_extras_title": {
+    "message": "أرباح إضافية"
+  },
+  "s_your_invites_title": {
+    "message": "دعواتك"
+  },
+  "s_invites_empty": {
+    "message": "ابدأ بدعوة الأشخاص وسيظهرون هنا."
+  },
+  "s_referral_disclaimer": {
+    "message": "⚠️ لن تتلقى الحسابات البديلة مكافأة Robux."
+  },
+  "s_alt_tooltip": {
+    "message": "تم اكتشاف هذا الحساب على أنه مشبوه ولن يتلقى مكافأة Robux."
+  },
+  "yt_submit_btn": {
+    "message": "إرسال"
+  },
+  "yt_view_submissions_btn": {
+    "message": "عرض الإرسالات"
+  },
+  "yt_status_in_review": {
+    "message": "قيد المراجعة"
+  },
+  "yt_status_paid": {
+    "message": "مدفوع"
+  },
+  "yt_status_rejected": {
+    "message": "مرفوض"
+  },
+  "yt_modal_title": {
+    "message": "إرسالاتك"
+  },
+  "yt_stat_total": {
+    "message": "الإجمالي"
+  },
+  "yt_videos_label": {
+    "message": "مقاطع الفيديو"
+  },
+  "yt_no_submissions": {
+    "message": "لا توجد إرسالات بعد."
+  },
+  "yt_input_placeholder": {
+    "message": "الصق رابط فيديو YouTube (مثال: youtube.com/watch?v=...)"
+  },
+  "yt_err_missing_fields": {
+    "message": "يرجى إدخال رابط فيديو YouTube صالح."
+  },
+  "yt_err_invalid_url": {
+    "message": "لا يبدو هذا رابط YouTube صحيحًا."
+  },
+  "yt_err_video_not_found": {
+    "message": "الفيديو غير موجود — تأكد من أنه عام."
+  },
+  "yt_err_fetch_failed": {
+    "message": "تعذّر الوصول إلى YouTube الآن. حاول مرة أخرى."
+  },
+  "yt_err_already_submitted": {
+    "message": "لقد أرسلت هذا الفيديو بالفعل."
+  },
+  "yt_err_db_error": {
+    "message": "خطأ في الخادم. يرجى المحاولة مرة أخرى بعد قليل."
+  },
+  "yt_err_network_error": {
+    "message": "خطأ في الشبكة. تحقق من اتصالك."
+  },
+  "yt_err_internal_error": {
+    "message": "حدث خطأ ما. حاول مرة أخرى لاحقًا."
+  },
+  "yt_err_auth_failed": {
+    "message": "تعذّر التحقق من حساب Roblox الخاص بك."
+  },
+  "yt_err_username_not_in_desc": {
+    "message": "يجب أن يكون اسم مستخدم Roblox الخاص بك ($1) في وصف الفيديو."
+  },
+  "yt_err_insufficient_views": {
+    "message": "يحتاج الفيديو الخاص بك إلى $1 مشاهدة على الأقل للتأهل (حاليًا $2)."
+  },
+  "yt_submit_success": {
+    "message": "تم إرسال الفيديو! سنراجعه في غضون 24 ساعة."
+  },
+  "yt_tooltip_pending": {
+    "message": "الفيديو الخاص بك قيد المراجعة حالياً. قد تستغرق هذه العملية ما يصل إلى 24 ساعة."
+  },
+  "yt_tooltip_approved": {
+    "message": "تمت مراجعة هذا الفيديو وتم صرف Robux."
+  },
+  "yt_tooltip_rejected": {
+    "message": "لم يتبع الفيديو الخاص بك قواعد المبدعين لدينا ولم تتم الموافقة على الدفع."
+  },
+  "dashboard_roexport_installed": {
+    "message": "لديك هذه الإضافة مثبتة بالفعل"
+  },
+  "dashboard_shorts_disclaimer": {
+    "message": "المنشورات منخفضة الجودة التي تقل عن 5,000 مشاهدة ستحصل فقط على 50 روبوكس لكل 1,000 مشاهدة."
+  },
+  "dashboard_submit_agreement_title": {
+    "message": "قبل الإرسال"
+  },
+  "dashboard_submit_agreement_body": {
+    "message": "بإرسال مقطع فيديو، فأنت توافق على أنه مرتبط بـ RoEarn وأن RoEarn يظهر في الفيديو. إرسال مقاطع غير ذات صلة سيؤدي إلى إزالة قدرتك على الإرسال بشكل دائم."
+  },
+  "dashboard_submit_agreement_cancel": {
+    "message": "إلغاء"
+  },
+  "dashboard_submit_agreement_confirm": {
+    "message": "أوافق"
+  },
+  "dashboard_roregion_subtitle": {
+    "message": "اختر موقع خادم Roblox الخاص بك"
+  },
+  "dashboard_roregion_description": {
+    "message": "اختر منطقة خادم Roblox الخاصة بك واتصل بمواقع حول العالم — لتحصل دائمًا على أفضل ping وأكثر تجربة لعب سلاسة. يضيف محدد منطقة مباشرةً في Roblox، مما يتيح لك تصفية الخوادم حسب الموقع بنقرات قليلة."
+  },
+  "dashboard_roregion_tag_nolag": {
+    "message": "بدون تأخير"
+  },
+  "dashboard_roregion_tag_ping": {
+    "message": "بينج جيد"
+  },
+  "dashboard_roregion_tag_gameplay": {
+    "message": "لعب سريع"
+  },
+  "mobileWarningTitle": {
+    "message": "مهم: اكسب استرداد نقدي على مشترياتك"
+  },
+  "mobileWarningBody": {
+    "message": "لكسب استرداد نقدي مع RoEarn، يجب عليك شراء عناصر كتالوج Roblox هنا في متصفحك — وليس في تطبيق Roblox. لا يمكن تتبع المشتريات التي تتم داخل تطبيق Roblox، لذلك لن تتلقى أي استرداد نقدي عليها."
+  },
+  "mobileWarningCatalogBtn": {
+    "message": "تصفح كتالوج Roblox"
+  },
+  "shoppingWarningTitle": {
+    "message": "تم اكتشاف لعبة تسوق الأفاتار"
+  },
+  "shoppingWarningBody": {
+    "message": "هذه لعبة تسوق للأفاتار. إذا اشتريت أي عناصر داخل هذه اللعبة، فلن تحصل على استرداد نقدي عبر RoEarn — سيحصل عليه مالك اللعبة بدلاً منك. لكسب استرداد نقدي، اشتر عناصر كتالوج Roblox على موقع Roblox باستخدام RoEarn."
+  },
+  "shoppingWarningCatalogBtn": {
+    "message": "فهمت — تصفح الكتالوج"
+  },
+  "shoppingWarningDismiss": {
+    "message": "إغلاق"
+  },
+  "creator_snapshot_title": {
+    "message": "يتم تثبيت مشاهداتك عند الإرسال"
+  },
+  "creator_snapshot_body1": {
+    "message": "عدد المشاهدات التي يمتلكها مقطعك <strong>الآن</strong> هو ما ستُدفع مقابله — نأخذ لقطة في لحظة الإرسال."
+  },
+  "creator_snapshot_body2": {
+    "message": "إذا أردت الانتظار لمزيد من المشاهدات، هذا جيد تماماً — عد وأرسل عندما تكون مستعداً للسحب."
+  },
+  "creator_snapshot_not_yet": {
+    "message": "ليس بعد"
+  },
+  "creator_snapshot_submit_now": {
+    "message": "أرسل الآن"
+  },
+  "creator_channel_url_error": {
+    "message": "هذا عنوان URL للقناة — يرجى إرسال رابط للفيديو المحدد."
+  },
+  "creator_quality_guide_btn": {
+    "message": "دليل جودة الفيديو →"
+  },
+  "creator_guide_title": {
+    "message": "كيفية إنشاء فيديو عالي الجودة"
+  },
+  "creator_guide_subtitle": {
+    "message": "أفضل 5 منشئين لدينا يكسبون أكثر من <strong>1,000,000 روبوكس/شهر</strong> — هذا ما يفصل الإرسال الجيد عن المرفوض."
+  },
+  "creator_guide_good_header": {
+    "message": "فيديو عالي الجودة"
+  },
+  "creator_guide_bad_header": {
+    "message": "فيديو منخفض الجودة"
+  },
+  "creator_guide_good1": {
+    "message": "طريقة لعب Roblox مرئية بوضوح طوال الفيديو"
+  },
+  "creator_guide_good2": {
+    "message": "اسم الامتداد يظهر كنص مرئي على الشاشة — وليس مجرد شعار"
+  },
+  "creator_guide_good3": {
+    "message": "تشرح كيفية إيجاد وتثبيت الامتداد على الشاشة"
+  },
+  "creator_guide_good4": {
+    "message": "محتوى مركّز يمكن للمشاهدين متابعته بسهولة"
+  },
+  "creator_guide_good5": {
+    "message": "يشجع المشاهدين على التعليق والإعجاب والتفاعل"
+  },
+  "creator_guide_good6": {
+    "message": "عنوان وصورة مصغرة ووصف قوي لإمكانية الاكتشاف"
+  },
+  "creator_guide_bad1": {
+    "message": "يعرض شعارنا فقط — المشاهدون لا يعرفون كيفية التثبيت"
+  },
+  "creator_guide_bad2": {
+    "message": "رفع نفس الفيديو عدة مرات لجمع المدفوعات"
+  },
+  "creator_guide_bad3": {
+    "message": "تفاعل منخفض — لا تعليقات، إعجابات قليلة، وقت مشاهدة ضعيف"
+  },
+  "creator_guide_bad4": {
+    "message": "اسم الامتداد لم يُعرض أو يُذكر أبداً على الشاشة"
+  },
+  "creator_guide_bad5": {
+    "message": "محتوى غير مرتبط بـ Roblox"
+  },
+  "creator_guide_bad6": {
+    "message": "يبدو نصياً أو غير مرغوب فيه بدون قيمة حقيقية للمشاهدين"
+  },
+  "creator_guide_protip": {
+    "message": "<strong>نصيحة احترافية:</strong> ركّز على صنع فيديو رائع واحد بدلاً من العديد من الفيديوهات منخفضة الجهد. فيديو واحد فيروسي يمكن أن يجلب لك روبوكس أكثر بكثير."
+  },
+  "creator_section_title": {
+    "message": "اربح بإنشاء مقاطع YouTube"
+  },
+  "creator_section_desc": {
+    "message": "كمنشئ محقق يمكنك إنشاء مقاطع والحصول على روبوكس — أرسل مقطعاً يعرض أي امتداد من امتداداتنا."
+  },
+  "creator_stats_header": {
+    "message": "الإحصائيات"
+  },
+  "creator_stat_earned": {
+    "message": "إجمالي الأرباح من الفيديوهات"
+  },
+  "creator_stat_views": {
+    "message": "إجمالي المشاهدات المدفوعة"
+  },
+  "creator_stat_approved": {
+    "message": "الفيديوهات المعتمدة"
+  },
+  "creator_also_make_label": {
+    "message": "أنشئ مقاطع أيضاً لـ"
+  },
+  "creator_optional_badge": {
+    "message": "اختياري"
+  },
+  "creator_primary_ext_desc": {
+    "message": "امتدادك الأساسي هو <strong>RoEarn</strong> — هذه امتدادات مكافأة لتنويع محتواك وكسب المزيد."
+  },
+  "creator_video_requirement": {
+    "message": "<strong>متطلب الفيديو:</strong> يجب أن يُظهر مقطعك الامتداد قيد الاستخدام بوضوح ويعرض اسمه على الشاشة حتى يعرف المشاهدون كيفية إيجاده وتثبيته."
+  },
+  "shareOnWhatsApp": {
+    "message": "مشاركة على واتساب"
+  },
+  "shareTextWhatsApp": {
+    "message": "اكتشفت للتو أنك تستطيع الحصول على استرداد نقدي بـ Robux عند شراء الأشياء في Roblox باستخدام RoEarn. إذا جربته، كود الدعوة $1 يمنحك 5 Robux.\n\nاحصل عليه هنا: https://chromewebstore.google.com/detail/roearn-cashback-on-roblox/fooenmopnfaejehogdbmegaleanpdcea?utm_campaign=whatsapp"
+  },
+  "donate_btn_label": {
+    "message": "تبرع"
+  },
+  "donate_back_to_passes": {
+    "message": "العودة إلى تصاريح اللعبة"
+  },
+  "donate_join_heading": {
+    "message": "انضم للشراء"
+  },
+  "donate_join_sub": {
+    "message": "انضم إلى اللعبة لإتمام عملية الشراء. بمجرد الدخول، ستُطلب منك شراء هذا التصريح."
+  },
+  "donate_join_disclaimer": {
+    "message": "بما أن هذا تبرع، فلن تحصل على استرداد نقدي."
+  },
+  "donate_empty_title": {
+    "message": "لا توجد تصاريح ألعاب متاحة"
+  },
+  "donate_empty_sub": {
+    "message": "لم يُعِدّ هذا اللاعب أي تصاريح ألعاب بعد."
+  },
+  "donate_pass_buy": {
+    "message": "شراء"
+  },
+  "donate_close_label": {
+    "message": "إغلاق"
+  },
+  "donate_notice_text": {
+    "message": "هذه تصاريح ألعاب تخص هذا اللاعب. شراء أي منها يُرسل Robux مباشرةً إلى حسابه."
+  },
+  "donate_tagline": {
+    "message": "اشترِ تصريح لعبة من @$1 وستذهب Robux مباشرةً إليهم."
+  },
+  "donate_search_title": {
+    "message": "تبرع للاعب"
+  },
+  "donate_tab_search": {
+    "message": "بحث"
+  },
+  "donate_tab_friends": {
+    "message": "الأصدقاء"
+  },
+  "donate_search_placeholder": {
+    "message": "البحث باسم المستخدم…"
+  },
+  "donate_friends_filter_placeholder": {
+    "message": "تصفية الأصدقاء…"
+  },
+  "donate_search_hint": {
+    "message": "اكتب اسم مستخدم للعثور على لاعب"
+  },
+  "donate_friends_login": {
+    "message": "سجّل دخولك إلى Roblox لرؤية أصدقائك"
+  },
+  "donate_friends_empty": {
+    "message": "ليس لديك أصدقاء بعد"
+  },
+  "donate_friends_none": {
+    "message": "لم يُعثر على أصدقاء"
+  },
+  "donate_search_failed": {
+    "message": "فشل البحث. يرجى المحاولة مرة أخرى."
+  },
+  "donate_search_no_results": {
+    "message": "لم يُعثر على لاعبين لـ \"$1\""
+  },
+  "donate_search_error": {
+    "message": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+  },
+  "cartLimitTitle": {
+    "message": "تم بلوغ حد العربة (الحد الأقصى $1 عنصر نشط)"
+  },
+  "cartLimitBody": {
+    "message": "يسمح Roblox بـ $1 عناصر فقط لكل عملية شراء. يمكنك تعطيل العناصر لحفظها لاحقاً."
+  },
+  "cartLimitTitleRecheck": {
+    "message": "تم بلوغ حد العناصر النشطة (الحد الأقصى $1)"
+  },
+  "cartLimitBodyRecheck": {
+    "message": "يمكنك امتلاك $1 عناصر نشطة فقط في وقت واحد. عطّل عنصراً آخر أولاً."
+  },
+  "wm_popup_subtitle": {
+    "message": "يجب أن تتضمنه كل عملية إرسال فيديو — مرئي من البداية إلى النهاية، بدون استثناءات."
+  },
+  "wm_example_label": {
+    "message": "مثال"
+  },
+  "wm_how_it_should_look": {
+    "message": "كيف يجب أن يبدو"
+  },
+  "wm_requirements_label": {
+    "message": "المتطلبات"
+  },
+  "wm_req1": {
+    "message": "يجب أن يكون العلامة المائية <strong>مرئية طوال الفيديو</strong> — من الإطار الأول إلى الأخير."
+  },
+  "wm_req2": {
+    "message": "يجب أن تكون <strong>سهلة القراءة والرؤية</strong> — غير مخفية أو باهتة أو مقطوعة من الشاشة."
+  },
+  "wm_req3": {
+    "message": "العلامة المائية وحدها <strong>ليست اختصارًا</strong> — يجب أن يُظهر فيديوك الامتداد ويشرحه أيضًا."
+  },
+  "wm_download_label": {
+    "message": "تنزيل العلامة المائية"
+  },
+  "wm_save_desc": {
+    "message": "احفظ صورة العلامة المائية وأضفها إلى فيديوك باستخدام أي محرر."
+  },
+  "wm_save_btn": {
+    "message": "حفظ العلامة المائية"
+  },
+  "wm_intro_title": {
+    "message": "جديد: علامة مائية لفيديو RoEarn"
+  },
+  "wm_intro_subtitle": {
+    "message": "نطلب الآن علامة مائية في كل إرسال فيديو. إليك كل ما تحتاج لمعرفته."
+  },
+  "wm_intro_what_to_do": {
+    "message": "ما تحتاج إلى فعله"
+  },
+  "wm_intro_req1": {
+    "message": "قم بتضمين علامة RoEarn المائية في <strong>كل فيديو</strong> ترسله."
+  },
+  "wm_intro_req2": {
+    "message": "يجب أن تكون <strong>مرئية طوال الفيديو</strong> — من الإطار الأول إلى الأخير، سهلة الرؤية والقراءة."
+  },
+  "wm_intro_rejected": {
+    "message": "سيتم رفض مقاطع الفيديو المرسلة <strong>بدون</strong> علامة مائية."
+  },
+  "wm_rejection_title": {
+    "message": "تم رفض فيديوك"
+  },
+  "wm_rejection_body": {
+    "message": "هذا يعني أن إرسالك لم يستوفِ معايير الجودة لدينا أو متطلبات العلامة المائية. يرجى مراجعة القواعد قبل الإرسال مرة أخرى — اتباعها بعناية هو أفضل طريقة للحصول على الموافقة."
+  },
+  "wm_rejection_btn": {
+    "message": "عرض متطلبات العلامة المائية"
+  },
+  "wm_tooltip_watermark_rule": {
+    "message": "يجب أن تكون العلامة المائية مرئية طوال الفيديو"
+  },
+  "wm_save_btn_view": {
+    "message": "عرض العلامة المائية"
+  },
+  "wm_dismiss_btn": {
+    "message": "إغلاق"
+  },
+  "wm_disclaimer": {
+    "message": "ستحصل Shorts منخفضة الجودة بأقل من 5,000 مشاهدة على 50 Robux فقط لكل 1,000 مشاهدة."
+  },
+  "wm_watermark_notice": {
+    "message": "هل يتضمن الفيديو الخاص بك العلامة المائية لـ RoEarn؟ إذا لم يكن كذلك، سيتم رفضه."
+  },
+  "creator_rule1": {
+    "message": "يجب أن يكون الفيديو <strong>متعلقًا بـ Roblox</strong> — لن يتم قبول المحتوى غير المرتبط بـ Roblox."
+  },
+  "creator_rule2": {
+    "message": "يجب أن يكون الفيديو <strong>عالي الجودة ومعدلاً بشكل جيد</strong> — اجعل محتواك مميزًا."
+  },
+  "creator_rule3": {
+    "message": "يجب أن يكون RoEarn <strong>معروضًا بوضوح في الفيديو</strong> — يجب أن يتمكن المشاهدون من رؤيته وفهمه."
+  },
+  "creator_rule4": {
+    "message": "يجب أن تكون <strong>العلامة المائية لـ RoEarn في الفيديو من البداية إلى النهاية</strong> — يجب أن تبقى على الشاشة طوال الوقت."
+  },
+  "submit_err_missing_fields": {
+    "message": "الرجاء لصق رابط الفيديو أولاً."
+  },
+  "submit_err_not_a_video_url": {
+    "message": "لا يبدو هذا رابط YouTube أو TikTok. تأكد من أنه رابط فيديو."
+  },
+  "submit_err_youtube_channel_url": {
+    "message": "يبدو هذا رابط قناة YouTube، وليس فيديو. الصق رابطاً لفيديو محدد (مثال: youtube.com/watch?v=...)."
+  },
+  "submit_err_tiktok_profile_url": {
+    "message": "يبدو هذا رابط ملف شخصي على TikTok، وليس فيديو. الصق رابطاً لفيديو محدد (مثال: tiktok.com/@user/video/...)."
+  },
+  "submit_err_tiktok_no_video_id": {
+    "message": "تعذّر العثور على الفيديو أو الصورة في رابط TikTok هذا. الصق رابطاً لفيديو أو منشور صورة محدد (مثال: tiktok.com/@user/video/... أو tiktok.com/@user/photo/...)."
+  },
+  "submit_err_invalid_url_yt": {
+    "message": "لا يبدو هذا رابط فيديو YouTube صالح."
+  },
+  "submit_err_invalid_url_tt": {
+    "message": "لا يبدو هذا رابط فيديو TikTok صالح."
+  },
+  "submit_err_invalid_url": {
+    "message": "رابط الفيديو غير صالح."
+  },
+  "submit_err_video_not_found_yt": {
+    "message": "لم يُعثر على فيديو YouTube هذا. تأكد من أنه عام وأن الرابط صحيح."
+  },
+  "submit_err_video_not_found_tt": {
+    "message": "لم يُعثر على فيديو TikTok هذا. تأكد من أنه عام وأن الرابط صحيح."
+  },
+  "submit_err_video_not_found": {
+    "message": "لم يُعثر على الفيديو."
+  },
+  "submit_err_yt_fetch_failed": {
+    "message": "تعذّر تحميل فيديو YouTube هذا الآن. حاول مرة أخرى بعد لحظة."
+  },
+  "submit_err_tt_fetch_failed": {
+    "message": "تعذّر تحميل فيديو TikTok هذا الآن. حاول مرة أخرى بعد لحظة."
+  },
+  "submit_err_username_not_in_desc_yt": {
+    "message": "يجب أن يظهر اسم مستخدم Roblox الخاص بك ($1) في عنوان أو وصف فيديو YouTube."
+  },
+  "submit_err_username_not_in_desc_tt": {
+    "message": "يجب أن يظهر اسم مستخدم Roblox الخاص بك ($1) في عنوان TikTok. (عدّل منشورك لتضمين اسم المستخدم في العنوان)"
+  },
+  "submit_err_username_not_in_desc": {
+    "message": "يجب أن يظهر اسم مستخدم Roblox الخاص بك في الفيديو."
+  },
+  "submit_err_insufficient_views": {
+    "message": "يحتاج الفيديو الخاص بك إلى $1 مشاهدة على الأقل للتأهل. يمتلك حالياً $2."
+  },
+  "submit_err_already_submitted_yt": {
+    "message": "تم إرسال فيديو YouTube هذا بالفعل."
+  },
+  "submit_err_already_submitted_tt": {
+    "message": "تم إرسال فيديو TikTok هذا بالفعل."
+  },
+  "submit_err_already_submitted": {
+    "message": "تم إرسال هذا الفيديو بالفعل."
+  },
+  "submit_err_db_error": {
+    "message": "حدث خطأ في الخادم. يرجى المحاولة مرة أخرى."
+  },
+  "submit_err_network_error": {
+    "message": "تعذّر الوصول إلى الخادم. تحقق من اتصالك وحاول مرة أخرى."
+  },
+  "submit_err_auth_failed": {
+    "message": "تعذّر التحقق من حساب Roblox الخاص بك. يرجى تحديث الصفحة والمحاولة مرة أخرى."
+  },
+  "submit_err_default": {
+    "message": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+  },
+  "wm_rejection_dismiss_btn": {
+    "message": "تجاهل"
+  },
+  "donate_recent_label": {
+    "message": "الأخيرون"
+  },
+  "plus_subscribed_title": {
+    "message": "🎉 أنت تراكم المدخرات!"
+  },
+  "plus_unsubscribed_title": {
+    "message": "💰 ضاعف كل Robux تنفقه"
+  },
+  "plus_body_copy": {
+    "message": "يمنحك Roblox Plus خصماً 10–20% على المشتريات — ويمنحك RoEarn استرداداً نقدياً فوق ذلك. يُكمل كل منهما الآخر، فكلما وفّرت مع Plus، زاد الاسترداد الذي تحصل عليه مع RoEarn."
+  },
+  "plus_subscribe_btn": {
+    "message": "اشترك مع RoEarn (احصل على $1)"
+  },
+  "creator_earn_title": {
+    "message": "اكسب من خلال إنشاء الفيديوهات"
+  },
+  "creator_url_placeholder": {
+    "message": "الصق رابط فيديو TikTok أو YouTube.."
+  },
+  "creator_rate_shorts_label": {
+    "message": "YouTube Shorts & TikTok"
+  },
+  "creator_rate_longform_label": {
+    "message": "فيديو YouTube طويل"
+  },
+  "creator_rule1_full": {
+    "message": "يجب أن يكون الفيديو مركزاً على <strong>محتوى Roblox</strong>، مثل الجيمبلاي أو موقع Roblox."
+  },
+  "creator_rule2_full": {
+    "message": "يجب أن يكون الفيديو <strong>عالي الجودة ومحرراً بشكل جيد وواضحاً</strong> للمشاهدة."
+  },
+  "creator_rule3_full": {
+    "message": "يجب أن تكون <strong>إضافة RoEarn ظاهرة بوضوح</strong>، مستخدمة أو مذكورة في فيديوك."
+  },
+  "creator_rule4_full": {
+    "message": "يجب أن تظل <strong>العلامة المائية الرسمية لـ RoEarn مرئية</strong> على الشاشة من البداية إلى النهاية."
+  },
+  "creator_earn_subtitle_pre": {
+    "message": "احصل على"
+  },
+  "creator_earn_subtitle_post": {
+    "message": "300 لكل 1,000 مشاهدة على TikTok & YouTube Shorts"
+  }
+}

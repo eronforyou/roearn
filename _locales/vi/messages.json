@@ -1,0 +1,1080 @@
+{
+  "extName": {
+    "message": "RoEarn: Hoàn tiền cho mua hàng Roblox"
+  },
+  "extDescription": {
+    "message": "Nhận Robux hoàn tiền cho mọi giao dịch mua trên Roblox!"
+  },
+  "extActionTitle": {
+    "message": "Mở Bảng Điều Khiển RoEarn"
+  },
+  "badgeEarn": {
+    "message": "Nhận"
+  },
+  "buy": {
+    "message": "Mua"
+  },
+  "ineligible": {
+    "message": "Không đủ điều kiện"
+  },
+  "successPopupTitle": {
+    "message": "Mua Hàng Hoàn Tất"
+  },
+  "successPopupMessage": {
+    "message": "Bạn đã mua thành công $1 với giá $2."
+  },
+  "successPopupCashback": {
+    "message": "$1 đã được thêm vào số dư RoEarn của bạn."
+  },
+  "successPopupBalanceBtn": {
+    "message": "Số Dư"
+  },
+  "successPopupCustomizeBtn": {
+    "message": "Tùy Chỉnh"
+  },
+  "successPopupContinueBtn": {
+    "message": "Tiếp Tục"
+  },
+  "notEligibleForCashback": {
+    "message": "Không Đủ Điều Kiện Hoàn Tiền"
+  },
+  "tooltipRobloxLimited": {
+    "message": "Limited do Roblox tạo không đủ điều kiện hoàn tiền."
+  },
+  "tooltipNotInGame": {
+    "message": "Vật phẩm này không đủ điều kiện vì không thể mua trong game."
+  },
+  "tooltipPriceTooLow": {
+    "message": "Giá quá thấp để hoàn tiền. Giá tối thiểu là $1 Robux."
+  },
+  "catalogBuyBtn": {
+    "message": "Mua với RoEarn (Nhận $1)"
+  },
+  "tooltipGamepassMinPrice": {
+    "message": "Giá gamepass phải cao hơn 40 Robux để đủ điều kiện nhận hoàn tiền."
+  },
+  "gamepassBuyBtn": {
+    "message": "Mua (Nhận $1)"
+  },
+  "tooltipGamepassMinPriceShort": {
+    "message": "Giá gamepass phải cao hơn 40 Robux để đủ điều kiện nhận hoàn tiền."
+  },
+  "earnAmount": {
+    "message": "(Nhận $1)"
+  },
+  "errorDiscordSupport": {
+    "message": "Lỗi $1: Tham gia Discord của chúng tôi: <a href=\"https://discord.gg/roearnsupport\" target=\"_blank\">discord.gg/roearnsupport</a>"
+  },
+  "roEarnBalance": {
+    "message": "Số Dư RoEarn: $1 Robux"
+  },
+  "roEarnBalanceLoading": {
+    "message": "Số Dư RoEarn: Đang tải..."
+  },
+  "reviewPromptText": {
+    "message": "RoEarn hoạt động tốt? Để lại đánh giá!"
+  },
+  "checkoutPageTitle": {
+    "message": "Thanh Toán RoEarn"
+  },
+  "checkoutTitle": {
+    "message": "Hoàn Tất Mua Hàng"
+  },
+  "checkoutSubtitle": {
+    "message": "Nhận hoàn tiền cho giao dịch Roblox của bạn"
+  },
+  "checkoutSaveBadge": {
+    "message": "Tiết Kiệm $1 Robux!"
+  },
+  "checkoutHowItWorks": {
+    "message": "Cách Hoạt Động"
+  },
+  "checkoutStep1": {
+    "message": "Tham gia hub RoEarn bằng nút chơi bên dưới."
+  },
+  "checkoutStep2": {
+    "message": "Bạn sẽ được yêu cầu mua $1 trong game."
+  },
+  "checkoutStep3": {
+    "message": "Hoàn tiền $1 của bạn sẽ được ghi có ngay lập tức vào số dư RoEarn."
+  },
+  "checkoutAutoJoin": {
+    "message": "Luôn tự động tham gia hub RoEarn"
+  },
+  "dashboardPageTitle": {
+    "message": "Bảng Điều Khiển RoEarn"
+  },
+  "dashboardTitle": {
+    "message": "Bảng Điều Khiển RoEarn"
+  },
+  "dashboardSubtitle": {
+    "message": "Quản lý thu nhập và lời mời của bạn"
+  },
+  "welcomeTitle": {
+    "message": "Chào Mừng Đến RoEarn"
+  },
+  "welcomeSubtitle": {
+    "message": "Video hướng dẫn nhanh để bắt đầu"
+  },
+  "referralEntryTitle": {
+    "message": "Ai đó đã mời bạn đến RoEarn?"
+  },
+  "referralEntryDescription": {
+    "message": "Nhập mã của họ và cả hai sẽ nhận được hoàn tiền thêm!"
+  },
+  "referralInputPlaceholder": {
+    "message": "Nhập mã mời"
+  },
+  "optionalLabel": {
+    "message": "(TÙY CHỌN)"
+  },
+  "startButton": {
+    "message": "Bắt đầu sử dụng RoEarn"
+  },
+  "loadingText": {
+    "message": "Đang tải..."
+  },
+  "errorInvalidReferralCode": {
+    "message": "Mã mời không hợp lệ"
+  },
+  "errorOwnReferralCode": {
+    "message": "Bạn không thể sử dụng mã mời của chính mình"
+  },
+  "errorSetReferralFailed": {
+    "message": "Không thể đặt lời mời. "
+  },
+  "errorReferralAlreadyUsed": {
+    "message": "Bạn đã sử dụng mã mời."
+  },
+  "errorInvalidReferralCodeRetry": {
+    "message": "Mã không hợp lệ. Kiểm tra và thử lại."
+  },
+  "errorVerificationFailed": {
+    "message": "Xác minh thất bại. Thử lại."
+  },
+  "errorPleaseTryAgain": {
+    "message": "Thử lại."
+  },
+  "bonusAddedText": {
+    "message": "5 Robux đã được thêm vào số dư RoEarn của bạn!"
+  },
+  "yourBalanceLabel": {
+    "message": "Số Dư RoEarn Của Bạn"
+  },
+  "withdrawButton": {
+    "message": "Rút về Roblox"
+  },
+  "errorMinWithdrawal": {
+    "message": "Số tiền rút tối thiểu là 4 Robux."
+  },
+  "withdrawalSuccessTitle": {
+    "message": "Rút Tiền Thành Công"
+  },
+  "withdrawalSuccessMessage": {
+    "message": "Vui lòng kiểm tra <b><u>Robux Đang chờ</u></b> và <b><u>Bán hàng hóa</u></b> của bạn sau khoảng 45 giây, vì giao dịch mua có thể mất một chút thời gian để xuất hiện."
+  },
+  "viewTransactionsCountdown": {
+    "message": "Xem Giao Dịch ($1)"
+  },
+  "viewTransactionsButton": {
+    "message": "Xem Giao Dịch"
+  },
+  "referralProgramTitle": {
+    "message": "Mời Bạn Bè"
+  },
+  "yourReferralCodeLabel": {
+    "message": "Mã Mời Của Bạn"
+  },
+  "copyButton": {
+    "message": "Sao Chép"
+  },
+  "copiedButton": {
+    "message": "Đã Sao Chép!"
+  },
+  "totalEarnedLabel": {
+    "message": "Tổng Thu Nhập"
+  },
+  "referralsLabel": {
+    "message": "Lời mời"
+  },
+  "referralDescription": {
+    "message": "<span class=\"roearn-referral-highlight\">Chia sẻ mã mời của bạn. </span>Khi ai đó cài đặt RoEarn bằng mã của bạn, bạn kiếm được <b>15 Robux ngay lập tức!</b><br><br>Bất kỳ ai sử dụng mã mời của bạn sẽ nhận được <b>5 Robux!</b><br><br><b>⚠️ Tuyên bố miễn trừ trách nhiệm:</b> Các tài khoản thay thế sẽ không nhận được phần thưởng Robux."
+  },
+  "backButton": {
+    "message": "← Quay Lại"
+  },
+  "yourReferralsTitle": {
+    "message": "Lời Mời Của Bạn"
+  },
+  "noReferralsMessage": {
+    "message": "Chưa có lời mời. Chia sẻ mã để bắt đầu kiếm tiền!"
+  },
+  "loadingReferralProfiles": {
+    "message": "Đang tải hồ sơ được mời..."
+  },
+  "errorAuthFailed": {
+    "message": "Xác thực thất bại. Đảm bảo bạn đã đăng nhập Roblox."
+  },
+  "errorAuthRetry": {
+    "message": "Xác thực thất bại. Thử lại."
+  },
+  "errorFetchGames": {
+    "message": "Không thể tải game. Đảm bảo bạn có ít nhất một game."
+  },
+  "errorFetchGamesRetry": {
+    "message": "Không thể tải game. Thử lại."
+  },
+  "errorNoGames": {
+    "message": "Bạn cần tạo game Roblox trước khi sử dụng mã giới thiệu."
+  },
+  "errorSecurityToken": {
+    "message": "Không thể lấy token bảo mật. Làm mới trang và thử lại."
+  },
+  "errorCreateGamepass": {
+    "message": "Không thể tạo gamepass xác minh. Thử lại."
+  },
+  "errorUpdateGamepass": {
+    "message": "Không thể cập nhật chi tiết gamepass. Thử lại."
+  },
+  "errorFetchGamepasses": {
+    "message": "Không thể tải gamepasses. Thử lại."
+  },
+  "errorNoGamepasses": {
+    "message": "Không có gamepass để xác minh. Thử lại."
+  },
+  "errorUpdateVerification": {
+    "message": "Không thể cập nhật gamepass để xác minh. Thử lại."
+  },
+  "errorUnexpected": {
+    "message": "Đã xảy ra lỗi. Thử lại."
+  },
+  "cartTitle": {
+    "message": "Giỏ Hàng ($1)"
+  },
+  "cartEmpty": {
+    "message": "Giỏ hàng của bạn trống"
+  },
+  "cartRemove": {
+    "message": "Xóa"
+  },
+  "cartTotal": {
+    "message": "Tổng: $1 mục"
+  },
+  "cartTotalPlural": {
+    "message": "Tổng: $1 mục"
+  },
+  "checkoutBulkStep2": {
+    "message": "Bạn sẽ được yêu cầu mua các mục của bạn trong trò chơi."
+  },
+  "checkoutBulkStep2Single": {
+    "message": "Bạn sẽ được yêu cầu mua mục của bạn trong trò chơi."
+  },
+  "cartTotalLabel": {
+    "message": "Tổng"
+  },
+  "addToCart": {
+    "message": "Thêm vào Giỏ Hàng RoEarn"
+  },
+  "removeFromCart": {
+    "message": "Xóa khỏi Giỏ Hàng RoEarn"
+  },
+  "somethingWentWrong": {
+    "message": "Vui lòng thử lại việc rút tiền của bạn sau 5 phút."
+  },
+  "copyExtensionLink": {
+    "message": "Sao chép liên kết tiện ích"
+  },
+  "altDetectedText": {
+    "message": "⚠️ Tài khoản đáng ngờ"
+  },
+  "pendingRobuxNotice": {
+    "message": "Bạn có X Robux đang chờ. Quay lại kiểm tra sau 2 phút."
+  },
+  "tooltipOffSale": {
+    "message": "Mặt hàng này không đủ điều kiện nhận hoàn tiền vì bản gốc hiện không có sẵn để mua."
+  },
+  "contentCreatorTitle": {
+    "message": "Tạo video và kiếm Robux"
+  },
+  "contentCreatorPayout": {
+    "message": "Nhận 300 Robux cho mỗi 1.000 lượt xem trên YouTube Shorts"
+  },
+  "contentCreatorDescription": {
+    "message": "Video phải trình bày tiện ích RoEarn và <u><b>tính năng hoàn tiền từ danh mục.</b></u> Hãy đảm bảo rằng tên người dùng Roblox của bạn nằm trong mô tả."
+  },
+  "contentCreatorContact": {
+    "message": "Liên hệ creators@roearn.io để nhận Robux của bạn"
+  },
+  "contentCreatorLink": {
+    "message": "Video dài được trả |SPLIT| cho mỗi 1.000 lượt xem"
+  },
+  "withdrawalAgreementTitle": {
+    "message": "Cách Hoạt Động Của Rút Tiền"
+  },
+  "withdrawalAgreementText": {
+    "message": "Chúng tôi sẽ trả cho bạn Robux bằng cách mua gamepass của bạn. RoEarn tự động tạo gamepass cho bạn, vì vậy bạn không cần phải làm gì cả."
+  },
+  "continueButton": {
+    "message": "Tiếp Tục"
+  },
+  "joinDiscordButton": {
+    "message": "Tham gia Discord"
+  },
+  "notificationTitle": {
+    "message": "Số dư RoEarn đã cập nhật"
+  },
+  "notificationText": {
+    "message": "Robux đã được thêm vào số dư RoEarn của bạn. Bạn có thể rút ngay bây giờ!"
+  },
+  "dismissButton": {
+    "message": "Đóng"
+  },
+  "viewBalanceButton": {
+    "message": "Xem số dư"
+  },
+  "now40Text": {
+    "message": "Bây giờ 40 Robux mỗi lời mời!"
+  },
+  "countdownPrefix": {
+    "message": "Kiếm $1 Robux mỗi lời mời (Kết thúc sau "
+  },
+  "countdownDay": {
+    "message": "ngày"
+  },
+  "countdownDays": {
+    "message": "ngày"
+  },
+  "countdownHour": {
+    "message": "giờ"
+  },
+  "countdownHours": {
+    "message": "giờ"
+  },
+  "countdownMinute": {
+    "message": "phút"
+  },
+  "countdownMinutes": {
+    "message": "phút"
+  },
+  "shareYourInvite": {
+    "message": "🎉 Chia sẻ mã mời của bạn và kiếm $1 Robux cho mỗi người bạn bạn mang đến RoEarn.",
+    "description": "Referral prompt text with invite bonus amount"
+  },
+  "playAndEarn_Text": {
+    "message": "Chơi và Kiếm tiền với RoEarn!"
+  },
+  "sponsoredPlacements_Text": {
+    "message": "Các trò chơi trong phần này được quảng bá qua RoEarn như một phần của các vị trí được tài trợ."
+  },
+  "timePlayed_Text": {
+    "message": "Thời Gian Chơi"
+  },
+  "earned_Text": {
+    "message": "Đã Kiếm"
+  },
+  "rate_Text": {
+    "message": "Tỷ Lệ"
+  },
+  "hour_Text": {
+    "message": "/giờ"
+  },
+  "tutorialStep1Title_Text": {
+    "message": "Kiếm Robux bằng cách chơi $1"
+  },
+  "tutorialStep1Body_Text": {
+    "message": "RoEarn trả cho bạn 5 Robux cho mỗi giờ bạn chơi trong các trò chơi được tài trợ. Chỉ cần chơi, kiếm và rút tiền bất cứ lúc nào bạn muốn."
+  },
+  "next_Text": {
+    "message": "Tiếp theo"
+  },
+  "trackYourEarningsTitle_Text": {
+    "message": "Theo dõi thu nhập của bạn"
+  },
+  "tutorialStep2Body_Text": {
+    "message": "Bảng này hiển thị thời gian chơi và Robux bạn đã kiếm được. Bạn kiếm được 5 Robux mỗi giờ — tức là 1 Robux mỗi 12 phút, được cộng trực tiếp vào số dư RoEarn của bạn. Rút tiền bất cứ lúc nào tại"
+  },
+  "gotIt_Text": {
+    "message": "Đã hiểu"
+  },
+  "shareTextX": {
+    "message": "Vừa biết rằng bạn có thể nhận cashback Robux khi mua đồ trên Roblox bằng RoEarn. Nếu thử, mã mời $1 tặng 5 Robux.\n\nTải tại đây: https://chromewebstore.google.com/detail/roearn-cashback-on-roblox/fooenmopnfaejehogdbmegaleanpdcea?utm_campaign=x\n\n#Robux #Roblox #RoEarn"
+  },
+  "shareTextTelegram": {
+    "message": "Vừa biết rằng bạn có thể nhận cashback Robux khi mua đồ trên Roblox bằng RoEarn. Nếu thử, mã mời $1 tặng 5 Robux."
+  },
+  "shareTextReddit": {
+    "message": "Nhận cashback Robux khi mua đồ trên Roblox bằng RoEarn (mã mời $1 tặng 5 Robux)"
+  },
+  "shareOnX": {
+    "message": "Chia sẻ trên X"
+  },
+  "shareOnFacebook": {
+    "message": "Chia sẻ trên Facebook"
+  },
+  "shareOnTelegram": {
+    "message": "Chia sẻ trên Telegram"
+  },
+  "shareOnReddit": {
+    "message": "Chia sẻ trên Reddit"
+  },
+  "dashboard_fav_label": {
+    "message": "Kiếm tiền bằng cách yêu thích trang phục"
+  },
+  "dashboard_fav_desc": {
+    "message": "Kiếm Robux bằng cách tự động yêu thích trang phục ở nền"
+  },
+  "dashboard_fav_bubble_title": {
+    "message": "Trước khi bật tính năng này"
+  },
+  "dashboard_fav_bubble_body": {
+    "message": "Điều này sẽ tự động yêu thích các trang phục 2D khi chúng ra mắt. Bạn kiếm <strong style=\"color:#ffffff;\">1 Robux mỗi 20 lượt yêu thích</strong>, tối đa <strong style=\"color:#ffffff;\">24 Robux mỗi ngày</strong> ở nền — miễn là trình duyệt đang chạy. Thu nhập được cộng trực tiếp vào số dư RoEarn của bạn."
+  },
+  "dashboard_fav_cancel": {
+    "message": "Hủy"
+  },
+  "dashboard_fav_agree": {
+    "message": "Đồng ý"
+  },
+  "dashboard_yt_label": {
+    "message": "Kiếm tiền bằng cách tạo video YouTube"
+  },
+  "dashboard_yt_desc": {
+    "message": "Nhận thanh toán"
+  },
+  "dashboard_yt_desc2": {
+    "message": "300 mỗi 1.000 lượt xem trên YouTube Shorts"
+  },
+  "dashboard_yt_get_started": {
+    "message": "Bắt đầu"
+  },
+  "dashboard_subscribe_label": {
+    "message": "Đăng ký trên YouTube"
+  },
+  "dashboard_subscribe_desc": {
+    "message": "Cập nhật các mẹo và tin tức mới nhất của chúng tôi"
+  },
+  "dashboard_subscribe_btn": {
+    "message": "Đăng ký"
+  },
+  "dashboard_other_extensions": {
+    "message": "Các tiện ích mở rộng khác của chúng tôi"
+  },
+  "dashboard_roexport_name": {
+    "message": "RoExport"
+  },
+  "dashboard_roexport_tagline": {
+    "message": "Lưu và tải lại trang phục Roblox"
+  },
+  "dashboard_roexport_desc": {
+    "message": "Lưu và tải lại bất kỳ áo, quần hoặc áo phông nào trên Roblox — kể cả các vật phẩm đã ngừng bán. Thêm nút <strong style=\"color:$1;\">&ldquo;Lưu mẫu&rdquo;</strong> và <strong style=\"color:$1;\">&ldquo;Tải lại&rdquo;</strong>."
+  },
+  "dashboard_roexport_pill1": {
+    "message": "Hoạt động với vật phẩm ngừng bán"
+  },
+  "dashboard_roexport_pill2": {
+    "message": "Tải lên bất kỳ nhóm nào"
+  },
+  "dashboard_roexport_pill3": {
+    "message": "Không cần premium"
+  },
+  "dashboard_roexport_cta": {
+    "message": "Thêm vào trình duyệt"
+  },
+  "dashboard_creator_title": {
+    "message": "Tạo video và kiếm Robux"
+  },
+  "dashboard_creator_desc": {
+    "message": "Tạo video về RoEarn sử dụng gameplay hoặc cảnh quay Roblox. Trình bày tiện ích, thu nhập của bạn, hoặc làm hướng dẫn — bất cứ điều gì liên quan đến RoEarn và Roblox."
+  },
+  "dashboard_creator_shorts": {
+    "message": "YouTube Shorts"
+  },
+  "dashboard_creator_longform": {
+    "message": "Video dài"
+  },
+  "dashboard_creator_per_views": {
+    "message": "mỗi 1.000 lượt xem"
+  },
+  "dashboard_creator_rules": {
+    "message": "Quy tắc"
+  },
+  "dashboard_creator_rule1": {
+    "message": "Video phải chất lượng cao và được chỉnh sửa tốt"
+  },
+  "dashboard_creator_rule2": {
+    "message": "RoEarn phải hiển thị rõ ràng cho người xem"
+  },
+  "dashboard_creator_rule3": {
+    "message": "Tên người dùng Roblox của bạn phải có trong mô tả video"
+  },
+  "dashboard_creator_tools": {
+    "message": "Công cụ được đề xuất"
+  },
+  "dashboard_capcut_name": {
+    "message": "CapCut"
+  },
+  "dashboard_capcut_desc": {
+    "message": "Trình chỉnh sửa video miễn phí"
+  },
+  "dashboard_snipping_name": {
+    "message": "Snipping Tool"
+  },
+  "dashboard_snipping_desc": {
+    "message": "Quay màn hình nhanh"
+  },
+  "dashboard_submit_title": {
+    "message": "Gửi video của bạn"
+  },
+  "dashboard_submit_desc": {
+    "message": "Gửi email cho chúng tôi liên kết video của bạn để nhận thanh toán — chúng tôi có thể mất tới 24 giờ để phản hồi"
+  },
+  "dashboard_send_email": {
+    "message": "Gửi email"
+  },
+  "sidebarNewText": {
+    "message": "Mới"
+  },
+  "s_fav_lock_title": {
+    "message": "🔒 Tính năng bị khóa"
+  },
+  "s_fav_lock_body": {
+    "message": "Thực hiện 1 giao dịch mua bằng RoEarn để mở khóa tính năng yêu thích quần áo tự động."
+  },
+  "s_extras_title": {
+    "message": "Thu nhập thưởng"
+  },
+  "s_your_invites_title": {
+    "message": "Lời mời của bạn"
+  },
+  "s_invites_empty": {
+    "message": "Bắt đầu mời mọi người và họ sẽ xuất hiện ở đây."
+  },
+  "s_referral_disclaimer": {
+    "message": "⚠️ Tài khoản thay thế sẽ không nhận được phần thưởng Robux."
+  },
+  "s_alt_tooltip": {
+    "message": "Tài khoản này bị phát hiện là đáng ngờ và sẽ không nhận được phần thưởng Robux."
+  },
+  "yt_submit_btn": {
+    "message": "Gửi"
+  },
+  "yt_view_submissions_btn": {
+    "message": "Xem bài nộp"
+  },
+  "yt_status_in_review": {
+    "message": "Đang xem xét"
+  },
+  "yt_status_paid": {
+    "message": "Đã thanh toán"
+  },
+  "yt_status_rejected": {
+    "message": "Bị từ chối"
+  },
+  "yt_modal_title": {
+    "message": "Bài nộp của bạn"
+  },
+  "yt_stat_total": {
+    "message": "Tổng"
+  },
+  "yt_videos_label": {
+    "message": "Video"
+  },
+  "yt_no_submissions": {
+    "message": "Chưa có bài nộp nào."
+  },
+  "yt_input_placeholder": {
+    "message": "Dán URL video YouTube (vd. youtube.com/watch?v=...)"
+  },
+  "yt_err_missing_fields": {
+    "message": "Vui lòng nhập URL video YouTube hợp lệ."
+  },
+  "yt_err_invalid_url": {
+    "message": "Đây không giống một liên kết YouTube hợp lệ."
+  },
+  "yt_err_video_not_found": {
+    "message": "Không tìm thấy video — đảm bảo video ở chế độ công khai."
+  },
+  "yt_err_fetch_failed": {
+    "message": "Không thể kết nối với YouTube lúc này. Thử lại."
+  },
+  "yt_err_already_submitted": {
+    "message": "Bạn đã nộp video này rồi."
+  },
+  "yt_err_db_error": {
+    "message": "Lỗi máy chủ. Vui lòng thử lại sau."
+  },
+  "yt_err_network_error": {
+    "message": "Lỗi mạng. Kiểm tra kết nối của bạn."
+  },
+  "yt_err_internal_error": {
+    "message": "Đã xảy ra lỗi. Thử lại sau."
+  },
+  "yt_err_auth_failed": {
+    "message": "Không thể xác minh tài khoản Roblox của bạn."
+  },
+  "yt_err_username_not_in_desc": {
+    "message": "Tên người dùng Roblox của bạn ($1) phải có trong mô tả video."
+  },
+  "yt_err_insufficient_views": {
+    "message": "Video của bạn cần ít nhất $1 lượt xem để đủ điều kiện (hiện tại $2)."
+  },
+  "yt_submit_success": {
+    "message": "Video đã được nộp! Chúng tôi sẽ xem xét trong vòng 24 giờ."
+  },
+  "yt_tooltip_pending": {
+    "message": "Video của bạn đang được xem xét. Quá trình này có thể mất đến 24 giờ."
+  },
+  "yt_tooltip_approved": {
+    "message": "Video này đã được xem xét và Robux đã được thanh toán."
+  },
+  "yt_tooltip_rejected": {
+    "message": "Video của bạn không tuân theo quy tắc của nhà sáng tạo và không được chấp thuận thanh toán."
+  },
+  "dashboard_roexport_installed": {
+    "message": "Bạn đã cài đặt tiện ích này rồi"
+  },
+  "dashboard_shorts_disclaimer": {
+    "message": "Các bài đăng chất lượng thấp dưới 5.000 lượt xem chỉ nhận được 50 Robux cho mỗi 1.000 lượt xem."
+  },
+  "dashboard_submit_agreement_title": {
+    "message": "Trước khi gửi"
+  },
+  "dashboard_submit_agreement_body": {
+    "message": "Bằng cách gửi video, bạn đồng ý rằng video liên quan đến RoEarn và RoEarn được hiển thị trong video. Gửi video không liên quan sẽ xóa vĩnh viễn khả năng gửi của bạn."
+  },
+  "dashboard_submit_agreement_cancel": {
+    "message": "Hủy"
+  },
+  "dashboard_submit_agreement_confirm": {
+    "message": "Tôi đồng ý"
+  },
+  "dashboard_roregion_subtitle": {
+    "message": "Chọn vị trí máy chủ Roblox của bạn"
+  },
+  "dashboard_roregion_description": {
+    "message": "Chọn khu vực máy chủ Roblox và kết nối đến các địa điểm trên toàn thế giới — để luôn có ping tốt nhất và gameplay mượt mà nhất. Thêm bộ chọn khu vực trực tiếp vào Roblox, cho phép lọc máy chủ theo vị trí chỉ với vài cú nhấp chuột."
+  },
+  "dashboard_roregion_tag_nolag": {
+    "message": "Không Lag"
+  },
+  "dashboard_roregion_tag_ping": {
+    "message": "Ping Tốt"
+  },
+  "dashboard_roregion_tag_gameplay": {
+    "message": "Gameplay Nhanh"
+  },
+  "mobileWarningTitle": {
+    "message": "Quan trọng: Kiếm Tiền Hoàn Lại khi Mua Hàng"
+  },
+  "mobileWarningBody": {
+    "message": "Để kiếm tiền hoàn lại với RoEarn, bạn phải mua các vật phẩm danh mục Roblox tại đây trên trình duyệt — không phải trong ứng dụng Roblox. Các giao dịch mua trong ứng dụng Roblox không thể được theo dõi, vì vậy bạn sẽ không nhận được tiền hoàn lại cho chúng."
+  },
+  "mobileWarningCatalogBtn": {
+    "message": "Duyệt Danh Mục Roblox"
+  },
+  "shoppingWarningTitle": {
+    "message": "Phát hiện trò chơi mua sắm avatar"
+  },
+  "shoppingWarningBody": {
+    "message": "Đây là trò chơi mua sắm avatar. Nếu bạn mua vật phẩm trong trò chơi này, bạn sẽ KHÔNG nhận được tiền hoàn lại qua RoEarn — chủ trò chơi sẽ nhận thay. Để kiếm tiền hoàn lại, hãy mua vật phẩm danh mục Roblox trên trang web Roblox bằng RoEarn."
+  },
+  "shoppingWarningCatalogBtn": {
+    "message": "Đã hiểu — Duyệt Danh Mục"
+  },
+  "shoppingWarningDismiss": {
+    "message": "Bỏ qua"
+  },
+  "creator_snapshot_title": {
+    "message": "Lượt xem của bạn được chốt lúc nộp"
+  },
+  "creator_snapshot_body1": {
+    "message": "Số lượt xem video của bạn có <strong>ngay lúc này</strong> là những gì bạn sẽ được trả — chúng tôi chụp ảnh tại thời điểm bạn nộp."
+  },
+  "creator_snapshot_body2": {
+    "message": "Nếu bạn muốn chờ thêm lượt xem, điều đó hoàn toàn ổn — quay lại và nộp khi bạn sẵn sàng."
+  },
+  "creator_snapshot_not_yet": {
+    "message": "Chưa"
+  },
+  "creator_snapshot_submit_now": {
+    "message": "Nộp ngay"
+  },
+  "creator_channel_url_error": {
+    "message": "Đây là URL kênh — vui lòng nộp liên kết đến video cụ thể."
+  },
+  "creator_quality_guide_btn": {
+    "message": "Hướng dẫn chất lượng video →"
+  },
+  "creator_guide_title": {
+    "message": "Cách tạo video chất lượng cao"
+  },
+  "creator_guide_subtitle": {
+    "message": "5 nhà sáng tạo hàng đầu của chúng tôi kiếm hơn <strong>1.000.000 Robux/tháng</strong> — đây là điều phân biệt bài nộp tốt với bài bị từ chối."
+  },
+  "creator_guide_good_header": {
+    "message": "Video Chất Lượng Cao"
+  },
+  "creator_guide_bad_header": {
+    "message": "Video Chất Lượng Thấp"
+  },
+  "creator_guide_good1": {
+    "message": "Gameplay Roblox rõ ràng trong suốt video"
+  },
+  "creator_guide_good2": {
+    "message": "Tên tiện ích xuất hiện dưới dạng văn bản hiển thị trên màn hình — không chỉ logo"
+  },
+  "creator_guide_good3": {
+    "message": "Bạn giải thích cách tìm và cài đặt tiện ích trên màn hình"
+  },
+  "creator_guide_good4": {
+    "message": "Nội dung tập trung mà người xem có thể theo dõi dễ dàng"
+  },
+  "creator_guide_good5": {
+    "message": "Khuyến khích người xem bình luận, thích và tương tác"
+  },
+  "creator_guide_good6": {
+    "message": "Tiêu đề, hình thu nhỏ và mô tả mạnh mẽ cho khả năng khám phá"
+  },
+  "creator_guide_bad1": {
+    "message": "Chỉ hiển thị logo của chúng tôi — người xem không biết cách cài đặt"
+  },
+  "creator_guide_bad2": {
+    "message": "Tải lên cùng một video nhiều lần để thu lợi nhuận"
+  },
+  "creator_guide_bad3": {
+    "message": "Tương tác thấp — không có bình luận, ít thích, thời gian xem kém"
+  },
+  "creator_guide_bad4": {
+    "message": "Tên tiện ích không bao giờ được hiển thị hoặc đề cập trên màn hình"
+  },
+  "creator_guide_bad5": {
+    "message": "Nội dung không liên quan đến Roblox"
+  },
+  "creator_guide_bad6": {
+    "message": "Cảm giác có kịch bản hoặc spam mà không có giá trị thực sự cho người xem"
+  },
+  "creator_guide_protip": {
+    "message": "<strong>Mẹo chuyên nghiệp:</strong> Tập trung làm một video thực sự tuyệt vời thay vì nhiều video chất lượng thấp. Một video viral có thể mang lại nhiều Robux hơn nhiều."
+  },
+  "creator_section_title": {
+    "message": "Kiếm tiền bằng cách tạo video YouTube"
+  },
+  "creator_section_desc": {
+    "message": "Là nhà sáng tạo đã xác minh, bạn có thể tạo video và được trả Robux — nộp video có tiện ích của chúng tôi."
+  },
+  "creator_stats_header": {
+    "message": "Thống kê"
+  },
+  "creator_stat_earned": {
+    "message": "Tổng kiếm được từ video"
+  },
+  "creator_stat_views": {
+    "message": "Tổng lượt xem được trả"
+  },
+  "creator_stat_approved": {
+    "message": "Video được duyệt"
+  },
+  "creator_also_make_label": {
+    "message": "Cũng tạo video cho"
+  },
+  "creator_optional_badge": {
+    "message": "Tùy chọn"
+  },
+  "creator_primary_ext_desc": {
+    "message": "Tiện ích chính của bạn là <strong>RoEarn</strong> — đây là các tiện ích thưởng để đa dạng hóa nội dung và kiếm nhiều hơn."
+  },
+  "creator_video_requirement": {
+    "message": "<strong>Yêu cầu video:</strong> Video của bạn phải hiển thị rõ ràng tiện ích đang được sử dụng và hiển thị tên của nó trên màn hình."
+  },
+  "shareOnWhatsApp": {
+    "message": "Chia sẻ trên WhatsApp"
+  },
+  "shareTextWhatsApp": {
+    "message": "Mình vừa biết rằng có thể nhận cashback Robux khi mua đồ trên Roblox bằng RoEarn. Nếu bạn thử, mã mời $1 sẽ cho bạn 5 Robux.\n\nTải về tại đây: https://chromewebstore.google.com/detail/roearn-cashback-on-roblox/fooenmopnfaejehogdbmegaleanpdcea?utm_campaign=whatsapp"
+  },
+  "donate_btn_label": {
+    "message": "Tặng"
+  },
+  "donate_back_to_passes": {
+    "message": "Quay lại game pass"
+  },
+  "donate_join_heading": {
+    "message": "Tham gia để mua"
+  },
+  "donate_join_sub": {
+    "message": "Tham gia trò chơi để hoàn tất giao dịch. Khi vào, bạn sẽ được nhắc mua pass này."
+  },
+  "donate_join_disclaimer": {
+    "message": "Đây là tặng quà nên bạn sẽ không nhận được hoàn tiền."
+  },
+  "donate_empty_title": {
+    "message": "Không có game pass nào"
+  },
+  "donate_empty_sub": {
+    "message": "Người chơi này chưa thiết lập game pass."
+  },
+  "donate_pass_buy": {
+    "message": "Mua"
+  },
+  "donate_close_label": {
+    "message": "Đóng"
+  },
+  "donate_notice_text": {
+    "message": "Đây là game pass của người chơi này. Mua một cái sẽ gửi Robux trực tiếp vào tài khoản của họ."
+  },
+  "donate_tagline": {
+    "message": "Mua game pass từ @$1 và Robux sẽ đến thẳng họ."
+  },
+  "donate_search_title": {
+    "message": "Tặng cho người chơi"
+  },
+  "donate_tab_search": {
+    "message": "Tìm kiếm"
+  },
+  "donate_tab_friends": {
+    "message": "Bạn bè"
+  },
+  "donate_search_placeholder": {
+    "message": "Tìm theo tên người dùng…"
+  },
+  "donate_friends_filter_placeholder": {
+    "message": "Lọc bạn bè…"
+  },
+  "donate_search_hint": {
+    "message": "Nhập tên người dùng để tìm người chơi"
+  },
+  "donate_friends_login": {
+    "message": "Đăng nhập Roblox để xem bạn bè"
+  },
+  "donate_friends_empty": {
+    "message": "Bạn chưa có bạn bè nào"
+  },
+  "donate_friends_none": {
+    "message": "Không tìm thấy bạn bè"
+  },
+  "donate_search_failed": {
+    "message": "Tìm kiếm thất bại. Vui lòng thử lại."
+  },
+  "donate_search_no_results": {
+    "message": "Không tìm thấy người chơi cho \"$1\""
+  },
+  "donate_search_error": {
+    "message": "Đã xảy ra lỗi. Vui lòng thử lại."
+  },
+  "cartLimitTitle": {
+    "message": "Đạt giới hạn giỏ hàng (tối đa $1 mục hoạt động)"
+  },
+  "cartLimitBody": {
+    "message": "Roblox chỉ cho phép $1 mục mỗi lần mua. Bạn có thể tắt mục để lưu lại."
+  },
+  "cartLimitTitleRecheck": {
+    "message": "Đạt giới hạn mục hoạt động (tối đa $1)"
+  },
+  "cartLimitBodyRecheck": {
+    "message": "Bạn chỉ có thể có $1 mục hoạt động cùng lúc. Hãy tắt mục khác trước."
+  },
+  "wm_popup_subtitle": {
+    "message": "Mỗi lần gửi video phải bao gồm nó — hiển thị từ đầu đến cuối, không có ngoại lệ."
+  },
+  "wm_example_label": {
+    "message": "Ví dụ"
+  },
+  "wm_how_it_should_look": {
+    "message": "Trông như thế nào"
+  },
+  "wm_requirements_label": {
+    "message": "Yêu cầu"
+  },
+  "wm_req1": {
+    "message": "Hình mờ phải <strong>hiển thị suốt video</strong> — từ khung đầu đến khung cuối."
+  },
+  "wm_req2": {
+    "message": "Phải <strong>dễ đọc và dễ nhìn</strong> — không bị ẩn, mờ hoặc bị cắt khỏi màn hình."
+  },
+  "wm_req3": {
+    "message": "Hình mờ một mình không phải là <strong>lối tắt</strong> — video của bạn cũng phải hiển thị và giải thích tiện ích mở rộng."
+  },
+  "wm_download_label": {
+    "message": "Tải hình mờ"
+  },
+  "wm_save_desc": {
+    "message": "Lưu hình ảnh hình mờ và thêm vào video của bạn bằng bất kỳ trình chỉnh sửa nào."
+  },
+  "wm_save_btn": {
+    "message": "Lưu hình mờ"
+  },
+  "wm_intro_title": {
+    "message": "Mới: Hình mờ video RoEarn"
+  },
+  "wm_intro_subtitle": {
+    "message": "Chúng tôi hiện yêu cầu hình mờ trong mỗi lần gửi video. Đây là tất cả những gì bạn cần biết."
+  },
+  "wm_intro_what_to_do": {
+    "message": "Những gì bạn cần làm"
+  },
+  "wm_intro_req1": {
+    "message": "Bao gồm hình mờ RoEarn trong <strong>mỗi video</strong> bạn gửi."
+  },
+  "wm_intro_req2": {
+    "message": "Phải <strong>hiển thị suốt video</strong> — từ khung đầu đến khung cuối, dễ nhìn và dễ đọc."
+  },
+  "wm_intro_rejected": {
+    "message": "Các video gửi <strong>không có</strong> hình mờ sẽ bị từ chối."
+  },
+  "wm_rejection_title": {
+    "message": "Video của bạn đã bị từ chối"
+  },
+  "wm_rejection_body": {
+    "message": "Điều này có nghĩa là bản gửi của bạn không đáp ứng các tiêu chuẩn chất lượng hoặc yêu cầu hình mờ của chúng tôi. Hãy xem lại các quy tắc trước khi gửi lại — tuân theo chúng cẩn thận là cách tốt nhất để được chấp thuận."
+  },
+  "wm_rejection_btn": {
+    "message": "Xem yêu cầu hình mờ"
+  },
+  "wm_tooltip_watermark_rule": {
+    "message": "Hình mờ phải hiển thị suốt video"
+  },
+  "wm_save_btn_view": {
+    "message": "Xem hình mờ"
+  },
+  "wm_dismiss_btn": {
+    "message": "Bỏ qua"
+  },
+  "wm_disclaimer": {
+    "message": "Các shorts chất lượng thấp với dưới 5.000 lượt xem chỉ nhận được 50 Robux mỗi 1.000 lượt xem."
+  },
+  "wm_watermark_notice": {
+    "message": "Video của bạn có bao gồm hình mờ RoEarn không? Nếu không, nó sẽ bị từ chối."
+  },
+  "creator_rule1": {
+    "message": "Video của bạn phải <strong>liên quan đến Roblox</strong> — nội dung không liên quan đến Roblox sẽ không được chấp nhận."
+  },
+  "creator_rule2": {
+    "message": "Video của bạn phải <strong>chất lượng cao và được chỉnh sửa tốt</strong> — hãy bỏ công sức vào nội dung của bạn."
+  },
+  "creator_rule3": {
+    "message": "RoEarn phải được <strong>hiển thị rõ ràng trong video của bạn</strong> — người xem phải có thể nhìn thấy và hiểu nó."
+  },
+  "creator_rule4": {
+    "message": "<strong>Hình mờ RoEarn phải có trong video của bạn từ đầu đến cuối</strong> — nó cần ở trên màn hình suốt thời gian."
+  },
+  "submit_err_missing_fields": {
+    "message": "Vui lòng dán URL video trước."
+  },
+  "submit_err_not_a_video_url": {
+    "message": "Đó không giống link YouTube hay TikTok. Hãy chắc chắn đó là URL video."
+  },
+  "submit_err_youtube_channel_url": {
+    "message": "Đó trông giống link kênh YouTube, không phải video. Dán link đến một video cụ thể (vd: youtube.com/watch?v=...)."
+  },
+  "submit_err_tiktok_profile_url": {
+    "message": "Đó trông giống link hồ sơ TikTok, không phải video. Dán link đến một video cụ thể (vd: tiktok.com/@user/video/...)."
+  },
+  "submit_err_tiktok_no_video_id": {
+    "message": "Không tìm thấy video hoặc ảnh trong link TikTok đó. Dán link đến một video hoặc bài ảnh cụ thể (vd: tiktok.com/@user/video/... hoặc tiktok.com/@user/photo/...)."
+  },
+  "submit_err_invalid_url_yt": {
+    "message": "Đó không giống URL video YouTube hợp lệ."
+  },
+  "submit_err_invalid_url_tt": {
+    "message": "Đó không giống URL video TikTok hợp lệ."
+  },
+  "submit_err_invalid_url": {
+    "message": "URL video không hợp lệ."
+  },
+  "submit_err_video_not_found_yt": {
+    "message": "Không tìm thấy video YouTube đó. Hãy đảm bảo video ở chế độ công khai và URL chính xác."
+  },
+  "submit_err_video_not_found_tt": {
+    "message": "Không tìm thấy video TikTok đó. Hãy đảm bảo video ở chế độ công khai và URL chính xác."
+  },
+  "submit_err_video_not_found": {
+    "message": "Không tìm thấy video."
+  },
+  "submit_err_yt_fetch_failed": {
+    "message": "Không thể tải video YouTube đó lúc này. Thử lại sau một chút."
+  },
+  "submit_err_tt_fetch_failed": {
+    "message": "Không thể tải video TikTok đó lúc này. Thử lại sau một chút."
+  },
+  "submit_err_username_not_in_desc_yt": {
+    "message": "Tên người dùng Roblox của bạn ($1) phải xuất hiện trong tiêu đề hoặc mô tả video YouTube."
+  },
+  "submit_err_username_not_in_desc_tt": {
+    "message": "Tên người dùng Roblox của bạn ($1) phải xuất hiện trong tiêu đề TikTok. (Chỉnh sửa bài đăng để tên người dùng của bạn xuất hiện trong tiêu đề)"
+  },
+  "submit_err_username_not_in_desc": {
+    "message": "Tên người dùng Roblox của bạn phải xuất hiện trong video."
+  },
+  "submit_err_insufficient_views": {
+    "message": "Video của bạn cần ít nhất $1 lượt xem để đủ điều kiện. Hiện tại có $2."
+  },
+  "submit_err_already_submitted_yt": {
+    "message": "Video YouTube đó đã được gửi."
+  },
+  "submit_err_already_submitted_tt": {
+    "message": "Video TikTok đó đã được gửi."
+  },
+  "submit_err_already_submitted": {
+    "message": "Video đó đã được gửi."
+  },
+  "submit_err_db_error": {
+    "message": "Đã xảy ra lỗi máy chủ. Vui lòng thử lại."
+  },
+  "submit_err_network_error": {
+    "message": "Không thể kết nối đến máy chủ. Kiểm tra kết nối và thử lại."
+  },
+  "submit_err_auth_failed": {
+    "message": "Không thể xác minh tài khoản Roblox của bạn. Vui lòng làm mới trang và thử lại."
+  },
+  "submit_err_default": {
+    "message": "Đã xảy ra lỗi. Vui lòng thử lại."
+  },
+  "wm_rejection_dismiss_btn": {
+    "message": "Đóng"
+  },
+  "donate_recent_label": {
+    "message": "Gần đây"
+  },
+  "plus_subscribed_title": {
+    "message": "🎉 Bạn đang tích lũy tiết kiệm!"
+  },
+  "plus_unsubscribed_title": {
+    "message": "💰 Nhân đôi mỗi Robux bạn chi tiêu"
+  },
+  "plus_body_copy": {
+    "message": "Roblox Plus giảm giá 10–20% cho mua sắm — và RoEarn hoàn tiền thêm vào đó. Chúng kết hợp với nhau, vì vậy bạn tiết kiệm càng nhiều với Plus, bạn càng kiếm được nhiều cashback với RoEarn."
+  },
+  "plus_subscribe_btn": {
+    "message": "Đăng ký với RoEarn (Kiếm $1)"
+  },
+  "creator_earn_title": {
+    "message": "Kiếm tiền bằng cách tạo video"
+  },
+  "creator_url_placeholder": {
+    "message": "Dán URL video TikTok hoặc YouTube.."
+  },
+  "creator_rate_shorts_label": {
+    "message": "YouTube Shorts & TikTok"
+  },
+  "creator_rate_longform_label": {
+    "message": "Video YouTube dài"
+  },
+  "creator_rule1_full": {
+    "message": "Video của bạn phải tập trung vào <strong>nội dung Roblox</strong>, chẳng hạn như gameplay hoặc trang web Roblox."
+  },
+  "creator_rule2_full": {
+    "message": "Video của bạn phải <strong>chất lượng cao, được chỉnh sửa tốt và rõ ràng</strong> để xem."
+  },
+  "creator_rule3_full": {
+    "message": "<strong>Tiện ích mở rộng RoEarn phải được hiển thị rõ ràng</strong>, sử dụng hoặc đề cập trong video của bạn."
+  },
+  "creator_rule4_full": {
+    "message": "<strong>Hình mờ chính thức của RoEarn phải luôn hiển thị</strong> trên màn hình từ đầu đến cuối."
+  },
+  "creator_earn_subtitle_pre": {
+    "message": "Nhận"
+  },
+  "creator_earn_subtitle_post": {
+    "message": "300 cho mỗi 1.000 lượt xem trên TikTok & YouTube Shorts"
+  }
+}

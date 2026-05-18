@@ -1,0 +1,1080 @@
+{
+  "extName": {
+    "message": "RoEarn: Roblox Alımlarında Cashback"
+  },
+  "extDescription": {
+    "message": "Roblox üzerinde her satın alımda Robux cashback kazan!"
+  },
+  "extActionTitle": {
+    "message": "RoEarn Panelini Aç"
+  },
+  "badgeEarn": {
+    "message": "Kazan"
+  },
+  "buy": {
+    "message": "Satın Al"
+  },
+  "ineligible": {
+    "message": "Uygun Değil"
+  },
+  "successPopupTitle": {
+    "message": "Satın Alma Tamamlandı"
+  },
+  "successPopupMessage": {
+    "message": "$1 ürününü $2 karşılığında başarıyla aldınız."
+  },
+  "successPopupCashback": {
+    "message": "$1 RoEarn bakiyenize eklendi."
+  },
+  "successPopupBalanceBtn": {
+    "message": "Bakiye"
+  },
+  "successPopupCustomizeBtn": {
+    "message": "Özelleştir"
+  },
+  "successPopupContinueBtn": {
+    "message": "Devam"
+  },
+  "notEligibleForCashback": {
+    "message": "Cashback İçin Uygun Değil"
+  },
+  "tooltipRobloxLimited": {
+    "message": "Roblox tarafından oluşturulan Limitedler cashback için uygun değildir."
+  },
+  "tooltipNotInGame": {
+    "message": "Bu öğe oyun içinde satın alınamadığı için uygun değildir."
+  },
+  "tooltipPriceTooLow": {
+    "message": "Fiyat cashback için çok düşük. Minimum fiyat $1 Robux."
+  },
+  "catalogBuyBtn": {
+    "message": "RoEarn ile Satın Al (Kazan $1)"
+  },
+  "tooltipGamepassMinPrice": {
+    "message": "Gamepass fiyatı cashback almaya hak kazanmak için 40 Robux'tan yüksek olmalıdır."
+  },
+  "gamepassBuyBtn": {
+    "message": "Satın Al (Kazan $1)"
+  },
+  "tooltipGamepassMinPriceShort": {
+    "message": "Gamepass fiyatı cashback almaya hak kazanmak için 40 Robux'tan yüksek olmalıdır."
+  },
+  "earnAmount": {
+    "message": "(Kazan $1)"
+  },
+  "errorDiscordSupport": {
+    "message": "Hata $1: Discord'umuza katılın: <a href=\"https://discord.gg/roearnsupport\" target=\"_blank\">discord.gg/roearnsupport</a>"
+  },
+  "roEarnBalance": {
+    "message": "RoEarn Bakiyesi: $1 Robux"
+  },
+  "roEarnBalanceLoading": {
+    "message": "RoEarn Bakiyesi: Yükleniyor..."
+  },
+  "reviewPromptText": {
+    "message": "RoEarn işe yaradı mı? Değerlendirme bırakın!"
+  },
+  "checkoutPageTitle": {
+    "message": "RoEarn Ödeme"
+  },
+  "checkoutTitle": {
+    "message": "Satın Almayı Tamamla"
+  },
+  "checkoutSubtitle": {
+    "message": "Roblox satın alımınızda cashback alın"
+  },
+  "checkoutSaveBadge": {
+    "message": "$1 Robux Tasarruf Et!"
+  },
+  "checkoutHowItWorks": {
+    "message": "Nasıl Çalışır"
+  },
+  "checkoutStep1": {
+    "message": "Aşağıdaki oynat düğmesiyle RoEarn hub'ına katılın."
+  },
+  "checkoutStep2": {
+    "message": "Oyun içinde $1 satın almanız istenecek."
+  },
+  "checkoutStep3": {
+    "message": "$1 cashback'iniz anında RoEarn bakiyenize eklenecek."
+  },
+  "checkoutAutoJoin": {
+    "message": "Her zaman otomatik olarak RoEarn hub'ına katıl"
+  },
+  "dashboardPageTitle": {
+    "message": "RoEarn Paneli"
+  },
+  "dashboardTitle": {
+    "message": "RoEarn Paneli"
+  },
+  "dashboardSubtitle": {
+    "message": "Kazançlarınızı ve davetlerinizi yönetin"
+  },
+  "welcomeTitle": {
+    "message": "RoEarn'e Hoş Geldiniz"
+  },
+  "welcomeSubtitle": {
+    "message": "Başlamanız için hızlı bir eğitim videosu"
+  },
+  "referralEntryTitle": {
+    "message": "Birisi sizi RoEarn'e davet etti mi?"
+  },
+  "referralEntryDescription": {
+    "message": "Kodlarını girin ve ikiniz de ekstra cashback alın!"
+  },
+  "referralInputPlaceholder": {
+    "message": "Davet kodunu girin"
+  },
+  "optionalLabel": {
+    "message": "(İSTEĞE BAĞLI)"
+  },
+  "startButton": {
+    "message": "RoEarn'i kullanmaya başla"
+  },
+  "loadingText": {
+    "message": "Yükleniyor..."
+  },
+  "errorInvalidReferralCode": {
+    "message": "Geçersiz davet kodu"
+  },
+  "errorOwnReferralCode": {
+    "message": "Kendi davet kodunuzu kullanamazsınız"
+  },
+  "errorSetReferralFailed": {
+    "message": "Davet ayarlanamadı. "
+  },
+  "errorReferralAlreadyUsed": {
+    "message": "Zaten bir davet kodu kullandınız."
+  },
+  "errorInvalidReferralCodeRetry": {
+    "message": "Geçersiz kod. Kontrol edip tekrar deneyin."
+  },
+  "errorVerificationFailed": {
+    "message": "Doğrulama başarısız. Tekrar deneyin."
+  },
+  "errorPleaseTryAgain": {
+    "message": "Tekrar deneyin."
+  },
+  "bonusAddedText": {
+    "message": "5 Robux RoEarn bakiyenize eklendi!"
+  },
+  "yourBalanceLabel": {
+    "message": "RoEarn Bakiyeniz"
+  },
+  "withdrawButton": {
+    "message": "Roblox'a Çek"
+  },
+  "errorMinWithdrawal": {
+    "message": "Minimum çekim miktarı 4 Robux'tur."
+  },
+  "withdrawalSuccessTitle": {
+    "message": "Çekim Başarılı"
+  },
+  "withdrawalSuccessMessage": {
+    "message": "Lütfen yaklaşık 45 saniye içinde <b><u>Bekleyen Robux</u></b> ve <b><u>Mal Satışı</u></b> bölümünüzü kontrol edin, çünkü satın alma işleminin görünmesi biraz zaman alabilir."
+  },
+  "viewTransactionsCountdown": {
+    "message": "İşlemleri Görüntüle ($1)"
+  },
+  "viewTransactionsButton": {
+    "message": "İşlemleri Görüntüle"
+  },
+  "referralProgramTitle": {
+    "message": "Arkadaşları Davet"
+  },
+  "yourReferralCodeLabel": {
+    "message": "Davet Kodunuz"
+  },
+  "copyButton": {
+    "message": "Kopyala"
+  },
+  "copiedButton": {
+    "message": "Kopyalandı!"
+  },
+  "totalEarnedLabel": {
+    "message": "Toplam Kazanılan"
+  },
+  "referralsLabel": {
+    "message": "Davetler"
+  },
+  "referralDescription": {
+    "message": "<span class=\"roearn-referral-highlight\">Davet kodunuzu paylaşın. </span>Birisi kodunuzu kullanarak RoEarn'i yüklediğinde, <b>anında 15 Robux</b> kazanırsınız!<br><br>Davet kodunuzu kullanan herkes <b>5 Robux alacak!</b><br><br><b>⚠️ Feragatname:</b> Alternatif hesaplar Robux ödülü almayacaktır."
+  },
+  "backButton": {
+    "message": "← Geri"
+  },
+  "yourReferralsTitle": {
+    "message": "Davetleriniz"
+  },
+  "noReferralsMessage": {
+    "message": "Henüz davet yok. Kazanmaya başlamak için kodunuzu paylaşın!"
+  },
+  "loadingReferralProfiles": {
+    "message": "Davet edilen profiller yükleniyor..."
+  },
+  "errorAuthFailed": {
+    "message": "Kimlik doğrulama başarısız. Roblox'a giriş yaptığınızdan emin olun."
+  },
+  "errorAuthRetry": {
+    "message": "Kimlik doğrulama başarısız. Tekrar deneyin."
+  },
+  "errorFetchGames": {
+    "message": "Oyunlar alınamadı. En az bir oyununuz olduğundan emin olun."
+  },
+  "errorFetchGamesRetry": {
+    "message": "Oyunlar alınamadı. Tekrar deneyin."
+  },
+  "errorNoGames": {
+    "message": "Referans kodu kullanmadan önce bir Roblox oyunu oluşturmalısınız."
+  },
+  "errorSecurityToken": {
+    "message": "Güvenlik tokeni alınamadı. Sayfayı yenileyin ve tekrar deneyin."
+  },
+  "errorCreateGamepass": {
+    "message": "Doğrulama gamepassi oluşturulamadı. Tekrar deneyin."
+  },
+  "errorUpdateGamepass": {
+    "message": "Gamepass detayları güncellenemedi. Tekrar deneyin."
+  },
+  "errorFetchGamepasses": {
+    "message": "Gamepassler alınamadı. Tekrar deneyin."
+  },
+  "errorNoGamepasses": {
+    "message": "Doğrulama için gamepass yok. Tekrar deneyin."
+  },
+  "errorUpdateVerification": {
+    "message": "Doğrulama için gamepass güncellenemedi. Tekrar deneyin."
+  },
+  "errorUnexpected": {
+    "message": "Bir hata oluştu. Tekrar deneyin."
+  },
+  "cartTitle": {
+    "message": "Alışveriş Sepeti ($1)"
+  },
+  "cartEmpty": {
+    "message": "Sepetiniz boş"
+  },
+  "cartRemove": {
+    "message": "Kaldır"
+  },
+  "cartTotal": {
+    "message": "Toplam: $1 ürün"
+  },
+  "cartTotalPlural": {
+    "message": "Toplam: $1 ürün"
+  },
+  "checkoutBulkStep2": {
+    "message": "Oyun içinde ürünlerinizi satın almanız istenecek."
+  },
+  "checkoutBulkStep2Single": {
+    "message": "Oyun içinde ürününüzü satın almanız istenecek."
+  },
+  "cartTotalLabel": {
+    "message": "Toplam"
+  },
+  "addToCart": {
+    "message": "RoEarn Sepetine Ekle"
+  },
+  "removeFromCart": {
+    "message": "RoEarn Sepetinden Kaldır"
+  },
+  "somethingWentWrong": {
+    "message": "Lütfen 5 dakika sonra çekiminizi tekrar deneyin."
+  },
+  "copyExtensionLink": {
+    "message": "Uzantı bağlantısını kopyala"
+  },
+  "altDetectedText": {
+    "message": "⚠️ Alt Tespit Edildi"
+  },
+  "pendingRobuxNotice": {
+    "message": "Beklemede X Robux var. 2 dakika sonra tekrar kontrol edin."
+  },
+  "tooltipOffSale": {
+    "message": "Bu öğe cashback için uygun değil çünkü orijinali şu anda satın alınamıyor."
+  },
+  "contentCreatorTitle": {
+    "message": "Video Oluşturun ve Robux Kazanın"
+  },
+  "contentCreatorPayout": {
+    "message": "YouTube Shorts'ta 1.000 görüntüleme başına 300 Robux kazan"
+  },
+  "contentCreatorDescription": {
+    "message": "RoEarn uzantısı ve <u><b>katalog geri ödeme özelliği.</b></u> Roblox kullanıcı adınızın açıklamada olduğundan emin olun."
+  },
+  "contentCreatorContact": {
+    "message": "Robux'unuzu talep etmek için creators@roearn.io ile iletişime geçin"
+  },
+  "contentCreatorLink": {
+    "message": "Uzun videolar 1.000 görüntüleme başına |SPLIT| ödenir"
+  },
+  "withdrawalAgreementTitle": {
+    "message": "Para Çekme İşlemi Nasıl Çalışır"
+  },
+  "withdrawalAgreementText": {
+    "message": "Oyun geçiş kartınızı satın alarak size Robux ödeyelim. RoEarn sizin için oyun geçiş kartını otomatik olarak oluşturduğundan, hiçbir şey yapmanız gerekmez."
+  },
+  "continueButton": {
+    "message": "Devam Et"
+  },
+  "joinDiscordButton": {
+    "message": "Discord'a Katıl"
+  },
+  "notificationTitle": {
+    "message": "RoEarn bakiyesi güncellendi"
+  },
+  "notificationText": {
+    "message": "RoEarn bakiyenize Robux eklendi. Artık çekebilirsiniz!"
+  },
+  "dismissButton": {
+    "message": "Kapat"
+  },
+  "viewBalanceButton": {
+    "message": "Bakiyeyi görüntüle"
+  },
+  "now40Text": {
+    "message": "Artık davet başına 40 Robux!"
+  },
+  "countdownPrefix": {
+    "message": "Davet başına $1 Robux kazan (Bitiş "
+  },
+  "countdownDay": {
+    "message": "gün"
+  },
+  "countdownDays": {
+    "message": "gün"
+  },
+  "countdownHour": {
+    "message": "saat"
+  },
+  "countdownHours": {
+    "message": "saat"
+  },
+  "countdownMinute": {
+    "message": "dakika"
+  },
+  "countdownMinutes": {
+    "message": "dakika"
+  },
+  "shareYourInvite": {
+    "message": "🎉 Davet kodunuzu paylaşın ve RoEarn'e getirdiğiniz her arkadaşınız için $1 Robux kazanın.",
+    "description": "Referral prompt text with invite bonus amount"
+  },
+  "playAndEarn_Text": {
+    "message": "RoEarn ile Oyna ve Kazan!"
+  },
+  "sponsoredPlacements_Text": {
+    "message": "Bu bölümdeki oyunlar, sponsorlu yerleşimler kapsamında RoEarn aracılığıyla tanıtılmaktadır."
+  },
+  "timePlayed_Text": {
+    "message": "Oynanan Süre"
+  },
+  "earned_Text": {
+    "message": "Kazanılan"
+  },
+  "rate_Text": {
+    "message": "Oran"
+  },
+  "hour_Text": {
+    "message": "/saat"
+  },
+  "tutorialStep1Title_Text": {
+    "message": "$1 oynayarak Robux kazan"
+  },
+  "tutorialStep1Body_Text": {
+    "message": "RoEarn, sponsorlu oyunlarda geçirdiğin her saat için sana 5 Robux öder. Sadece oyna, kazan ve istediğin zaman çek."
+  },
+  "next_Text": {
+    "message": "İleri"
+  },
+  "trackYourEarningsTitle_Text": {
+    "message": "Kazançlarını takip et"
+  },
+  "tutorialStep2Body_Text": {
+    "message": "Bu panel oynanan sürenizi ve kazanılan Robux'u gösterir. Saatte 5 Robux kazanırsınız — bu, her 12 dakikada bir 1 Robux demektir ve doğrudan RoEarn bakiyenize eklenir.adresinden istediğiniz zaman çekin."
+  },
+  "gotIt_Text": {
+    "message": "Anladım"
+  },
+  "shareTextX": {
+    "message": "Roblox'ta RoEarn kullanarak alışveriş yaparken Robux cashback kazanılabileceğini yeni öğrendim. Denersen, davet kodu $1 ile 5 Robux kazanırsın.\n\nBuradan indir: https://chromewebstore.google.com/detail/roearn-cashback-on-roblox/fooenmopnfaejehogdbmegaleanpdcea?utm_campaign=x\n\n#Robux #Roblox #RoEarn"
+  },
+  "shareTextTelegram": {
+    "message": "Roblox'ta RoEarn kullanarak alışveriş yaparken Robux cashback kazanılabileceğini yeni öğrendim. Denersen, davet kodu $1 ile 5 Robux kazanırsın."
+  },
+  "shareTextReddit": {
+    "message": "RoEarn ile Roblox alışverişlerinde Robux cashback kazan (davet kodu $1 ile 5 Robux)"
+  },
+  "shareOnX": {
+    "message": "X'te paylaş"
+  },
+  "shareOnFacebook": {
+    "message": "Facebook'ta paylaş"
+  },
+  "shareOnTelegram": {
+    "message": "Telegram'da paylaş"
+  },
+  "shareOnReddit": {
+    "message": "Reddit'te paylaş"
+  },
+  "dashboard_fav_label": {
+    "message": "Kıyafetleri favorilere ekleyerek kazan"
+  },
+  "dashboard_fav_desc": {
+    "message": "Arka planda kıyafetleri otomatik olarak favorilere ekleyerek Robux kazan"
+  },
+  "dashboard_fav_bubble_title": {
+    "message": "Bunu etkinleştirmeden önce"
+  },
+  "dashboard_fav_bubble_body": {
+    "message": "Bu, 2D giysi varlıklarını yayınlandığında otomatik olarak favorilere ekler. Arka planda <strong style=\"color:#ffffff;\">her 20 favoride 1 Robux</strong> kazanırsın, günde <strong style=\"color:#ffffff;\">24 Robux'a kadar</strong> — tarayıcın çalıştığı sürece. Kazançlar doğrudan RoEarn bakiyene eklenir."
+  },
+  "dashboard_fav_cancel": {
+    "message": "İptal"
+  },
+  "dashboard_fav_agree": {
+    "message": "Kabul Ediyorum"
+  },
+  "dashboard_yt_label": {
+    "message": "YouTube videoları oluşturarak kazan"
+  },
+  "dashboard_yt_desc": {
+    "message": "Ödeme al"
+  },
+  "dashboard_yt_desc2": {
+    "message": "YouTube Shorts'ta 1.000 görüntüleme başına 300"
+  },
+  "dashboard_yt_get_started": {
+    "message": "Başla"
+  },
+  "dashboard_subscribe_label": {
+    "message": "YouTube'da abone ol"
+  },
+  "dashboard_subscribe_desc": {
+    "message": "En son ipuçlarımız ve haberlerimizle güncel kal"
+  },
+  "dashboard_subscribe_btn": {
+    "message": "Abone Ol"
+  },
+  "dashboard_other_extensions": {
+    "message": "Diğer Uzantılarımız"
+  },
+  "dashboard_roexport_name": {
+    "message": "RoExport"
+  },
+  "dashboard_roexport_tagline": {
+    "message": "Roblox Kıyafetlerini Kaydet ve Yeniden Yükle"
+  },
+  "dashboard_roexport_desc": {
+    "message": "Roblox'ta herhangi bir gömlek, pantolon veya t-shirt'ü kaydet ve yeniden yükle — satışta olmayan öğeler dahil. Her kıyafet sayfasına <strong style=\"color:$1;\">&ldquo;Şablonu Kaydet&rdquo;</strong> ve <strong style=\"color:$1;\">&ldquo;Yeniden Yükle&rdquo;</strong> butonu ekler."
+  },
+  "dashboard_roexport_pill1": {
+    "message": "Satışta olmayan öğelerde çalışır"
+  },
+  "dashboard_roexport_pill2": {
+    "message": "Herhangi bir gruba yükle"
+  },
+  "dashboard_roexport_pill3": {
+    "message": "Premium gerekmez"
+  },
+  "dashboard_roexport_cta": {
+    "message": "Tarayıcıya ekle"
+  },
+  "dashboard_creator_title": {
+    "message": "Video oluştur ve Robux kazan"
+  },
+  "dashboard_creator_desc": {
+    "message": "Roblox oynanışı veya görüntüleri kullanarak RoEarn hakkında videolar oluştur. Uzantıyı, kazandıklarını göster veya bir eğitim yap — RoEarn ve Roblox'u içeren her şey."
+  },
+  "dashboard_creator_shorts": {
+    "message": "YouTube Shorts"
+  },
+  "dashboard_creator_longform": {
+    "message": "Uzun Video"
+  },
+  "dashboard_creator_per_views": {
+    "message": "1.000 görüntüleme başına"
+  },
+  "dashboard_creator_rules": {
+    "message": "Kurallar"
+  },
+  "dashboard_creator_rule1": {
+    "message": "Video yüksek kaliteli ve iyi düzenlenmiş olmalı"
+  },
+  "dashboard_creator_rule2": {
+    "message": "RoEarn izleyiciye açıkça gösterilmeli"
+  },
+  "dashboard_creator_rule3": {
+    "message": "Roblox kullanıcı adın videonun açıklamasında olmalı"
+  },
+  "dashboard_creator_tools": {
+    "message": "Önerilen Araçlar"
+  },
+  "dashboard_capcut_name": {
+    "message": "CapCut"
+  },
+  "dashboard_capcut_desc": {
+    "message": "Ücretsiz video editörü"
+  },
+  "dashboard_snipping_name": {
+    "message": "Snipping Tool"
+  },
+  "dashboard_snipping_desc": {
+    "message": "Hızlı ekran kaydı"
+  },
+  "dashboard_submit_title": {
+    "message": "Videonuzu gönderin"
+  },
+  "dashboard_submit_desc": {
+    "message": "Ödeme almak için video bağlantınızı bize e-posta ile gönderin — yanıt vermemiz 24 saate kadar sürebilir"
+  },
+  "dashboard_send_email": {
+    "message": "E-posta gönder"
+  },
+  "sidebarNewText": {
+    "message": "Yeni"
+  },
+  "s_fav_lock_title": {
+    "message": "🔒 Özellik Kilitli"
+  },
+  "s_fav_lock_body": {
+    "message": "Otomatik kıyafet favorilemeyi açmak için RoEarn ile 1 satın alma yap."
+  },
+  "s_extras_title": {
+    "message": "Bonus Kazançlar"
+  },
+  "s_your_invites_title": {
+    "message": "Davetleriniz"
+  },
+  "s_invites_empty": {
+    "message": "İnsanları davet etmeye başla, burada görünecekler."
+  },
+  "s_referral_disclaimer": {
+    "message": "⚠️ Alternatif hesaplar Robux ödülü almayacaktır."
+  },
+  "s_alt_tooltip": {
+    "message": "Bu hesap şüpheli olarak tespit edildi ve Robux ödülü almayacak."
+  },
+  "yt_submit_btn": {
+    "message": "Gönder"
+  },
+  "yt_view_submissions_btn": {
+    "message": "Gönderimleri Görüntüle"
+  },
+  "yt_status_in_review": {
+    "message": "İncelemede"
+  },
+  "yt_status_paid": {
+    "message": "Ödendi"
+  },
+  "yt_status_rejected": {
+    "message": "Reddedildi"
+  },
+  "yt_modal_title": {
+    "message": "Gönderileriniz"
+  },
+  "yt_stat_total": {
+    "message": "Toplam"
+  },
+  "yt_videos_label": {
+    "message": "Videolar"
+  },
+  "yt_no_submissions": {
+    "message": "Henüz gönderim yok."
+  },
+  "yt_input_placeholder": {
+    "message": "YouTube video URL'sini yapıştırın (ör. youtube.com/watch?v=...)"
+  },
+  "yt_err_missing_fields": {
+    "message": "Lütfen geçerli bir YouTube video URL'si girin."
+  },
+  "yt_err_invalid_url": {
+    "message": "Bu geçerli bir YouTube bağlantısı gibi görünmüyor."
+  },
+  "yt_err_video_not_found": {
+    "message": "Video bulunamadı — herkese açık olduğundan emin olun."
+  },
+  "yt_err_fetch_failed": {
+    "message": "YouTube'a şu an ulaşılamıyor. Tekrar dene."
+  },
+  "yt_err_already_submitted": {
+    "message": "Bu videoyu zaten göndermişsiniz."
+  },
+  "yt_err_db_error": {
+    "message": "Sunucu hatası. Lütfen kısa süre sonra tekrar deneyin."
+  },
+  "yt_err_network_error": {
+    "message": "Ağ hatası. Bağlantınızı kontrol edin."
+  },
+  "yt_err_internal_error": {
+    "message": "Bir şeyler ters gitti. Daha sonra tekrar dene."
+  },
+  "yt_err_auth_failed": {
+    "message": "Roblox hesabın doğrulanamadı."
+  },
+  "yt_err_username_not_in_desc": {
+    "message": "Roblox kullanıcı adın ($1) video açıklamasında bulunmalı."
+  },
+  "yt_err_insufficient_views": {
+    "message": "Videon en az $1 izlenmeye ihtiyaç duyuyor (şu an $2)."
+  },
+  "yt_submit_success": {
+    "message": "Video gönderildi! 24 saat içinde inceleyeceğiz."
+  },
+  "yt_tooltip_pending": {
+    "message": "Videon şu anda inceleniyor. Bu işlem 24 saate kadar sürebilir."
+  },
+  "yt_tooltip_approved": {
+    "message": "Bu video incelendi ve Robux'lar ödendi."
+  },
+  "yt_tooltip_rejected": {
+    "message": "Videon içerik oluşturucu kurallarımıza uymadı ve ödeme için onaylanmadı."
+  },
+  "dashboard_roexport_installed": {
+    "message": "Bu uzantı zaten yüklü"
+  },
+  "dashboard_shorts_disclaimer": {
+    "message": "5.000 görüntülenme altındaki düşük kaliteli gönderiler, 1.000 görüntülenme başına yalnızca 50 Robux alacaktır."
+  },
+  "dashboard_submit_agreement_title": {
+    "message": "Göndermeden Önce"
+  },
+  "dashboard_submit_agreement_body": {
+    "message": "Bir video göndererek, videonun RoEarn ile ilgili olduğunu ve RoEarn'in videoda göründüğünü kabul etmiş olursunuz. İlgisiz video göndermek, gönderme yeteneğinizi kalıcı olarak kaldıracaktır."
+  },
+  "dashboard_submit_agreement_cancel": {
+    "message": "İptal"
+  },
+  "dashboard_submit_agreement_confirm": {
+    "message": "Kabul ediyorum"
+  },
+  "dashboard_roregion_subtitle": {
+    "message": "Roblox Sunucu Konumunuzu Seçin"
+  },
+  "dashboard_roregion_description": {
+    "message": "Roblox sunucu bölgenizi seçin ve dünya genelinde konumlara bağlanın — böylece her zaman en iyi ping ve en akıcı oyun deneyimine sahip olursunuz. Doğrudan Roblox'a bir bölge seçici ekler, birkaç tıklamayla sunucuları konuma göre filtrelemenizi sağlar."
+  },
+  "dashboard_roregion_tag_nolag": {
+    "message": "Lag Yok"
+  },
+  "dashboard_roregion_tag_ping": {
+    "message": "İyi Ping"
+  },
+  "dashboard_roregion_tag_gameplay": {
+    "message": "Hızlı Oyun"
+  },
+  "mobileWarningTitle": {
+    "message": "Önemli: Alışverişlerden Nakit İadesi Kazan"
+  },
+  "mobileWarningBody": {
+    "message": "RoEarn ile nakit iadesi kazanmak için Roblox katalog ürünlerini Roblox uygulamasında değil, burada tarayıcında satın alman gerekiyor. Roblox uygulaması içinde yapılan satın alımlar takip edilemez, bu nedenle bunlar için nakit iadesi alamazsın."
+  },
+  "mobileWarningCatalogBtn": {
+    "message": "Roblox Kataloğuna Göz At"
+  },
+  "shoppingWarningTitle": {
+    "message": "Avatar alışveriş oyunu tespit edildi"
+  },
+  "shoppingWarningBody": {
+    "message": "Bu bir avatar alışveriş oyunudur. Bu oyun içinde herhangi bir ürün satın alırsan, RoEarn üzerinden nakit iadesi ALAMAZsın — bunun yerine oyun sahibi alır. Nakit iadesi kazanmak için Roblox katalog ürünlerini RoEarn kullanarak Roblox web sitesinden satın al."
+  },
+  "shoppingWarningCatalogBtn": {
+    "message": "Anladım — Kataloğa Gözat"
+  },
+  "shoppingWarningDismiss": {
+    "message": "Kapat"
+  },
+  "creator_snapshot_title": {
+    "message": "Görüntülemeleriniz gönderimde sabitlenir"
+  },
+  "creator_snapshot_body1": {
+    "message": "Videonuzun <strong>şu anda</strong> sahip olduğu görüntüleme sayısı ödeme alacağınız miktardır — gönderdiğiniz anda anlık görüntü alıyoruz."
+  },
+  "creator_snapshot_body2": {
+    "message": "Daha fazla görüntüleme için beklemek istiyorsanız, tamamen uygun — hazır olduğunuzda geri dönüp gönderin."
+  },
+  "creator_snapshot_not_yet": {
+    "message": "Henüz değil"
+  },
+  "creator_snapshot_submit_now": {
+    "message": "Şimdi gönder"
+  },
+  "creator_channel_url_error": {
+    "message": "Bu bir kanal URL'si — lütfen belirli videoya bir bağlantı gönderin."
+  },
+  "creator_quality_guide_btn": {
+    "message": "Video Kalite Rehberi →"
+  },
+  "creator_guide_title": {
+    "message": "Yüksek Kaliteli Video Nasıl Yapılır"
+  },
+  "creator_guide_subtitle": {
+    "message": "En iyi 5 oluşturucumuz <strong>ayda 1.000.000 Robux'tan</strong> fazla kazanıyor — iyi bir gönderimi reddedilenden ayıran budur."
+  },
+  "creator_guide_good_header": {
+    "message": "Yüksek Kaliteli Video"
+  },
+  "creator_guide_bad_header": {
+    "message": "Düşük Kaliteli Video"
+  },
+  "creator_guide_good1": {
+    "message": "Roblox oynanışı video boyunca açıkça görünür"
+  },
+  "creator_guide_good2": {
+    "message": "Uzantı adı ekranda görünür metin olarak görünür — sadece logo değil"
+  },
+  "creator_guide_good3": {
+    "message": "Uzantının nasıl bulunacağını ve kurulacağını ekranda açıklarsınız"
+  },
+  "creator_guide_good4": {
+    "message": "İzleyicilerin kolayca takip edebildiği odaklanmış içerik"
+  },
+  "creator_guide_good5": {
+    "message": "İzleyicileri yorum yapmaya, beğenmeye ve etkileşime geçmeye teşvik eder"
+  },
+  "creator_guide_good6": {
+    "message": "Keşfedilebilirlik için güçlü başlık, küçük resim ve açıklama"
+  },
+  "creator_guide_bad1": {
+    "message": "Sadece logomuzу gösterir — izleyiciler nasıl kuracaklarını bilmez"
+  },
+  "creator_guide_bad2": {
+    "message": "Ödeme almak için aynı videoyu birden çok kez yüklemek"
+  },
+  "creator_guide_bad3": {
+    "message": "Düşük etkileşim — yorum yok, az beğeni, kötü izlenme süresi"
+  },
+  "creator_guide_bad4": {
+    "message": "Uzantı adı ekranda hiç gösterilmez veya bahsedilmez"
+  },
+  "creator_guide_bad5": {
+    "message": "Roblox ile ilgili olmayan içerik"
+  },
+  "creator_guide_bad6": {
+    "message": "İzleyiciler için gerçek değeri olmayan senaryolu veya spam gibi hissettiriyor"
+  },
+  "creator_guide_protip": {
+    "message": "<strong>Pro ipucu:</strong> Pek çok düşük kaliteli video yerine gerçekten harika bir video yapmaya odaklanın. Tek bir viral video çok daha fazla Robux kazandırabilir."
+  },
+  "creator_section_title": {
+    "message": "YouTube Videoları Oluşturarak Kazanın"
+  },
+  "creator_section_desc": {
+    "message": "Doğrulanmış bir oluşturucu olarak videolar yapabilir ve Robux kazanabilirsiniz — uzantılarımızdan birini içeren bir video gönderin."
+  },
+  "creator_stats_header": {
+    "message": "İstatistikler"
+  },
+  "creator_stat_earned": {
+    "message": "Videolardan Toplam Kazanılan"
+  },
+  "creator_stat_views": {
+    "message": "Toplam Ödenen Görüntüleme"
+  },
+  "creator_stat_approved": {
+    "message": "Onaylanan Videolar"
+  },
+  "creator_also_make_label": {
+    "message": "Bunlar için de Video Yap"
+  },
+  "creator_optional_badge": {
+    "message": "İsteğe Bağlı"
+  },
+  "creator_primary_ext_desc": {
+    "message": "Birincil uzantınız <strong>RoEarn</strong> — bunlar içeriğinizi çeşitlendirmek ve daha fazla kazanmak için bonus uzantılardır."
+  },
+  "creator_video_requirement": {
+    "message": "<strong>Video gereksinimi:</strong> Videonuz uzantının kullanımda olduğunu açıkça göstermeli ve adını ekranda görüntülemelidir."
+  },
+  "shareOnWhatsApp": {
+    "message": "WhatsApp'ta paylaş"
+  },
+  "shareTextWhatsApp": {
+    "message": "RoEarn ile Roblox'ta alışveriş yaparken Robux cashback alabileceğini öğrendim. Denersen, $1 davet koduyla 5 Robux kazanırsın.\n\nBuradan indir: https://chromewebstore.google.com/detail/roearn-cashback-on-roblox/fooenmopnfaejehogdbmegaleanpdcea?utm_campaign=whatsapp"
+  },
+  "donate_btn_label": {
+    "message": "Bağış Yap"
+  },
+  "donate_back_to_passes": {
+    "message": "Oyun paslarına dön"
+  },
+  "donate_join_heading": {
+    "message": "Satın almak için katıl"
+  },
+  "donate_join_sub": {
+    "message": "Satın almayı tamamlamak için oyuna katıl. İçeri girdikten sonra bu pası satın alman istenecek."
+  },
+  "donate_join_disclaimer": {
+    "message": "Bu bir bağış olduğundan geri ödeme almayacaksın."
+  },
+  "donate_empty_title": {
+    "message": "Oyun pası mevcut değil"
+  },
+  "donate_empty_sub": {
+    "message": "Bu oyuncu henüz oyun pası oluşturmamış."
+  },
+  "donate_pass_buy": {
+    "message": "Satın Al"
+  },
+  "donate_close_label": {
+    "message": "Kapat"
+  },
+  "donate_notice_text": {
+    "message": "Bunlar bu oyuncuya ait oyun paslarıdır. Birini satın almak Robux'u doğrudan hesabına gönderir."
+  },
+  "donate_tagline": {
+    "message": "@$1 adlı oyuncudan oyun pası satın al, Robux direkt onlara gitsin."
+  },
+  "donate_search_title": {
+    "message": "Bir Oyuncuya Bağış Yap"
+  },
+  "donate_tab_search": {
+    "message": "Ara"
+  },
+  "donate_tab_friends": {
+    "message": "Arkadaşlar"
+  },
+  "donate_search_placeholder": {
+    "message": "Kullanıcı adına göre ara…"
+  },
+  "donate_friends_filter_placeholder": {
+    "message": "Arkadaşları filtrele…"
+  },
+  "donate_search_hint": {
+    "message": "Oyuncu bulmak için kullanıcı adı gir"
+  },
+  "donate_friends_login": {
+    "message": "Arkadaşlarını görmek için Roblox'a giriş yap"
+  },
+  "donate_friends_empty": {
+    "message": "Henüz arkadaşın yok"
+  },
+  "donate_friends_none": {
+    "message": "Arkadaş bulunamadı"
+  },
+  "donate_search_failed": {
+    "message": "Arama başarısız. Lütfen tekrar dene."
+  },
+  "donate_search_no_results": {
+    "message": "\"$1\" için oyuncu bulunamadı"
+  },
+  "donate_search_error": {
+    "message": "Bir şeyler ters gitti. Lütfen tekrar dene."
+  },
+  "cartLimitTitle": {
+    "message": "Sepet sınırına ulaşıldı (maks. $1 aktif ürün)"
+  },
+  "cartLimitBody": {
+    "message": "Roblox satın alma başına yalnızca $1 ürüne izin verir. Ürünleri devre dışı bırakarak saklayabilirsin."
+  },
+  "cartLimitTitleRecheck": {
+    "message": "Aktif ürün sınırına ulaşıldı (maks. $1)"
+  },
+  "cartLimitBodyRecheck": {
+    "message": "Aynı anda yalnızca $1 aktif ürünün olabilir. Önce başka bir ürünü devre dışı bırak."
+  },
+  "wm_popup_subtitle": {
+    "message": "Her video gönderimi onu içermelidir — istisnasız baştan sona görünür."
+  },
+  "wm_example_label": {
+    "message": "Örnek"
+  },
+  "wm_how_it_should_look": {
+    "message": "Nasıl görünmeli"
+  },
+  "wm_requirements_label": {
+    "message": "Gereksinimler"
+  },
+  "wm_req1": {
+    "message": "Filigran <strong>videonun tamamında görünür</strong> olmalıdır — ilk kareden son kareye."
+  },
+  "wm_req2": {
+    "message": "<strong>Okunması ve görülmesi kolay</strong> olmalıdır — gizli, soluk veya ekrandan kesilmiş olmamalıdır."
+  },
+  "wm_req3": {
+    "message": "Filigranın kendisi <strong>bir kısayol değildir</strong> — videonuzun aynı zamanda uzantıyı göstermesi ve açıklaması gerekir."
+  },
+  "wm_download_label": {
+    "message": "Filigranı İndir"
+  },
+  "wm_save_desc": {
+    "message": "Filigran görselini kaydet ve herhangi bir düzenleyici ile videona ekle."
+  },
+  "wm_save_btn": {
+    "message": "Filigranı Kaydet"
+  },
+  "wm_intro_title": {
+    "message": "Yeni: RoEarn Video Filigranı"
+  },
+  "wm_intro_subtitle": {
+    "message": "Artık her video gönderisinde filigran zorunlu tutuyoruz. İşte bilmen gereken her şey."
+  },
+  "wm_intro_what_to_do": {
+    "message": "Yapman gerekenler"
+  },
+  "wm_intro_req1": {
+    "message": "Gönderdiğin <strong>her videoya</strong> RoEarn filigranını ekle."
+  },
+  "wm_intro_req2": {
+    "message": "<strong>Videonun tamamında görünür</strong> olmalıdır — ilk kareden son kareye, kolayca görülebilir ve okunabilir."
+  },
+  "wm_intro_rejected": {
+    "message": "Filigran <strong>olmadan</strong> gönderilen videolar reddedilecektir."
+  },
+  "wm_rejection_title": {
+    "message": "Videonuz reddedildi"
+  },
+  "wm_rejection_body": {
+    "message": "Bu, gönderinizin kalite standartlarımızı veya filigran gereksinimlerimizi karşılamadığı anlamına gelir. Tekrar göndermeden önce lütfen kuralları inceleyin — onları dikkatlice takip etmek onaylanmanın en iyi yoludur."
+  },
+  "wm_rejection_btn": {
+    "message": "Filigran Gereksinimlerini Görüntüle"
+  },
+  "wm_tooltip_watermark_rule": {
+    "message": "Filigran videonun tamamında görünür olmalıdır"
+  },
+  "wm_save_btn_view": {
+    "message": "Filigranı Görüntüle"
+  },
+  "wm_dismiss_btn": {
+    "message": "Kapat"
+  },
+  "wm_disclaimer": {
+    "message": "Düşük kaliteli ve 5.000'den az izlemeye sahip shorts, 1.000 izleme başına yalnızca 50 Robux alacaktır."
+  },
+  "wm_watermark_notice": {
+    "message": "Videon RoEarn filigranını içeriyor mu? İçermiyorsa reddedilecektir."
+  },
+  "creator_rule1": {
+    "message": "Videon <strong>Roblox ile ilgili</strong> olmalıdır — Roblox ile ilgisi olmayan içerikler kabul edilmeyecektir."
+  },
+  "creator_rule2": {
+    "message": "Videon <strong>yüksek kaliteli ve iyi düzenlenmiş</strong> olmalıdır — içeriğine emek ver."
+  },
+  "creator_rule3": {
+    "message": "RoEarn <strong>videonuzda açıkça gösterilmeli</strong> — izleyicilerin onu görüp anlayabilmesi gerekir."
+  },
+  "creator_rule4": {
+    "message": "<strong>RoEarn filigranı videonuzda baştan sona olmalıdır</strong> — tüm süre boyunca ekranda kalması gerekir."
+  },
+  "submit_err_missing_fields": {
+    "message": "Lütfen önce bir video URL'si yapıştır."
+  },
+  "submit_err_not_a_video_url": {
+    "message": "Bu bir YouTube veya TikTok bağlantısına benzemiyor. Bunun bir video URL'si olduğundan emin ol."
+  },
+  "submit_err_youtube_channel_url": {
+    "message": "Bu bir YouTube kanal bağlantısına benziyor, video değil. Belirli bir videoya bağlantı yapıştır (örn. youtube.com/watch?v=...)."
+  },
+  "submit_err_tiktok_profile_url": {
+    "message": "Bu bir TikTok profil bağlantısına benziyor, video değil. Belirli bir videoya bağlantı yapıştır (örn. tiktok.com/@user/video/...)."
+  },
+  "submit_err_tiktok_no_video_id": {
+    "message": "O TikTok bağlantısında video veya fotoğraf bulunamadı. Belirli bir video veya fotoğraf gönderisine bağlantı yapıştır (örn. tiktok.com/@user/video/... veya tiktok.com/@user/photo/...)."
+  },
+  "submit_err_invalid_url_yt": {
+    "message": "Bu geçerli bir YouTube video URL'sine benzemiyor."
+  },
+  "submit_err_invalid_url_tt": {
+    "message": "Bu geçerli bir TikTok video URL'sine benzemiyor."
+  },
+  "submit_err_invalid_url": {
+    "message": "Geçersiz video URL'si."
+  },
+  "submit_err_video_not_found_yt": {
+    "message": "O YouTube videosu bulunamadı. Videonun herkese açık olduğundan ve URL'nin doğru olduğundan emin ol."
+  },
+  "submit_err_video_not_found_tt": {
+    "message": "O TikTok videosu bulunamadı. Videonun herkese açık olduğundan ve URL'nin doğru olduğundan emin ol."
+  },
+  "submit_err_video_not_found": {
+    "message": "Video bulunamadı."
+  },
+  "submit_err_yt_fetch_failed": {
+    "message": "O YouTube videosu şu anda yüklenemiyor. Bir dakika sonra tekrar dene."
+  },
+  "submit_err_tt_fetch_failed": {
+    "message": "O TikTok videosu şu anda yüklenemiyor. Bir dakika sonra tekrar dene."
+  },
+  "submit_err_username_not_in_desc_yt": {
+    "message": "Roblox kullanıcı adın ($1) YouTube video başlığında veya açıklamasında görünmelidir."
+  },
+  "submit_err_username_not_in_desc_tt": {
+    "message": "Roblox kullanıcı adın ($1) TikTok başlığında görünmelidir. (Kullanıcı adının başlıkta yer alması için gönderini düzenle)"
+  },
+  "submit_err_username_not_in_desc": {
+    "message": "Roblox kullanıcı adın videoda görünmelidir."
+  },
+  "submit_err_insufficient_views": {
+    "message": "Videon en az $1 görüntülemeye ihtiyaç duyuyor. Şu anda $2 görüntülemeye sahip."
+  },
+  "submit_err_already_submitted_yt": {
+    "message": "O YouTube videosu zaten gönderilmiş."
+  },
+  "submit_err_already_submitted_tt": {
+    "message": "O TikTok videosu zaten gönderilmiş."
+  },
+  "submit_err_already_submitted": {
+    "message": "O video zaten gönderilmiş."
+  },
+  "submit_err_db_error": {
+    "message": "Bir sunucu hatası oluştu. Lütfen tekrar dene."
+  },
+  "submit_err_network_error": {
+    "message": "Sunucuya ulaşılamadı. Bağlantını kontrol et ve tekrar dene."
+  },
+  "submit_err_auth_failed": {
+    "message": "Roblox hesabın doğrulanamadı. Lütfen sayfayı yenile ve tekrar dene."
+  },
+  "submit_err_default": {
+    "message": "Bir şeyler ters gitti. Lütfen tekrar dene."
+  },
+  "wm_rejection_dismiss_btn": {
+    "message": "Kapat"
+  },
+  "donate_recent_label": {
+    "message": "Son"
+  },
+  "plus_subscribed_title": {
+    "message": "🎉 Tasarrufları biriktiriyorsun!"
+  },
+  "plus_unsubscribed_title": {
+    "message": "💰 Harcadığın her Robuxi ikiye katla"
+  },
+  "plus_body_copy": {
+    "message": "Roblox Plus satın alımlarında %10–20 indirim sağlıyor — RoEarn ise bunun üstüne cashback kazandırıyor. İkisi birleşiyor, bu yüzden Plus ile ne kadar çok tasarruf edersen, RoEarn ile o kadar fazla cashback kazanırsın."
+  },
+  "plus_subscribe_btn": {
+    "message": "RoEarn ile Abone Ol ($1 Kazan)"
+  },
+  "creator_earn_title": {
+    "message": "Video Oluşturarak Kazan"
+  },
+  "creator_url_placeholder": {
+    "message": "TikTok veya YouTube Video URL'sini yapıştır.."
+  },
+  "creator_rate_shorts_label": {
+    "message": "YouTube Shorts & TikTok"
+  },
+  "creator_rate_longform_label": {
+    "message": "Uzun YouTube Videosu"
+  },
+  "creator_rule1_full": {
+    "message": "Videon, gameplay veya Roblox web sitesi gibi <strong>Roblox içeriğine</strong> odaklanmalıdır."
+  },
+  "creator_rule2_full": {
+    "message": "Videon <strong>yüksek kaliteli, iyi kurgulanmış ve net</strong> olmalıdır."
+  },
+  "creator_rule3_full": {
+    "message": "<strong>RoEarn uzantısı açıkça gösterilmeli</strong>, kullanılmalı veya videonuzda bahsedilmelidir."
+  },
+  "creator_rule4_full": {
+    "message": "Resmi <strong>RoEarn filigranı baştan sona ekranda görünür</strong> kalmalıdır."
+  },
+  "creator_earn_subtitle_pre": {
+    "message": "Kazan"
+  },
+  "creator_earn_subtitle_post": {
+    "message": "TikTok & YouTube Shorts'ta her 1.000 izlenme için 300"
+  }
+}

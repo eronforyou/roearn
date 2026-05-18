@@ -1,0 +1,1080 @@
+{
+  "extName": {
+    "message": "RoEarn: Cashback untuk Pembelian Roblox"
+  },
+  "extDescription": {
+    "message": "Dapatkan Robux cashback di setiap pembelian di Roblox!"
+  },
+  "extActionTitle": {
+    "message": "Buka Dasbor RoEarn"
+  },
+  "badgeEarn": {
+    "message": "Dapat"
+  },
+  "buy": {
+    "message": "Beli"
+  },
+  "ineligible": {
+    "message": "Tidak Memenuhi Syarat"
+  },
+  "successPopupTitle": {
+    "message": "Pembelian Selesai"
+  },
+  "successPopupMessage": {
+    "message": "Anda berhasil memperoleh $1 seharga $2."
+  },
+  "successPopupCashback": {
+    "message": "$1 telah ditambahkan ke saldo RoEarn Anda."
+  },
+  "successPopupBalanceBtn": {
+    "message": "Saldo"
+  },
+  "successPopupCustomizeBtn": {
+    "message": "Kustomisasi"
+  },
+  "successPopupContinueBtn": {
+    "message": "Lanjutkan"
+  },
+  "notEligibleForCashback": {
+    "message": "Tidak Memenuhi Syarat Cashback"
+  },
+  "tooltipRobloxLimited": {
+    "message": "Limited buatan Roblox tidak memenuhi syarat cashback."
+  },
+  "tooltipNotInGame": {
+    "message": "Item ini tidak memenuhi syarat karena tidak dapat dibeli dalam game."
+  },
+  "tooltipPriceTooLow": {
+    "message": "Harga item terlalu rendah untuk cashback. Harga minimum adalah $1 Robux."
+  },
+  "catalogBuyBtn": {
+    "message": "Beli dengan RoEarn (Dapat $1)"
+  },
+  "tooltipGamepassMinPrice": {
+    "message": "Harga gamepass harus lebih dari 40 Robux agar memenuhi syarat cashback."
+  },
+  "gamepassBuyBtn": {
+    "message": "Beli (Dapat $1)"
+  },
+  "tooltipGamepassMinPriceShort": {
+    "message": "Harga gamepass harus lebih dari 40 Robux agar memenuhi syarat cashback."
+  },
+  "earnAmount": {
+    "message": "(Dapat $1)"
+  },
+  "errorDiscordSupport": {
+    "message": "Error $1: Bergabunglah dengan server Discord kami: <a href=\"https://discord.gg/roearnsupport\" target=\"_blank\">discord.gg/roearnsupport</a>"
+  },
+  "roEarnBalance": {
+    "message": "Saldo RoEarn: $1 Robux"
+  },
+  "roEarnBalanceLoading": {
+    "message": "Saldo RoEarn: Memuat..."
+  },
+  "reviewPromptText": {
+    "message": "Apakah RoEarn berfungsi? Berikan ulasan!"
+  },
+  "checkoutPageTitle": {
+    "message": "Checkout RoEarn"
+  },
+  "checkoutTitle": {
+    "message": "Selesaikan Pembelian"
+  },
+  "checkoutSubtitle": {
+    "message": "Dapatkan cashback untuk pembelian Roblox Anda"
+  },
+  "checkoutSaveBadge": {
+    "message": "Hemat $1 Robux!"
+  },
+  "checkoutHowItWorks": {
+    "message": "Cara Kerja"
+  },
+  "checkoutStep1": {
+    "message": "Bergabunglah dengan hub RoEarn menggunakan tombol putar di bawah."
+  },
+  "checkoutStep2": {
+    "message": "Anda akan diminta membeli $1 di dalam game."
+  },
+  "checkoutStep3": {
+    "message": "Cashback $1 akan langsung dikreditkan ke saldo RoEarn untuk penarikan."
+  },
+  "checkoutAutoJoin": {
+    "message": "Selalu bergabung hub RoEarn secara otomatis"
+  },
+  "dashboardPageTitle": {
+    "message": "Dasbor RoEarn"
+  },
+  "dashboardTitle": {
+    "message": "Dasbor RoEarn"
+  },
+  "dashboardSubtitle": {
+    "message": "Kelola penghasilan dan undangan Anda"
+  },
+  "welcomeTitle": {
+    "message": "Selamat Datang di RoEarn"
+  },
+  "welcomeSubtitle": {
+    "message": "Video tutorial singkat untuk membantu Anda memulai"
+  },
+  "referralEntryTitle": {
+    "message": "Apakah seseorang mengundang Anda ke RoEarn?"
+  },
+  "referralEntryDescription": {
+    "message": "Masukkan kode mereka dan Anda berdua akan mendapat cashback ekstra!"
+  },
+  "referralInputPlaceholder": {
+    "message": "Masukkan kode undangan"
+  },
+  "optionalLabel": {
+    "message": "(OPSIONAL)"
+  },
+  "startButton": {
+    "message": "Mulai gunakan RoEarn"
+  },
+  "loadingText": {
+    "message": "Memuat..."
+  },
+  "errorInvalidReferralCode": {
+    "message": "Kode undangan tidak valid"
+  },
+  "errorOwnReferralCode": {
+    "message": "Anda tidak dapat menggunakan kode undangan sendiri"
+  },
+  "errorSetReferralFailed": {
+    "message": "Gagal mengatur undangan. "
+  },
+  "errorReferralAlreadyUsed": {
+    "message": "Anda sudah menggunakan kode undangan."
+  },
+  "errorInvalidReferralCodeRetry": {
+    "message": "Kode tidak valid. Periksa dan coba lagi."
+  },
+  "errorVerificationFailed": {
+    "message": "Verifikasi gagal. Coba lagi."
+  },
+  "errorPleaseTryAgain": {
+    "message": "Coba lagi."
+  },
+  "bonusAddedText": {
+    "message": "5 Robux telah ditambahkan ke saldo RoEarn Anda!"
+  },
+  "yourBalanceLabel": {
+    "message": "Saldo RoEarn Anda"
+  },
+  "withdrawButton": {
+    "message": "Tarik ke Roblox"
+  },
+  "errorMinWithdrawal": {
+    "message": "Jumlah penarikan minimum adalah 4 Robux."
+  },
+  "withdrawalSuccessTitle": {
+    "message": "Penarikan Berhasil"
+  },
+  "withdrawalSuccessMessage": {
+    "message": "Silakan periksa <b><u>Robux Tertunda</u></b> dan <b><u>Penjualan Barang</u></b> Anda dalam sekitar 45 detik, karena pembelian mungkin memerlukan waktu untuk muncul."
+  },
+  "viewTransactionsCountdown": {
+    "message": "Lihat Transaksi ($1)"
+  },
+  "viewTransactionsButton": {
+    "message": "Lihat Transaksi"
+  },
+  "referralProgramTitle": {
+    "message": "Undang Temanmu"
+  },
+  "yourReferralCodeLabel": {
+    "message": "Kode Undangan Anda"
+  },
+  "copyButton": {
+    "message": "Salin"
+  },
+  "copiedButton": {
+    "message": "Tersalin!"
+  },
+  "totalEarnedLabel": {
+    "message": "Total Diperoleh"
+  },
+  "referralsLabel": {
+    "message": "Undangan"
+  },
+  "referralDescription": {
+    "message": "<span class=\"roearn-referral-highlight\">Bagikan kode undangan Anda. </span>Ketika seseorang menginstal RoEarn menggunakan kode Anda, Anda mendapatkan <b>15 Robux secara instan!</b><br><br>Siapa pun yang menggunakan kode undangan Anda akan mendapatkan <b>5 Robux!</b><br><br><b>⚠️ Penafian:</b> Akun alternatif tidak akan menerima hadiah Robux."
+  },
+  "backButton": {
+    "message": "← Kembali"
+  },
+  "yourReferralsTitle": {
+    "message": "Undangan Anda"
+  },
+  "noReferralsMessage": {
+    "message": "Belum ada undangan. Bagikan kode untuk mulai menghasilkan!"
+  },
+  "loadingReferralProfiles": {
+    "message": "Memuat profil yang diundang..."
+  },
+  "errorAuthFailed": {
+    "message": "Gagal autentikasi. Pastikan Anda login ke Roblox."
+  },
+  "errorAuthRetry": {
+    "message": "Gagal autentikasi. Coba lagi."
+  },
+  "errorFetchGames": {
+    "message": "Gagal mengambil game. Pastikan Anda memiliki minimal satu game."
+  },
+  "errorFetchGamesRetry": {
+    "message": "Gagal mengambil game. Coba lagi."
+  },
+  "errorNoGames": {
+    "message": "Anda perlu membuat game Roblox terlebih dahulu sebelum menggunakan kode referral."
+  },
+  "errorSecurityToken": {
+    "message": "Gagal mendapat token keamanan. Refresh halaman dan coba lagi."
+  },
+  "errorCreateGamepass": {
+    "message": "Gagal membuat gamepass verifikasi. Coba lagi."
+  },
+  "errorUpdateGamepass": {
+    "message": "Gagal memperbarui detail gamepass. Coba lagi."
+  },
+  "errorFetchGamepasses": {
+    "message": "Gagal mengambil gamepass. Coba lagi."
+  },
+  "errorNoGamepasses": {
+    "message": "Tidak ada gamepass untuk verifikasi. Coba lagi."
+  },
+  "errorUpdateVerification": {
+    "message": "Gagal memperbarui gamepass untuk verifikasi. Coba lagi."
+  },
+  "errorUnexpected": {
+    "message": "Terjadi kesalahan. Coba lagi."
+  },
+  "cartTitle": {
+    "message": "Keranjang Belanja ($1)"
+  },
+  "cartEmpty": {
+    "message": "Keranjang Anda kosong"
+  },
+  "cartRemove": {
+    "message": "Hapus"
+  },
+  "cartTotal": {
+    "message": "Total: $1 item"
+  },
+  "cartTotalPlural": {
+    "message": "Total: $1 item"
+  },
+  "checkoutBulkStep2": {
+    "message": "Anda akan diminta untuk membeli item Anda di dalam game."
+  },
+  "checkoutBulkStep2Single": {
+    "message": "Anda akan diminta untuk membeli item Anda di dalam game."
+  },
+  "cartTotalLabel": {
+    "message": "Total"
+  },
+  "addToCart": {
+    "message": "Tambah ke Keranjang RoEarn"
+  },
+  "removeFromCart": {
+    "message": "Hapus dari Keranjang RoEarn"
+  },
+  "somethingWentWrong": {
+    "message": "Silakan coba penarikan Anda lagi dalam 5 menit."
+  },
+  "copyExtensionLink": {
+    "message": "Salin Tautan Ekstensi"
+  },
+  "altDetectedText": {
+    "message": "⚠️ Akun Mencurigakan"
+  },
+  "pendingRobuxNotice": {
+    "message": "Anda memiliki X Robux tertunda. Periksa kembali dalam 2 menit."
+  },
+  "tooltipOffSale": {
+    "message": "Item ini tidak memenuhi syarat untuk cashback karena aslinya saat ini tidak tersedia untuk dibeli."
+  },
+  "contentCreatorTitle": {
+    "message": "Buat Video & Dapatkan Robux"
+  },
+  "contentCreatorPayout": {
+    "message": "Dapatkan 300 Robux per 1.000 tampilan untuk YouTube Shorts"
+  },
+  "contentCreatorDescription": {
+    "message": "Video harus menampilkan ekstensi RoEarn dan <u><b>fitur cashback katalog.</b></u> Pastikan nama pengguna Roblox Anda ada di deskripsi."
+  },
+  "contentCreatorContact": {
+    "message": "Hubungi creators@roearn.io untuk klaim Robux Anda"
+  },
+  "contentCreatorLink": {
+    "message": "Video panjang dibayar |SPLIT| per 1.000 tampilan"
+  },
+  "withdrawalAgreementTitle": {
+    "message": "Cara Kerja Penarikan"
+  },
+  "withdrawalAgreementText": {
+    "message": "Kami akan membayar Robux Anda dengan membeli gamepass Anda. RoEarn secara otomatis membuat gamepass untuk Anda, jadi Anda tidak perlu melakukan apa pun."
+  },
+  "continueButton": {
+    "message": "Lanjutkan"
+  },
+  "joinDiscordButton": {
+    "message": "Bergabunglah dengan Discord"
+  },
+  "notificationTitle": {
+    "message": "Saldo RoEarn Diperbarui"
+  },
+  "notificationText": {
+    "message": "Robux ditambahkan ke saldo RoEarn Anda. Anda sekarang dapat menariknya!"
+  },
+  "dismissButton": {
+    "message": "Tutup"
+  },
+  "viewBalanceButton": {
+    "message": "Lihat Saldo"
+  },
+  "now40Text": {
+    "message": "Sekarang 40 Robux per undangan!"
+  },
+  "countdownPrefix": {
+    "message": "Dapatkan $1 Robux per undangan (Berakhir dalam "
+  },
+  "countdownDay": {
+    "message": "hari"
+  },
+  "countdownDays": {
+    "message": "hari"
+  },
+  "countdownHour": {
+    "message": "jam"
+  },
+  "countdownHours": {
+    "message": "jam"
+  },
+  "countdownMinute": {
+    "message": "menit"
+  },
+  "countdownMinutes": {
+    "message": "menit"
+  },
+  "shareYourInvite": {
+    "message": "🎉 Bagikan kode undangan Anda dan dapatkan $1 Robux untuk setiap teman yang Anda bawa ke RoEarn.",
+    "description": "Referral prompt text with invite bonus amount"
+  },
+  "playAndEarn_Text": {
+    "message": "Mainkan dan Dapatkan dengan RoEarn!"
+  },
+  "sponsoredPlacements_Text": {
+    "message": "Game di bagian ini dipromosikan melalui RoEarn sebagai bagian dari penempatan berbayar."
+  },
+  "timePlayed_Text": {
+    "message": "Waktu Bermain"
+  },
+  "earned_Text": {
+    "message": "Diperoleh"
+  },
+  "rate_Text": {
+    "message": "Tarif"
+  },
+  "hour_Text": {
+    "message": "/jam"
+  },
+  "tutorialStep1Title_Text": {
+    "message": "Dapatkan Robux dengan bermain $1"
+  },
+  "tutorialStep1Body_Text": {
+    "message": "RoEarn membayar Anda 5 Robux untuk setiap jam yang Anda habiskan di game berbayar. Cukup mainkan, dapatkan, dan tarik kapan pun Anda mau."
+  },
+  "next_Text": {
+    "message": "Berikutnya"
+  },
+  "trackYourEarningsTitle_Text": {
+    "message": "Lacak penghasilan Anda"
+  },
+  "tutorialStep2Body_Text": {
+    "message": "Panel ini menampilkan waktu bermain dan Robux yang Anda peroleh. Anda mendapatkan 5 Robux per jam — yaitu 1 Robux setiap 12 menit, langsung ditambahkan ke saldo RoEarn Anda. Tarik kapan saja di"
+  },
+  "gotIt_Text": {
+    "message": "Mengerti"
+  },
+  "shareTextX": {
+    "message": "Baru tahu kalau kita bisa dapat cashback Robux saat beli sesuatu di Roblox pakai RoEarn. Kalau mau coba, kode undangan $1 kasih 5 Robux.\n\nDapatkan di sini: https://chromewebstore.google.com/detail/roearn-cashback-on-roblox/fooenmopnfaejehogdbmegaleanpdcea?utm_campaign=x\n\n#Robux #Roblox #RoEarn"
+  },
+  "shareTextTelegram": {
+    "message": "Baru tahu kalau kita bisa dapat cashback Robux saat beli sesuatu di Roblox pakai RoEarn. Kalau mau coba, kode undangan $1 kasih 5 Robux."
+  },
+  "shareTextReddit": {
+    "message": "Dapatkan cashback Robux untuk pembelian di Roblox menggunakan RoEarn (kode undangan $1 memberikan 5 Robux)"
+  },
+  "shareOnX": {
+    "message": "Bagikan di X"
+  },
+  "shareOnFacebook": {
+    "message": "Bagikan di Facebook"
+  },
+  "shareOnTelegram": {
+    "message": "Bagikan di Telegram"
+  },
+  "shareOnReddit": {
+    "message": "Bagikan di Reddit"
+  },
+  "dashboard_fav_label": {
+    "message": "Dapatkan dengan Menyukai Pakaian"
+  },
+  "dashboard_fav_desc": {
+    "message": "Dapatkan Robux dengan otomatis menyukai item pakaian di latar belakang"
+  },
+  "dashboard_fav_bubble_title": {
+    "message": "Sebelum kamu mengaktifkan ini"
+  },
+  "dashboard_fav_bubble_body": {
+    "message": "Ini akan secara otomatis menyukai aset pakaian 2D saat dirilis. Kamu mendapatkan <strong style=\"color:#ffffff;\">1 Robux setiap 20 favorit</strong>, hingga <strong style=\"color:#ffffff;\">24 Robux per hari</strong> di latar belakang — selama browser berjalan. Penghasilan langsung ditambahkan ke saldo RoEarn-mu."
+  },
+  "dashboard_fav_cancel": {
+    "message": "Batal"
+  },
+  "dashboard_fav_agree": {
+    "message": "Setuju"
+  },
+  "dashboard_yt_label": {
+    "message": "Dapatkan dengan Membuat Video YouTube"
+  },
+  "dashboard_yt_desc": {
+    "message": "Dapatkan bayaran"
+  },
+  "dashboard_yt_desc2": {
+    "message": "300 per 1.000 tayangan di YouTube Shorts"
+  },
+  "dashboard_yt_get_started": {
+    "message": "Mulai"
+  },
+  "dashboard_subscribe_label": {
+    "message": "Langganan di YouTube"
+  },
+  "dashboard_subscribe_desc": {
+    "message": "Tetap update dengan tips & berita terbaru kami"
+  },
+  "dashboard_subscribe_btn": {
+    "message": "Langganan"
+  },
+  "dashboard_other_extensions": {
+    "message": "Ekstensi Lainnya"
+  },
+  "dashboard_roexport_name": {
+    "message": "RoExport"
+  },
+  "dashboard_roexport_tagline": {
+    "message": "Simpan & Upload Ulang Pakaian Roblox"
+  },
+  "dashboard_roexport_desc": {
+    "message": "Simpan dan upload ulang baju, celana, atau kaos apa pun di Roblox — termasuk item yang sudah tidak dijual. Menambahkan tombol <strong style=\"color:$1;\">&ldquo;Simpan Template&rdquo;</strong> dan <strong style=\"color:$1;\">&ldquo;Upload Ulang&rdquo;</strong> di setiap halaman pakaian."
+  },
+  "dashboard_roexport_pill1": {
+    "message": "Berfungsi pada item tidak dijual"
+  },
+  "dashboard_roexport_pill2": {
+    "message": "Upload ke grup mana saja"
+  },
+  "dashboard_roexport_pill3": {
+    "message": "Tidak perlu premium"
+  },
+  "dashboard_roexport_cta": {
+    "message": "Tambahkan ke Browser"
+  },
+  "dashboard_creator_title": {
+    "message": "Buat Video & Dapatkan Robux"
+  },
+  "dashboard_creator_desc": {
+    "message": "Buat video tentang RoEarn menggunakan gameplay atau rekaman Roblox. Tampilkan ekstensi, penghasilan, atau buat tutorial — apa pun yang menampilkan RoEarn dan Roblox."
+  },
+  "dashboard_creator_shorts": {
+    "message": "YouTube Shorts"
+  },
+  "dashboard_creator_longform": {
+    "message": "Video Panjang"
+  },
+  "dashboard_creator_per_views": {
+    "message": "per 1.000 tayangan"
+  },
+  "dashboard_creator_rules": {
+    "message": "Aturan"
+  },
+  "dashboard_creator_rule1": {
+    "message": "Video harus berkualitas tinggi dan diedit dengan baik"
+  },
+  "dashboard_creator_rule2": {
+    "message": "RoEarn harus terlihat jelas oleh penonton"
+  },
+  "dashboard_creator_rule3": {
+    "message": "Username Roblox-mu harus ada di deskripsi video"
+  },
+  "dashboard_creator_tools": {
+    "message": "Alat yang Direkomendasikan"
+  },
+  "dashboard_capcut_name": {
+    "message": "CapCut"
+  },
+  "dashboard_capcut_desc": {
+    "message": "Editor video gratis"
+  },
+  "dashboard_snipping_name": {
+    "message": "Snipping Tool"
+  },
+  "dashboard_snipping_desc": {
+    "message": "Perekaman layar cepat"
+  },
+  "dashboard_submit_title": {
+    "message": "Kirimkan Video Kamu"
+  },
+  "dashboard_submit_desc": {
+    "message": "Email tautan videomu untuk menerima pembayaran — kami mungkin memerlukan hingga 24 jam untuk membalas"
+  },
+  "dashboard_send_email": {
+    "message": "Kirim Email"
+  },
+  "sidebarNewText": {
+    "message": "Baru"
+  },
+  "s_fav_lock_title": {
+    "message": "🔒 Fitur Terkunci"
+  },
+  "s_fav_lock_body": {
+    "message": "Lakukan 1 pembelian menggunakan RoEarn untuk membuka fitur favorit pakaian otomatis."
+  },
+  "s_extras_title": {
+    "message": "Penghasilan Bonus"
+  },
+  "s_your_invites_title": {
+    "message": "Undangan Anda"
+  },
+  "s_invites_empty": {
+    "message": "Mulai mengundang orang dan mereka akan muncul di sini."
+  },
+  "s_referral_disclaimer": {
+    "message": "⚠️ Akun alternatif tidak akan menerima hadiah Robux."
+  },
+  "s_alt_tooltip": {
+    "message": "Akun ini terdeteksi mencurigakan dan tidak akan menerima hadiah Robux."
+  },
+  "yt_submit_btn": {
+    "message": "Kirim"
+  },
+  "yt_view_submissions_btn": {
+    "message": "Lihat Kiriman"
+  },
+  "yt_status_in_review": {
+    "message": "Sedang Ditinjau"
+  },
+  "yt_status_paid": {
+    "message": "Dibayar"
+  },
+  "yt_status_rejected": {
+    "message": "Ditolak"
+  },
+  "yt_modal_title": {
+    "message": "Kiriman Kamu"
+  },
+  "yt_stat_total": {
+    "message": "Total"
+  },
+  "yt_videos_label": {
+    "message": "Video"
+  },
+  "yt_no_submissions": {
+    "message": "Belum ada kiriman."
+  },
+  "yt_input_placeholder": {
+    "message": "Tempel URL video YouTube (mis. youtube.com/watch?v=...)"
+  },
+  "yt_err_missing_fields": {
+    "message": "Harap masukkan URL video YouTube yang valid."
+  },
+  "yt_err_invalid_url": {
+    "message": "Itu bukan tautan YouTube yang valid."
+  },
+  "yt_err_video_not_found": {
+    "message": "Video tidak ditemukan — pastikan videonya publik."
+  },
+  "yt_err_fetch_failed": {
+    "message": "Tidak bisa menjangkau YouTube sekarang. Coba lagi."
+  },
+  "yt_err_already_submitted": {
+    "message": "Kamu sudah mengirimkan video ini."
+  },
+  "yt_err_db_error": {
+    "message": "Kesalahan server. Coba lagi sebentar."
+  },
+  "yt_err_network_error": {
+    "message": "Kesalahan jaringan. Periksa koneksimu."
+  },
+  "yt_err_internal_error": {
+    "message": "Terjadi kesalahan. Coba lagi nanti."
+  },
+  "yt_err_auth_failed": {
+    "message": "Tidak dapat memverifikasi akun Roblox kamu."
+  },
+  "yt_err_username_not_in_desc": {
+    "message": "Nama pengguna Roblox kamu ($1) harus ada di deskripsi video."
+  },
+  "yt_err_insufficient_views": {
+    "message": "Video kamu membutuhkan setidaknya $1 penonton untuk memenuhi syarat (saat ini $2)."
+  },
+  "yt_submit_success": {
+    "message": "Video dikirim! Kami akan meninjaunya dalam 24 jam."
+  },
+  "yt_tooltip_pending": {
+    "message": "Video kamu sedang dalam peninjauan. Proses ini bisa memakan waktu hingga 24 jam."
+  },
+  "yt_tooltip_approved": {
+    "message": "Video ini telah ditinjau dan Robux telah dibayarkan."
+  },
+  "yt_tooltip_rejected": {
+    "message": "Video kamu tidak mengikuti aturan kreator kami dan tidak disetujui untuk pembayaran."
+  },
+  "dashboard_roexport_installed": {
+    "message": "Kamu sudah memasang ekstensi ini"
+  },
+  "dashboard_shorts_disclaimer": {
+    "message": "Postingan berkualitas rendah dengan kurang dari 5.000 tampilan hanya akan menerima 50 Robux per 1.000 tampilan."
+  },
+  "dashboard_submit_agreement_title": {
+    "message": "Sebelum Mengirim"
+  },
+  "dashboard_submit_agreement_body": {
+    "message": "Dengan mengirimkan video, Anda setuju bahwa video tersebut berkaitan dengan RoEarn dan RoEarn ditampilkan dalam video. Mengirimkan video yang tidak terkait akan menghilangkan kemampuan Anda untuk mengirim secara permanen."
+  },
+  "dashboard_submit_agreement_cancel": {
+    "message": "Batal"
+  },
+  "dashboard_submit_agreement_confirm": {
+    "message": "Saya Setuju"
+  },
+  "dashboard_roregion_subtitle": {
+    "message": "Pilih Lokasi Server Roblox Anda"
+  },
+  "dashboard_roregion_description": {
+    "message": "Pilih wilayah server Roblox Anda dan terhubung ke lokasi di seluruh dunia — sehingga Anda selalu mendapatkan ping terbaik dan gameplay paling lancar. Menambahkan pemilih wilayah langsung ke Roblox, memungkinkan Anda memfilter server berdasarkan lokasi hanya dengan beberapa klik."
+  },
+  "dashboard_roregion_tag_nolag": {
+    "message": "Tanpa Lag"
+  },
+  "dashboard_roregion_tag_ping": {
+    "message": "Ping Bagus"
+  },
+  "dashboard_roregion_tag_gameplay": {
+    "message": "Gameplay Cepat"
+  },
+  "mobileWarningTitle": {
+    "message": "Penting: Dapatkan Cashback dari Pembelian"
+  },
+  "mobileWarningBody": {
+    "message": "Untuk mendapatkan cashback dari RoEarn, kamu harus membeli item katalog Roblox di browser ini — bukan di aplikasi Roblox. Pembelian yang dilakukan di dalam aplikasi Roblox tidak dapat dilacak, sehingga kamu tidak akan mendapatkan cashback."
+  },
+  "mobileWarningCatalogBtn": {
+    "message": "Jelajahi Katalog Roblox"
+  },
+  "shoppingWarningTitle": {
+    "message": "Game Belanja Avatar Terdeteksi"
+  },
+  "shoppingWarningBody": {
+    "message": "Ini adalah game belanja avatar. Jika kamu membeli item di dalam game ini, kamu TIDAK akan mendapatkan cashback melalui RoEarn — pemilik game yang akan menerimanya. Untuk mendapatkan cashback, beli item katalog Roblox di website Roblox menggunakan RoEarn."
+  },
+  "shoppingWarningCatalogBtn": {
+    "message": "Mengerti — Jelajahi Katalog"
+  },
+  "shoppingWarningDismiss": {
+    "message": "Tutup"
+  },
+  "creator_snapshot_title": {
+    "message": "Jumlah tampilan dikunci saat pengiriman"
+  },
+  "creator_snapshot_body1": {
+    "message": "Jumlah tampilan yang dimiliki videomu <strong>sekarang</strong> adalah yang akan dibayarkan — kami mengambil snapshot saat kamu mengirim."
+  },
+  "creator_snapshot_body2": {
+    "message": "Jika kamu ingin menunggu lebih banyak tampilan, tidak apa-apa — kembali dan kirim saat kamu siap."
+  },
+  "creator_snapshot_not_yet": {
+    "message": "Belum"
+  },
+  "creator_snapshot_submit_now": {
+    "message": "Kirim sekarang"
+  },
+  "creator_channel_url_error": {
+    "message": "Itu URL saluran — harap kirimkan tautan ke video tertentu."
+  },
+  "creator_quality_guide_btn": {
+    "message": "Panduan Kualitas Video →"
+  },
+  "creator_guide_title": {
+    "message": "Cara Membuat Video Berkualitas Tinggi"
+  },
+  "creator_guide_subtitle": {
+    "message": "5 kreator terbaik kami menghasilkan lebih dari <strong>1.000.000 Robux/bulan</strong> — ini yang membedakan pengiriman bagus dari yang ditolak."
+  },
+  "creator_guide_good_header": {
+    "message": "Video Berkualitas Tinggi"
+  },
+  "creator_guide_bad_header": {
+    "message": "Video Berkualitas Rendah"
+  },
+  "creator_guide_good1": {
+    "message": "Gameplay Roblox terlihat jelas sepanjang video"
+  },
+  "creator_guide_good2": {
+    "message": "Nama ekstensi muncul sebagai teks yang terlihat di layar — bukan hanya logo"
+  },
+  "creator_guide_good3": {
+    "message": "Kamu menjelaskan cara menemukan dan menginstal ekstensi di layar"
+  },
+  "creator_guide_good4": {
+    "message": "Konten terfokus yang mudah diikuti penonton"
+  },
+  "creator_guide_good5": {
+    "message": "Mendorong penonton untuk berkomentar, menyukai, dan berinteraksi"
+  },
+  "creator_guide_good6": {
+    "message": "Judul, thumbnail, dan deskripsi yang kuat untuk keterdapatan"
+  },
+  "creator_guide_bad1": {
+    "message": "Hanya menampilkan logo kami — penonton tidak tahu cara menginstalnya"
+  },
+  "creator_guide_bad2": {
+    "message": "Mengunggah ulang video yang sama berkali-kali untuk mendapat bayaran"
+  },
+  "creator_guide_bad3": {
+    "message": "Keterlibatan rendah — tidak ada komentar, sedikit suka, waktu tonton buruk"
+  },
+  "creator_guide_bad4": {
+    "message": "Nama ekstensi tidak pernah ditampilkan atau disebutkan di layar"
+  },
+  "creator_guide_bad5": {
+    "message": "Konten tidak berkaitan dengan Roblox"
+  },
+  "creator_guide_bad6": {
+    "message": "Terasa seperti skrip atau spam tanpa nilai nyata bagi penonton"
+  },
+  "creator_guide_protip": {
+    "message": "<strong>Tips pro:</strong> Fokus membuat satu video yang benar-benar bagus daripada banyak video berkualitas rendah. Satu video viral bisa menghasilkan jauh lebih banyak Robux."
+  },
+  "creator_section_title": {
+    "message": "Dapatkan Bayaran dengan Membuat Video YouTube"
+  },
+  "creator_section_desc": {
+    "message": "Sebagai kreator terverifikasi kamu bisa membuat video dan dibayar Robux — kirimkan video yang menampilkan ekstensi kami."
+  },
+  "creator_stats_header": {
+    "message": "Statistik"
+  },
+  "creator_stat_earned": {
+    "message": "Total Diperoleh dari Video"
+  },
+  "creator_stat_views": {
+    "message": "Total Tampilan Berbayar"
+  },
+  "creator_stat_approved": {
+    "message": "Video Disetujui"
+  },
+  "creator_also_make_label": {
+    "message": "Buat Video Untuk"
+  },
+  "creator_optional_badge": {
+    "message": "Opsional"
+  },
+  "creator_primary_ext_desc": {
+    "message": "Ekstensi utamamu adalah <strong>RoEarn</strong> — ini adalah ekstensi bonus untuk mendiversifikasi konten dan menghasilkan lebih banyak."
+  },
+  "creator_video_requirement": {
+    "message": "<strong>Persyaratan video:</strong> Videomu harus jelas menampilkan ekstensi yang digunakan dan menampilkan namanya di layar."
+  },
+  "shareOnWhatsApp": {
+    "message": "Bagikan di WhatsApp"
+  },
+  "shareTextWhatsApp": {
+    "message": "Baru tahu kalau bisa dapat cashback Robux saat beli barang di Roblox pakai RoEarn. Kalau mau coba, kode undangan $1 kasih 5 Robux.\n\nDapatkan di sini: https://chromewebstore.google.com/detail/roearn-cashback-on-roblox/fooenmopnfaejehogdbmegaleanpdcea?utm_campaign=whatsapp"
+  },
+  "donate_btn_label": {
+    "message": "Donasi"
+  },
+  "donate_back_to_passes": {
+    "message": "Kembali ke game pass"
+  },
+  "donate_join_heading": {
+    "message": "Gabung untuk Membeli"
+  },
+  "donate_join_sub": {
+    "message": "Bergabunglah ke game untuk menyelesaikan pembelian. Setelah masuk, kamu akan diminta membeli pass ini."
+  },
+  "donate_join_disclaimer": {
+    "message": "Karena ini donasi, kamu tidak akan mendapat cashback."
+  },
+  "donate_empty_title": {
+    "message": "Tidak ada game pass tersedia"
+  },
+  "donate_empty_sub": {
+    "message": "Pemain ini belum menyiapkan game pass."
+  },
+  "donate_pass_buy": {
+    "message": "Beli"
+  },
+  "donate_close_label": {
+    "message": "Tutup"
+  },
+  "donate_notice_text": {
+    "message": "Ini adalah game pass milik pemain ini. Membelinya berarti mengirimkan Robux langsung ke akun mereka."
+  },
+  "donate_tagline": {
+    "message": "Beli game pass dari @$1 dan Robux langsung masuk ke akun mereka."
+  },
+  "donate_search_title": {
+    "message": "Donasi ke Pemain"
+  },
+  "donate_tab_search": {
+    "message": "Cari"
+  },
+  "donate_tab_friends": {
+    "message": "Teman"
+  },
+  "donate_search_placeholder": {
+    "message": "Cari berdasarkan username…"
+  },
+  "donate_friends_filter_placeholder": {
+    "message": "Filter teman…"
+  },
+  "donate_search_hint": {
+    "message": "Ketik username untuk mencari pemain"
+  },
+  "donate_friends_login": {
+    "message": "Masuk ke Roblox untuk melihat temanmu"
+  },
+  "donate_friends_empty": {
+    "message": "Kamu belum punya teman"
+  },
+  "donate_friends_none": {
+    "message": "Tidak ada teman ditemukan"
+  },
+  "donate_search_failed": {
+    "message": "Pencarian gagal. Coba lagi."
+  },
+  "donate_search_no_results": {
+    "message": "Tidak ada pemain ditemukan untuk \"$1\""
+  },
+  "donate_search_error": {
+    "message": "Ada yang salah. Coba lagi."
+  },
+  "cartLimitTitle": {
+    "message": "Batas keranjang tercapai (maks $1 item aktif)"
+  },
+  "cartLimitBody": {
+    "message": "Roblox hanya mengizinkan $1 item per pembelian. Kamu bisa menonaktifkan item untuk menyimpannya."
+  },
+  "cartLimitTitleRecheck": {
+    "message": "Batas item aktif tercapai (maks $1)"
+  },
+  "cartLimitBodyRecheck": {
+    "message": "Kamu hanya bisa memiliki $1 item aktif sekaligus. Nonaktifkan item lain atau hapus dari keranjang."
+  },
+  "wm_popup_subtitle": {
+    "message": "Setiap pengiriman video harus menyertakannya — terlihat dari awal hingga akhir, tanpa pengecualian."
+  },
+  "wm_example_label": {
+    "message": "Contoh"
+  },
+  "wm_how_it_should_look": {
+    "message": "Tampilannya seharusnya"
+  },
+  "wm_requirements_label": {
+    "message": "Persyaratan"
+  },
+  "wm_req1": {
+    "message": "Watermark harus <strong>terlihat sepanjang video</strong> — dari frame pertama hingga terakhir."
+  },
+  "wm_req2": {
+    "message": "Harus <strong>mudah dibaca dan dilihat</strong> — tidak tersembunyi, memudar, atau terpotong dari layar."
+  },
+  "wm_req3": {
+    "message": "Watermark saja bukan <strong>jalan pintas</strong> — video kamu juga harus menampilkan dan menjelaskan ekstensi ini."
+  },
+  "wm_download_label": {
+    "message": "Unduh Watermark"
+  },
+  "wm_save_desc": {
+    "message": "Simpan gambar watermark dan tambahkan ke video kamu menggunakan editor apa saja."
+  },
+  "wm_save_btn": {
+    "message": "Simpan Watermark"
+  },
+  "wm_intro_title": {
+    "message": "Baru: Watermark Video RoEarn"
+  },
+  "wm_intro_subtitle": {
+    "message": "Kami sekarang mewajibkan watermark di setiap pengiriman video. Berikut semua yang perlu kamu ketahui."
+  },
+  "wm_intro_what_to_do": {
+    "message": "Yang perlu kamu lakukan"
+  },
+  "wm_intro_req1": {
+    "message": "Sertakan watermark RoEarn di <strong>setiap video</strong> yang kamu kirimkan."
+  },
+  "wm_intro_req2": {
+    "message": "Harus <strong>terlihat sepanjang video</strong> — dari frame pertama hingga terakhir, mudah dilihat dan dibaca."
+  },
+  "wm_intro_rejected": {
+    "message": "Video yang dikirim <strong>tanpa</strong> watermark akan ditolak."
+  },
+  "wm_rejection_title": {
+    "message": "Video kamu ditolak"
+  },
+  "wm_rejection_body": {
+    "message": "Ini berarti kiriman kamu tidak memenuhi standar kualitas atau persyaratan watermark kami. Harap tinjau aturan sebelum mengirim lagi — mengikutinya dengan cermat adalah cara terbaik untuk disetujui."
+  },
+  "wm_rejection_btn": {
+    "message": "Lihat Persyaratan Watermark"
+  },
+  "wm_tooltip_watermark_rule": {
+    "message": "Watermark harus terlihat sepanjang video"
+  },
+  "wm_save_btn_view": {
+    "message": "Lihat Watermark"
+  },
+  "wm_dismiss_btn": {
+    "message": "Tutup"
+  },
+  "wm_disclaimer": {
+    "message": "Shorts berkualitas rendah dengan kurang dari 5.000 penayangan hanya akan menerima 50 Robux per 1.000 penayangan."
+  },
+  "wm_watermark_notice": {
+    "message": "Apakah videomu menyertakan watermark RoEarn? Jika tidak, video akan ditolak."
+  },
+  "creator_rule1": {
+    "message": "Videomu harus <strong>berkaitan dengan Roblox</strong> — konten yang tidak berkaitan dengan Roblox tidak akan diterima."
+  },
+  "creator_rule2": {
+    "message": "Videomu harus <strong>berkualitas tinggi dan diedit dengan baik</strong> — beri usaha dalam kontenmu."
+  },
+  "creator_rule3": {
+    "message": "RoEarn harus <strong>ditampilkan dengan jelas dalam videomu</strong> — penonton harus bisa melihat dan memahaminya."
+  },
+  "creator_rule4": {
+    "message": "<strong>Watermark RoEarn harus ada di videomu dari awal hingga akhir</strong> — watermark harus tetap di layar sepanjang waktu."
+  },
+  "submit_err_missing_fields": {
+    "message": "Tempelkan URL video terlebih dahulu."
+  },
+  "submit_err_not_a_video_url": {
+    "message": "Itu tidak terlihat seperti tautan YouTube atau TikTok. Pastikan itu URL video."
+  },
+  "submit_err_youtube_channel_url": {
+    "message": "Itu terlihat seperti tautan saluran YouTube, bukan video. Tempelkan tautan ke video tertentu (mis. youtube.com/watch?v=...)."
+  },
+  "submit_err_tiktok_profile_url": {
+    "message": "Itu terlihat seperti tautan profil TikTok, bukan video. Tempelkan tautan ke video tertentu (mis. tiktok.com/@user/video/...)."
+  },
+  "submit_err_tiktok_no_video_id": {
+    "message": "Tidak dapat menemukan video atau foto di tautan TikTok itu. Tempelkan tautan ke video atau postingan foto tertentu (mis. tiktok.com/@user/video/... atau tiktok.com/@user/photo/...)."
+  },
+  "submit_err_invalid_url_yt": {
+    "message": "Itu tidak terlihat seperti URL video YouTube yang valid."
+  },
+  "submit_err_invalid_url_tt": {
+    "message": "Itu tidak terlihat seperti URL video TikTok yang valid."
+  },
+  "submit_err_invalid_url": {
+    "message": "URL video tidak valid."
+  },
+  "submit_err_video_not_found_yt": {
+    "message": "Video YouTube itu tidak ditemukan. Pastikan video bersifat publik dan URL-nya benar."
+  },
+  "submit_err_video_not_found_tt": {
+    "message": "Video TikTok itu tidak ditemukan. Pastikan video bersifat publik dan URL-nya benar."
+  },
+  "submit_err_video_not_found": {
+    "message": "Video tidak ditemukan."
+  },
+  "submit_err_yt_fetch_failed": {
+    "message": "Tidak dapat memuat video YouTube itu sekarang. Coba lagi sebentar lagi."
+  },
+  "submit_err_tt_fetch_failed": {
+    "message": "Tidak dapat memuat video TikTok itu sekarang. Coba lagi sebentar lagi."
+  },
+  "submit_err_username_not_in_desc_yt": {
+    "message": "Nama pengguna Roblox Anda ($1) harus muncul di judul atau deskripsi video YouTube."
+  },
+  "submit_err_username_not_in_desc_tt": {
+    "message": "Nama pengguna Roblox Anda ($1) harus muncul di judul TikTok. (Edit postingan Anda agar nama pengguna ada di judul)"
+  },
+  "submit_err_username_not_in_desc": {
+    "message": "Nama pengguna Roblox Anda harus muncul di video."
+  },
+  "submit_err_insufficient_views": {
+    "message": "Video Anda membutuhkan minimal $1 penonton untuk memenuhi syarat. Saat ini memiliki $2."
+  },
+  "submit_err_already_submitted_yt": {
+    "message": "Video YouTube itu sudah dikirimkan."
+  },
+  "submit_err_already_submitted_tt": {
+    "message": "Video TikTok itu sudah dikirimkan."
+  },
+  "submit_err_already_submitted": {
+    "message": "Video itu sudah dikirimkan."
+  },
+  "submit_err_db_error": {
+    "message": "Terjadi kesalahan server. Silakan coba lagi."
+  },
+  "submit_err_network_error": {
+    "message": "Tidak dapat menjangkau server. Periksa koneksi Anda dan coba lagi."
+  },
+  "submit_err_auth_failed": {
+    "message": "Tidak dapat memverifikasi akun Roblox Anda. Harap segarkan dan coba lagi."
+  },
+  "submit_err_default": {
+    "message": "Terjadi kesalahan. Silakan coba lagi."
+  },
+  "wm_rejection_dismiss_btn": {
+    "message": "Tutup"
+  },
+  "donate_recent_label": {
+    "message": "Terbaru"
+  },
+  "plus_subscribed_title": {
+    "message": "🎉 Kamu menumpuk tabungan!"
+  },
+  "plus_unsubscribed_title": {
+    "message": "💰 Gandakan setiap Robux yang kamu habiskan"
+  },
+  "plus_body_copy": {
+    "message": "Roblox Plus memberi kamu diskon 10–20% untuk pembelian — dan RoEarn memberi cashback di atasnya. Keduanya bisa digabungkan, jadi semakin banyak kamu hemat dengan Plus, semakin banyak cashback yang kamu dapatkan dengan RoEarn."
+  },
+  "plus_subscribe_btn": {
+    "message": "Berlangganan dengan RoEarn (Dapat $1)"
+  },
+  "creator_earn_title": {
+    "message": "Dapatkan Penghasilan dengan Membuat Video"
+  },
+  "creator_url_placeholder": {
+    "message": "Tempelkan URL Video TikTok atau YouTube.."
+  },
+  "creator_rate_shorts_label": {
+    "message": "YouTube Shorts & TikTok"
+  },
+  "creator_rate_longform_label": {
+    "message": "Video YouTube Panjang"
+  },
+  "creator_rule1_full": {
+    "message": "Video kamu harus berfokus pada <strong>konten Roblox</strong>, seperti gameplay, atau situs web Roblox."
+  },
+  "creator_rule2_full": {
+    "message": "Video kamu harus <strong>berkualitas tinggi, diedit dengan baik, dan jelas</strong> untuk ditonton."
+  },
+  "creator_rule3_full": {
+    "message": "<strong>Ekstensi RoEarn harus terlihat jelas</strong>, digunakan, atau dibahas dalam videomu."
+  },
+  "creator_rule4_full": {
+    "message": "<strong>Watermark resmi RoEarn harus tetap terlihat</strong> di layar dari awal hingga akhir."
+  },
+  "creator_earn_subtitle_pre": {
+    "message": "Dibayar"
+  },
+  "creator_earn_subtitle_post": {
+    "message": "300 per 1.000 penonton di TikTok & YouTube Shorts"
+  }
+}

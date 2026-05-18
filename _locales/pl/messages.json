@@ -1,0 +1,1080 @@
+{
+  "extName": {
+    "message": "RoEarn: Cashback za zakupy w Roblox"
+  },
+  "extDescription": {
+    "message": "Zdobywaj Robux cashback przy każdym zakupie na Roblox!"
+  },
+  "extActionTitle": {
+    "message": "Otwórz Panel RoEarn"
+  },
+  "badgeEarn": {
+    "message": "Zdobądź"
+  },
+  "buy": {
+    "message": "Kup"
+  },
+  "ineligible": {
+    "message": "Nieuprawiony"
+  },
+  "successPopupTitle": {
+    "message": "Zakup Zakończony"
+  },
+  "successPopupMessage": {
+    "message": "Pomyślnie nabyłeś $1 za $2."
+  },
+  "successPopupCashback": {
+    "message": "$1 zostało dodane do Twojego salda RoEarn."
+  },
+  "successPopupBalanceBtn": {
+    "message": "Saldo"
+  },
+  "successPopupCustomizeBtn": {
+    "message": "Dostosuj"
+  },
+  "successPopupContinueBtn": {
+    "message": "Kontynuuj"
+  },
+  "notEligibleForCashback": {
+    "message": "Nieuprawiony do Cashbacku"
+  },
+  "tooltipRobloxLimited": {
+    "message": "Limitedy stworzone przez Roblox nie są uprawnione do cashbacku."
+  },
+  "tooltipNotInGame": {
+    "message": "Ten przedmiot nie jest uprawniony, ponieważ nie można go kupić w grze."
+  },
+  "tooltipPriceTooLow": {
+    "message": "Cena jest za niska na cashback. Minimalna cena to $1 Robux."
+  },
+  "catalogBuyBtn": {
+    "message": "Kup z RoEarn (Zdobądź $1)"
+  },
+  "tooltipGamepassMinPrice": {
+    "message": "Cena gamepassu musi być wyższa niż 40 Robux, aby kwalifikować się do cashbacku."
+  },
+  "gamepassBuyBtn": {
+    "message": "Kup (Zdobądź $1)"
+  },
+  "tooltipGamepassMinPriceShort": {
+    "message": "Cena gamepassu musi być wyższa niż 40 Robux, aby kwalifikować się do cashbacku."
+  },
+  "earnAmount": {
+    "message": "(Zdobądź $1)"
+  },
+  "errorDiscordSupport": {
+    "message": "Błąd $1: Dołącz do naszego Discorda: <a href=\"https://discord.gg/roearnsupport\" target=\"_blank\">discord.gg/roearnsupport</a>"
+  },
+  "roEarnBalance": {
+    "message": "Saldo RoEarn: $1 Robux"
+  },
+  "roEarnBalanceLoading": {
+    "message": "Saldo RoEarn: Ładowanie..."
+  },
+  "reviewPromptText": {
+    "message": "RoEarn zadziałał? Zostaw recenzję!"
+  },
+  "checkoutPageTitle": {
+    "message": "Kasa RoEarn"
+  },
+  "checkoutTitle": {
+    "message": "Dokończ Zakup"
+  },
+  "checkoutSubtitle": {
+    "message": "Otrzymaj cashback za zakup na Roblox"
+  },
+  "checkoutSaveBadge": {
+    "message": "Zaoszczędź $1 Robux!"
+  },
+  "checkoutHowItWorks": {
+    "message": "Jak To Działa"
+  },
+  "checkoutStep1": {
+    "message": "Dołącz do hubu RoEarn używając przycisku graj poniżej."
+  },
+  "checkoutStep2": {
+    "message": "Zostaniesz poproszony o zakup $1 w grze."
+  },
+  "checkoutStep3": {
+    "message": "Twój cashback $1 zostanie natychmiast dodany do Twojego salda RoEarn."
+  },
+  "checkoutAutoJoin": {
+    "message": "Zawsze automatycznie dołączaj do hubu RoEarn"
+  },
+  "dashboardPageTitle": {
+    "message": "Panel RoEarn"
+  },
+  "dashboardTitle": {
+    "message": "Panel RoEarn"
+  },
+  "dashboardSubtitle": {
+    "message": "Zarządzaj swoimi zarobkami i zaproszeniami"
+  },
+  "welcomeTitle": {
+    "message": "Witaj w RoEarn"
+  },
+  "welcomeSubtitle": {
+    "message": "Krótki film instruktażowy na początek"
+  },
+  "referralEntryTitle": {
+    "message": "Ktoś Cię zaprosił do RoEarn?"
+  },
+  "referralEntryDescription": {
+    "message": "Wpisz ich kod i oboje otrzymacie dodatkowy cashback!"
+  },
+  "referralInputPlaceholder": {
+    "message": "Wpisz kod zaproszenia"
+  },
+  "optionalLabel": {
+    "message": "(OPCJONALNE)"
+  },
+  "startButton": {
+    "message": "Zacznij używać RoEarn"
+  },
+  "loadingText": {
+    "message": "Ładowanie..."
+  },
+  "errorInvalidReferralCode": {
+    "message": "Nieprawidłowy kod zaproszenia"
+  },
+  "errorOwnReferralCode": {
+    "message": "Nie możesz użyć własnego kodu zaproszenia"
+  },
+  "errorSetReferralFailed": {
+    "message": "Nie udało się ustawić zaproszenia. "
+  },
+  "errorReferralAlreadyUsed": {
+    "message": "Już użyłeś kodu zaproszenia."
+  },
+  "errorInvalidReferralCodeRetry": {
+    "message": "Nieprawidłowy kod. Sprawdź i spróbuj ponownie."
+  },
+  "errorVerificationFailed": {
+    "message": "Weryfikacja nie powiodła się. Spróbuj ponownie."
+  },
+  "errorPleaseTryAgain": {
+    "message": "Spróbuj ponownie."
+  },
+  "bonusAddedText": {
+    "message": "5 Robux zostało dodane do Twojego salda RoEarn!"
+  },
+  "yourBalanceLabel": {
+    "message": "Twoje Saldo RoEarn"
+  },
+  "withdrawButton": {
+    "message": "Wypłać do Roblox"
+  },
+  "errorMinWithdrawal": {
+    "message": "Minimalna kwota wypłaty to 4 Robux."
+  },
+  "withdrawalSuccessTitle": {
+    "message": "Wypłata Udana"
+  },
+  "withdrawalSuccessMessage": {
+    "message": "Sprawdź swoje <b><u>Oczekujące Robux</u></b> i <b><u>Sprzedaż towarów</u></b> za około 45 sekund, ponieważ zakup może chwilę potrwać, zanim się pojawi."
+  },
+  "viewTransactionsCountdown": {
+    "message": "Zobacz Transakcje ($1)"
+  },
+  "viewTransactionsButton": {
+    "message": "Zobacz Transakcje"
+  },
+  "referralProgramTitle": {
+    "message": "Zaproś Znajomych"
+  },
+  "yourReferralCodeLabel": {
+    "message": "Twój Kod Zaproszenia"
+  },
+  "copyButton": {
+    "message": "Kopiuj"
+  },
+  "copiedButton": {
+    "message": "Skopiowano!"
+  },
+  "totalEarnedLabel": {
+    "message": "Łącznie Zarobione"
+  },
+  "referralsLabel": {
+    "message": "Zaproszenia"
+  },
+  "referralDescription": {
+    "message": "<span class=\"roearn-referral-highlight\">Udostępnij swój kod zaproszenia. </span>Gdy ktoś zainstaluje RoEarn używając Twojego kodu, zarobisz <b>natychmiast 15 Robux!</b><br><br>Każdy, kto użyje Twojego kodu zaproszenia, otrzyma <b>5 Robux!</b><br><br><b>⚠️ Zastrzeżenie:</b> Konta alternatywne nie otrzymają nagrody Robux."
+  },
+  "backButton": {
+    "message": "← Wstecz"
+  },
+  "yourReferralsTitle": {
+    "message": "Twoje Zaproszenia"
+  },
+  "noReferralsMessage": {
+    "message": "Brak zaproszeń. Podziel się kodem, aby zacząć zarabiać!"
+  },
+  "loadingReferralProfiles": {
+    "message": "Ładowanie zaproszonych profili..."
+  },
+  "errorAuthFailed": {
+    "message": "Uwierzytelnianie nie powiodło się. Upewnij się, że jesteś zalogowany do Roblox."
+  },
+  "errorAuthRetry": {
+    "message": "Uwierzytelnianie nie powiodło się. Spróbuj ponownie."
+  },
+  "errorFetchGames": {
+    "message": "Nie udało się pobrać gier. Upewnij się, że masz co najmniej jedną grę."
+  },
+  "errorFetchGamesRetry": {
+    "message": "Nie udało się pobrać gier. Spróbuj ponownie."
+  },
+  "errorNoGames": {
+    "message": "Musisz najpierw stworzyć grę Roblox, zanim użyjesz kodu polecającego."
+  },
+  "errorSecurityToken": {
+    "message": "Nie udało się uzyskać tokenu bezpieczeństwa. Odśwież stronę i spróbuj ponownie."
+  },
+  "errorCreateGamepass": {
+    "message": "Nie udało się utworzyć gamepassu weryfikacyjnego. Spróbuj ponownie."
+  },
+  "errorUpdateGamepass": {
+    "message": "Nie udało się zaktualizować szczegółów gamepassu. Spróbuj ponownie."
+  },
+  "errorFetchGamepasses": {
+    "message": "Nie udało się pobrać gamepassów. Spróbuj ponownie."
+  },
+  "errorNoGamepasses": {
+    "message": "Brak gamepassów do weryfikacji. Spróbuj ponownie."
+  },
+  "errorUpdateVerification": {
+    "message": "Nie udało się zaktualizować gamepassu do weryfikacji. Spróbuj ponownie."
+  },
+  "errorUnexpected": {
+    "message": "Wystąpił błąd. Spróbuj ponownie."
+  },
+  "cartTitle": {
+    "message": "Koszyk ($1)"
+  },
+  "cartEmpty": {
+    "message": "Twój koszyk jest pusty"
+  },
+  "cartRemove": {
+    "message": "Usuń"
+  },
+  "cartTotal": {
+    "message": "Razem: $1 przedmiot"
+  },
+  "cartTotalPlural": {
+    "message": "Razem: $1 przedmiotów"
+  },
+  "checkoutBulkStep2": {
+    "message": "Zostaniesz poproszony o zakup swoich przedmiotów w grze."
+  },
+  "checkoutBulkStep2Single": {
+    "message": "Zostaniesz poproszony o zakup przedmiotu w grze."
+  },
+  "cartTotalLabel": {
+    "message": "Razem"
+  },
+  "addToCart": {
+    "message": "Dodaj do Koszyka RoEarn"
+  },
+  "removeFromCart": {
+    "message": "Usuń z Koszyka RoEarn"
+  },
+  "somethingWentWrong": {
+    "message": "Spróbuj ponownie wypłaty za 5 minut."
+  },
+  "copyExtensionLink": {
+    "message": "Kopiuj link rozszerzenia"
+  },
+  "altDetectedText": {
+    "message": "⚠️ Wykryto Alt"
+  },
+  "pendingRobuxNotice": {
+    "message": "Masz X Robux oczekujących. Sprawdź ponownie za 2 minut."
+  },
+  "tooltipOffSale": {
+    "message": "Ten przedmiot nie kwalifikuje się do cashbacku, ponieważ oryginał jest obecnie niedostępny do zakupu."
+  },
+  "contentCreatorTitle": {
+    "message": "Twórz filmy i zarabiaj Robux"
+  },
+  "contentCreatorPayout": {
+    "message": "Otrzymuj 300 Robux za 1000 wyświetleń w YouTube Shorts"
+  },
+  "contentCreatorDescription": {
+    "message": "Film musi pokazywać rozszerzenie RoEarn oraz <u><b>funkcję cashbacku katalogu.</b></u> Upewnij się, że Twoja nazwa użytkownika Roblox znajduje się w opisie."
+  },
+  "contentCreatorContact": {
+    "message": "Skontaktuj się z creators@roearn.io aby odebrać swoje Robux"
+  },
+  "contentCreatorLink": {
+    "message": "Długie filmy są płatne |SPLIT| za 1000 wyświetleń"
+  },
+  "withdrawalAgreementTitle": {
+    "message": "Jak Działają Wypłaty"
+  },
+  "withdrawalAgreementText": {
+    "message": "Zapłacimy Ci Robuxy, kupując Twój gamepass. RoEarn automatycznie tworzy dla Ciebie gamepass, więc nie musisz nic robić."
+  },
+  "continueButton": {
+    "message": "Kontynuuj"
+  },
+  "joinDiscordButton": {
+    "message": "Dołącz do Discord"
+  },
+  "notificationTitle": {
+    "message": "Saldo RoEarn zaktualizowane"
+  },
+  "notificationText": {
+    "message": "Robux dodane do salda RoEarn. Możesz teraz je wypłacić!"
+  },
+  "dismissButton": {
+    "message": "Zamknij"
+  },
+  "viewBalanceButton": {
+    "message": "Zobacz saldo"
+  },
+  "now40Text": {
+    "message": "Teraz 40 Robux za zaproszenie!"
+  },
+  "countdownPrefix": {
+    "message": "Zdobądź $1 Robux za zaproszenie (Kończy się za "
+  },
+  "countdownDay": {
+    "message": "dzień"
+  },
+  "countdownDays": {
+    "message": "dni"
+  },
+  "countdownHour": {
+    "message": "godzinę"
+  },
+  "countdownHours": {
+    "message": "godzin"
+  },
+  "countdownMinute": {
+    "message": "minutę"
+  },
+  "countdownMinutes": {
+    "message": "minut"
+  },
+  "shareYourInvite": {
+    "message": "🎉 Udostępnij swój kod zaproszenia i zdobądź $1 Robux za każdego przyjaciela, którego przyprowadzisz do RoEarn.",
+    "description": "Referral prompt text with invite bonus amount"
+  },
+  "playAndEarn_Text": {
+    "message": "Graj i Zarabiaj z RoEarn!"
+  },
+  "sponsoredPlacements_Text": {
+    "message": "Gry w tej sekcji są promowane za pośrednictwem RoEarn w ramach sponsorowanych miejsc."
+  },
+  "timePlayed_Text": {
+    "message": "Czas Gry"
+  },
+  "earned_Text": {
+    "message": "Zarobiono"
+  },
+  "rate_Text": {
+    "message": "Stawka"
+  },
+  "hour_Text": {
+    "message": "/godz."
+  },
+  "tutorialStep1Title_Text": {
+    "message": "Zarabiaj Robux grając w $1"
+  },
+  "tutorialStep1Body_Text": {
+    "message": "RoEarn płaci Ci 5 Robux za każdą godzinę spędzoną w sponsorowanych grach. Po prostu graj, zarabiaj i wypłacaj kiedy chcesz."
+  },
+  "next_Text": {
+    "message": "Dalej"
+  },
+  "trackYourEarningsTitle_Text": {
+    "message": "Śledź swoje zarobki"
+  },
+  "tutorialStep2Body_Text": {
+    "message": "Ten panel pokazuje czas gry i zarobione Robux. Zarabiasz 5 Robux na godzinę — to 1 Robux co 12 minut, dodawany bezpośrednio do Twojego salda RoEarn. Wypłacaj w dowolnym momencie na"
+  },
+  "gotIt_Text": {
+    "message": "Rozumiem"
+  },
+  "shareTextX": {
+    "message": "Właśnie odkryłem, że można dostać cashback w Robux kupując rzeczy na Roblox przez RoEarn. Jeśli spróbujesz, kod zaproszenia $1 daje 5 Robux.\n\nPobierz tutaj: https://chromewebstore.google.com/detail/roearn-cashback-on-roblox/fooenmopnfaejehogdbmegaleanpdcea?utm_campaign=x\n\n#Robux #Roblox #RoEarn"
+  },
+  "shareTextTelegram": {
+    "message": "Właśnie odkryłem, że można dostać cashback w Robux kupując rzeczy na Roblox przez RoEarn. Jeśli spróbujesz, kod zaproszenia $1 daje 5 Robux."
+  },
+  "shareTextReddit": {
+    "message": "Zdobądź cashback w Robux za zakupy na Roblox przez RoEarn (kod zaproszenia $1 daje 5 Robux)"
+  },
+  "shareOnX": {
+    "message": "Udostępnij na X"
+  },
+  "shareOnFacebook": {
+    "message": "Udostępnij na Facebook"
+  },
+  "shareOnTelegram": {
+    "message": "Udostępnij na Telegram"
+  },
+  "shareOnReddit": {
+    "message": "Udostępnij na Reddit"
+  },
+  "dashboard_fav_label": {
+    "message": "Zarabiaj, dodając ubrania do ulubionych"
+  },
+  "dashboard_fav_desc": {
+    "message": "Zarabiaj Robuxy, automatycznie dodając ubrania do ulubionych w tle"
+  },
+  "dashboard_fav_bubble_title": {
+    "message": "Zanim to włączysz"
+  },
+  "dashboard_fav_bubble_body": {
+    "message": "To automatycznie doda 2D ubrania do ulubionych po ich wydaniu. Zarabiasz <strong style=\"color:#ffffff;\">1 Robux za każde 20 ulubionych</strong>, do <strong style=\"color:#ffffff;\">24 Robuxów dziennie</strong> w tle — dopóki przeglądarka działa. Zarobki są dodawane bezpośrednio do salda RoEarn."
+  },
+  "dashboard_fav_cancel": {
+    "message": "Anuluj"
+  },
+  "dashboard_fav_agree": {
+    "message": "Zgadzam się"
+  },
+  "dashboard_yt_label": {
+    "message": "Zarabiaj tworząc filmy na YouTube"
+  },
+  "dashboard_yt_desc": {
+    "message": "Otrzymuj zapłatę"
+  },
+  "dashboard_yt_desc2": {
+    "message": "300 za 1000 wyświetleń na YouTube Shorts"
+  },
+  "dashboard_yt_get_started": {
+    "message": "Zacznij"
+  },
+  "dashboard_subscribe_label": {
+    "message": "Subskrybuj na YouTube"
+  },
+  "dashboard_subscribe_desc": {
+    "message": "Bądź na bieżąco z naszymi poradami i nowościami"
+  },
+  "dashboard_subscribe_btn": {
+    "message": "Subskrybuj"
+  },
+  "dashboard_other_extensions": {
+    "message": "Nasze inne rozszerzenia"
+  },
+  "dashboard_roexport_name": {
+    "message": "RoExport"
+  },
+  "dashboard_roexport_tagline": {
+    "message": "Zapisz i prześlij ponownie ubrania z Roblox"
+  },
+  "dashboard_roexport_desc": {
+    "message": "Zapisz i prześlij ponownie dowolną koszulę, spodnie lub t-shirt w Roblox — w tym niedostępne już przedmioty. Dodaje przyciski <strong style=\"color:$1;\">&ldquo;Zapisz szablon&rdquo;</strong> i <strong style=\"color:$1;\">&ldquo;Prześlij ponownie&rdquo;</strong>."
+  },
+  "dashboard_roexport_pill1": {
+    "message": "Działa z niedostępnymi przedmiotami"
+  },
+  "dashboard_roexport_pill2": {
+    "message": "Prześlij do dowolnej grupy"
+  },
+  "dashboard_roexport_pill3": {
+    "message": "Premium nie jest wymagane"
+  },
+  "dashboard_roexport_cta": {
+    "message": "Dodaj do przeglądarki"
+  },
+  "dashboard_creator_title": {
+    "message": "Twórz filmy i zarabiaj Robuxy"
+  },
+  "dashboard_creator_desc": {
+    "message": "Twórz filmy o RoEarn używając gameplayu lub nagrań z Roblox. Pokaż rozszerzenie, zarobki lub zrób tutorial — wszystko z RoEarn i Roblox."
+  },
+  "dashboard_creator_shorts": {
+    "message": "YouTube Shorts"
+  },
+  "dashboard_creator_longform": {
+    "message": "Długi film"
+  },
+  "dashboard_creator_per_views": {
+    "message": "za 1000 wyświetleń"
+  },
+  "dashboard_creator_rules": {
+    "message": "Zasady"
+  },
+  "dashboard_creator_rule1": {
+    "message": "Film musi być wysokiej jakości i dobrze zmontowany"
+  },
+  "dashboard_creator_rule2": {
+    "message": "RoEarn musi być wyraźnie widoczny dla widza"
+  },
+  "dashboard_creator_rule3": {
+    "message": "Twoja nazwa użytkownika Roblox musi być w opisie filmu"
+  },
+  "dashboard_creator_tools": {
+    "message": "Zalecane narzędzia"
+  },
+  "dashboard_capcut_name": {
+    "message": "CapCut"
+  },
+  "dashboard_capcut_desc": {
+    "message": "Darmowy edytor wideo"
+  },
+  "dashboard_snipping_name": {
+    "message": "Snipping Tool"
+  },
+  "dashboard_snipping_desc": {
+    "message": "Szybkie nagrywanie ekranu"
+  },
+  "dashboard_submit_title": {
+    "message": "Prześlij swój film"
+  },
+  "dashboard_submit_desc": {
+    "message": "Wyślij nam link do swojego filmu e-mailem, aby otrzymać płatność — odpowiedź może zająć do 24 godzin"
+  },
+  "dashboard_send_email": {
+    "message": "Wyślij e-mail"
+  },
+  "sidebarNewText": {
+    "message": "Nowy"
+  },
+  "s_fav_lock_title": {
+    "message": "🔒 Funkcja zablokowana"
+  },
+  "s_fav_lock_body": {
+    "message": "Dokonaj 1 zakupu przez RoEarn, aby odblokować automatyczne dodawanie ubrań do ulubionych."
+  },
+  "s_extras_title": {
+    "message": "Dodatkowe zarobki"
+  },
+  "s_your_invites_title": {
+    "message": "Twoje zaproszenia"
+  },
+  "s_invites_empty": {
+    "message": "Zacznij zapraszać ludzi, a pojawią się tutaj."
+  },
+  "s_referral_disclaimer": {
+    "message": "⚠️ Konta alternatywne nie otrzymają nagrody w Robux."
+  },
+  "s_alt_tooltip": {
+    "message": "To konto zostało wykryte jako podejrzane i nie otrzyma nagrody w Robux."
+  },
+  "yt_submit_btn": {
+    "message": "Prześlij"
+  },
+  "yt_view_submissions_btn": {
+    "message": "Zobacz zgłoszenia"
+  },
+  "yt_status_in_review": {
+    "message": "W trakcie weryfikacji"
+  },
+  "yt_status_paid": {
+    "message": "Opłacone"
+  },
+  "yt_status_rejected": {
+    "message": "Odrzucone"
+  },
+  "yt_modal_title": {
+    "message": "Twoje zgłoszenia"
+  },
+  "yt_stat_total": {
+    "message": "Łącznie"
+  },
+  "yt_videos_label": {
+    "message": "Filmy"
+  },
+  "yt_no_submissions": {
+    "message": "Brak zgłoszeń."
+  },
+  "yt_input_placeholder": {
+    "message": "Wklej URL wideo YouTube (np. youtube.com/watch?v=...)"
+  },
+  "yt_err_missing_fields": {
+    "message": "Proszę podać prawidłowy adres URL wideo YouTube."
+  },
+  "yt_err_invalid_url": {
+    "message": "To nie wygląda jak prawidłowy link YouTube."
+  },
+  "yt_err_video_not_found": {
+    "message": "Nie znaleziono wideo — upewnij się, że jest publiczne."
+  },
+  "yt_err_fetch_failed": {
+    "message": "Nie można teraz połączyć się z YouTube. Spróbuj ponownie."
+  },
+  "yt_err_already_submitted": {
+    "message": "To wideo zostało już przez ciebie przesłane."
+  },
+  "yt_err_db_error": {
+    "message": "Błąd serwera. Spróbuj ponownie za chwilę."
+  },
+  "yt_err_network_error": {
+    "message": "Błąd sieci. Sprawdź połączenie."
+  },
+  "yt_err_internal_error": {
+    "message": "Coś poszło nie tak. Spróbuj ponownie później."
+  },
+  "yt_err_auth_failed": {
+    "message": "Nie można zweryfikować twojego konta Roblox."
+  },
+  "yt_err_username_not_in_desc": {
+    "message": "Twoja nazwa użytkownika Roblox ($1) musi być w opisie wideo."
+  },
+  "yt_err_insufficient_views": {
+    "message": "Twoje wideo potrzebuje co najmniej $1 wyświetleń, aby się zakwalifikować (obecnie $2)."
+  },
+  "yt_submit_success": {
+    "message": "Wideo przesłane! Sprawdzimy je w ciągu 24 godzin."
+  },
+  "yt_tooltip_pending": {
+    "message": "Twój film jest aktualnie sprawdzany. Ten proces może potrwać do 24 godzin."
+  },
+  "yt_tooltip_approved": {
+    "message": "Ten film został sprawdzony i Robuxy zostały wypłacone."
+  },
+  "yt_tooltip_rejected": {
+    "message": "Twój film nie spełnił naszych zasad dla twórców i nie został zatwierdzony do wypłaty."
+  },
+  "dashboard_roexport_installed": {
+    "message": "Masz już zainstalowane to rozszerzenie"
+  },
+  "dashboard_shorts_disclaimer": {
+    "message": "Posty niskiej jakości z mniej niż 5 000 wyświetleń otrzymają tylko 50 Robux za 1 000 wyświetleń."
+  },
+  "dashboard_submit_agreement_title": {
+    "message": "Przed wysłaniem"
+  },
+  "dashboard_submit_agreement_body": {
+    "message": "Wysyłając film, zgadzasz się, że jest on powiązany z RoEarn i że RoEarn jest widoczny w filmie. Wysyłanie niepowiązanych filmów trwale usunie Twoją możliwość wysyłania."
+  },
+  "dashboard_submit_agreement_cancel": {
+    "message": "Anuluj"
+  },
+  "dashboard_submit_agreement_confirm": {
+    "message": "Zgadzam się"
+  },
+  "dashboard_roregion_subtitle": {
+    "message": "Wybierz lokalizację swojego serwera Roblox"
+  },
+  "dashboard_roregion_description": {
+    "message": "Wybierz swój region serwera Roblox i połącz się z lokalizacjami na całym świecie — aby zawsze mieć najlepszy ping i najgładsszą rozgrywkę. Dodaje selektor regionu bezpośrednio do Roblox, pozwalając filtrować serwery według lokalizacji za pomocą kilku kliknięć."
+  },
+  "dashboard_roregion_tag_nolag": {
+    "message": "Bez Lagu"
+  },
+  "dashboard_roregion_tag_ping": {
+    "message": "Dobry Ping"
+  },
+  "dashboard_roregion_tag_gameplay": {
+    "message": "Szybka Rozgrywka"
+  },
+  "mobileWarningTitle": {
+    "message": "Ważne: Zarabiaj Cashback na Zakupach"
+  },
+  "mobileWarningBody": {
+    "message": "Aby zarabiać cashback z RoEarn, musisz kupować przedmioty z katalogu Roblox tutaj w przeglądarce — nie w aplikacji Roblox. Zakupy dokonane w aplikacji Roblox nie mogą być śledzone, więc nie otrzymasz za nie żadnego cashbacku."
+  },
+  "mobileWarningCatalogBtn": {
+    "message": "Przeglądaj Katalog Roblox"
+  },
+  "shoppingWarningTitle": {
+    "message": "Wykryto grę z zakupami avatarów"
+  },
+  "shoppingWarningBody": {
+    "message": "To jest gra z zakupami avatarów. Jeśli kupisz przedmioty wewnątrz tej gry, NIE otrzymasz cashbacku przez RoEarn — zamiast tego otrzyma go właściciel gry. Aby zarobić cashback, kupuj przedmioty z katalogu Roblox na stronie Roblox używając RoEarn."
+  },
+  "shoppingWarningCatalogBtn": {
+    "message": "Rozumiem — Przeglądaj Katalog"
+  },
+  "shoppingWarningDismiss": {
+    "message": "Zamknij"
+  },
+  "creator_snapshot_title": {
+    "message": "Wyświetlenia są zamrożone w momencie przesłania"
+  },
+  "creator_snapshot_body1": {
+    "message": "Liczba wyświetleń, którą Twój film ma <strong>teraz</strong>, jest tym, za co zostaniesz zapłacony — robimy migawkę w momencie przesłania."
+  },
+  "creator_snapshot_body2": {
+    "message": "Jeśli chcesz poczekać na więcej wyświetleń, to w porządku — wróć i prześlij, gdy będziesz gotowy."
+  },
+  "creator_snapshot_not_yet": {
+    "message": "Jeszcze nie"
+  },
+  "creator_snapshot_submit_now": {
+    "message": "Prześlij teraz"
+  },
+  "creator_channel_url_error": {
+    "message": "To jest URL kanału — prześlij link do konkretnego filmu."
+  },
+  "creator_quality_guide_btn": {
+    "message": "Przewodnik jakości wideo →"
+  },
+  "creator_guide_title": {
+    "message": "Jak stworzyć wysokiej jakości wideo"
+  },
+  "creator_guide_subtitle": {
+    "message": "Naszych 5 najlepszych twórców zarabia ponad <strong>1 000 000 Robux/miesiąc</strong> — to odróżnia dobre przesłanie od odrzuconego."
+  },
+  "creator_guide_good_header": {
+    "message": "Wideo wysokiej jakości"
+  },
+  "creator_guide_bad_header": {
+    "message": "Wideo niskiej jakości"
+  },
+  "creator_guide_good1": {
+    "message": "Gameplay Roblox jest wyraźnie widoczny przez cały film"
+  },
+  "creator_guide_good2": {
+    "message": "Nazwa rozszerzenia pojawia się jako widoczny tekst na ekranie — nie tylko logo"
+  },
+  "creator_guide_good3": {
+    "message": "Wyjaśniasz, jak znaleźć i zainstalować rozszerzenie na ekranie"
+  },
+  "creator_guide_good4": {
+    "message": "Skupiona treść, którą widzowie mogą łatwo śledzić"
+  },
+  "creator_guide_good5": {
+    "message": "Zachęca widzów do komentowania, polubień i angażowania się"
+  },
+  "creator_guide_good6": {
+    "message": "Mocny tytuł, miniatura i opis dla widoczności"
+  },
+  "creator_guide_bad1": {
+    "message": "Pokazuje tylko nasze logo — widzowie nie wiedzą, jak je zainstalować"
+  },
+  "creator_guide_bad2": {
+    "message": "Wielokrotne przesyłanie tego samego filmu dla wypłat"
+  },
+  "creator_guide_bad3": {
+    "message": "Niskie zaangażowanie — brak komentarzy, mało polubień, słaby czas oglądania"
+  },
+  "creator_guide_bad4": {
+    "message": "Nazwa rozszerzenia nigdy nie jest pokazana ani wymieniona na ekranie"
+  },
+  "creator_guide_bad5": {
+    "message": "Treść niezwiązana z Roblox"
+  },
+  "creator_guide_bad6": {
+    "message": "Sprawia wrażenie scenariuszowego lub spamu bez prawdziwej wartości dla widzów"
+  },
+  "creator_guide_protip": {
+    "message": "<strong>Pro tip:</strong> Skup się na stworzeniu jednego naprawdę świetnego filmu zamiast wielu słabych. Jeden wirusowy film może przynieść Ci o wiele więcej Robux."
+  },
+  "creator_section_title": {
+    "message": "Zarabiaj tworząc filmy na YouTube"
+  },
+  "creator_section_desc": {
+    "message": "Jako zweryfikowany twórca możesz tworzyć filmy i otrzymywać Robux — prześlij film prezentujący jedno z naszych rozszerzeń."
+  },
+  "creator_stats_header": {
+    "message": "Statystyki"
+  },
+  "creator_stat_earned": {
+    "message": "Łącznie zarobione z filmów"
+  },
+  "creator_stat_views": {
+    "message": "Łączne opłacone wyświetlenia"
+  },
+  "creator_stat_approved": {
+    "message": "Zatwierdzone filmy"
+  },
+  "creator_also_make_label": {
+    "message": "Twórz filmy również dla"
+  },
+  "creator_optional_badge": {
+    "message": "Opcjonalne"
+  },
+  "creator_primary_ext_desc": {
+    "message": "Twoje główne rozszerzenie to <strong>RoEarn</strong> — to są rozszerzenia bonusowe, aby zdywersyfikować treści i zarabiać więcej."
+  },
+  "creator_video_requirement": {
+    "message": "<strong>Wymaganie wideo:</strong> Twój film musi wyraźnie pokazywać rozszerzenie w użyciu i wyświetlać jego nazwę na ekranie."
+  },
+  "shareOnWhatsApp": {
+    "message": "Udostępnij na WhatsApp"
+  },
+  "shareTextWhatsApp": {
+    "message": "Właśnie odkryłem, że można dostać cashback w Robux przy zakupach na Roblox używając RoEarn. Jeśli spróbujesz, kod zaproszenia $1 daje 5 Robux.\n\nPobierz tutaj: https://chromewebstore.google.com/detail/roearn-cashback-on-roblox/fooenmopnfaejehogdbmegaleanpdcea?utm_campaign=whatsapp"
+  },
+  "donate_btn_label": {
+    "message": "Daruj"
+  },
+  "donate_back_to_passes": {
+    "message": "Wróć do przepustek"
+  },
+  "donate_join_heading": {
+    "message": "Dołącz, aby kupić"
+  },
+  "donate_join_sub": {
+    "message": "Dołącz do gry, aby sfinalizować zakup. Po wejściu zostaniesz poproszony o kupno tej przepustki."
+  },
+  "donate_join_disclaimer": {
+    "message": "Ponieważ to darowizna, nie otrzymasz zwrotu gotówki."
+  },
+  "donate_empty_title": {
+    "message": "Brak dostępnych przepustek"
+  },
+  "donate_empty_sub": {
+    "message": "Ten gracz nie skonfigurował jeszcze przepustek."
+  },
+  "donate_pass_buy": {
+    "message": "Kup"
+  },
+  "donate_close_label": {
+    "message": "Zamknij"
+  },
+  "donate_notice_text": {
+    "message": "To są przepustki należące do tego gracza. Kupno jednej wysyła Robux bezpośrednio na jego konto."
+  },
+  "donate_tagline": {
+    "message": "Kup przepustkę od @$1, a Robux trafi bezpośrednio do nich."
+  },
+  "donate_search_title": {
+    "message": "Daruj graczowi"
+  },
+  "donate_tab_search": {
+    "message": "Szukaj"
+  },
+  "donate_tab_friends": {
+    "message": "Znajomi"
+  },
+  "donate_search_placeholder": {
+    "message": "Szukaj po nazwie użytkownika…"
+  },
+  "donate_friends_filter_placeholder": {
+    "message": "Filtruj znajomych…"
+  },
+  "donate_search_hint": {
+    "message": "Wpisz nazwę użytkownika, aby znaleźć gracza"
+  },
+  "donate_friends_login": {
+    "message": "Zaloguj się do Roblox, aby zobaczyć znajomych"
+  },
+  "donate_friends_empty": {
+    "message": "Nie masz jeszcze znajomych"
+  },
+  "donate_friends_none": {
+    "message": "Nie znaleziono znajomych"
+  },
+  "donate_search_failed": {
+    "message": "Wyszukiwanie nie powiodło się. Spróbuj ponownie."
+  },
+  "donate_search_no_results": {
+    "message": "Nie znaleziono graczy dla \"$1\""
+  },
+  "donate_search_error": {
+    "message": "Coś poszło nie tak. Spróbuj ponownie."
+  },
+  "cartLimitTitle": {
+    "message": "Osiągnięto limit koszyka (maks. $1 aktywnych elementów)"
+  },
+  "cartLimitBody": {
+    "message": "Roblox zezwala tylko na $1 elementy na zakup. Możesz dezaktywować elementy, aby je zachować."
+  },
+  "cartLimitTitleRecheck": {
+    "message": "Osiągnięto limit aktywnych elementów (maks. $1)"
+  },
+  "cartLimitBodyRecheck": {
+    "message": "Możesz mieć tylko $1 aktywnych elementów jednocześnie. Najpierw dezaktywuj inny element."
+  },
+  "wm_popup_subtitle": {
+    "message": "Każde przesłane wideo musi je zawierać — widoczne od początku do końca, bez wyjątków."
+  },
+  "wm_example_label": {
+    "message": "Przykład"
+  },
+  "wm_how_it_should_look": {
+    "message": "Jak to powinno wyglądać"
+  },
+  "wm_requirements_label": {
+    "message": "Wymagania"
+  },
+  "wm_req1": {
+    "message": "Znak wodny musi być <strong>widoczny przez cały film</strong> — od pierwszej do ostatniej klatki."
+  },
+  "wm_req2": {
+    "message": "Musi być <strong>łatwy do odczytania i zobaczenia</strong> — nie ukryty, wyszarzony ani przycięty."
+  },
+  "wm_req3": {
+    "message": "Sam znak wodny to <strong>nie skrót</strong> — Twój film musi również pokazywać i wyjaśniać rozszerzenie."
+  },
+  "wm_download_label": {
+    "message": "Pobierz znak wodny"
+  },
+  "wm_save_desc": {
+    "message": "Zapisz obraz znaku wodnego i dodaj go do swojego wideo za pomocą dowolnego edytora."
+  },
+  "wm_save_btn": {
+    "message": "Zapisz znak wodny"
+  },
+  "wm_intro_title": {
+    "message": "Nowość: Znak wodny wideo RoEarn"
+  },
+  "wm_intro_subtitle": {
+    "message": "Teraz wymagamy znaku wodnego w każdym przesłanym filmie. Oto wszystko, co musisz wiedzieć."
+  },
+  "wm_intro_what_to_do": {
+    "message": "Co musisz zrobić"
+  },
+  "wm_intro_req1": {
+    "message": "Umieść znak wodny RoEarn w <strong>każdym filmie</strong>, który przesyłasz."
+  },
+  "wm_intro_req2": {
+    "message": "Musi być <strong>widoczny przez cały film</strong> — od pierwszej do ostatniej klatki, łatwy do zobaczenia i odczytania."
+  },
+  "wm_intro_rejected": {
+    "message": "Filmy przesłane <strong>bez</strong> znaku wodnego zostaną odrzucone."
+  },
+  "wm_rejection_title": {
+    "message": "Twój film został odrzucony"
+  },
+  "wm_rejection_body": {
+    "message": "Oznacza to, że Twoje zgłoszenie nie spełniło naszych standardów jakości lub wymagań dotyczących znaku wodnego. Przed ponownym przesłaniem zapoznaj się z zasadami — ich staranne przestrzeganie to najlepszy sposób na uzyskanie zatwierdzenia."
+  },
+  "wm_rejection_btn": {
+    "message": "Zobacz wymagania dotyczące znaku wodnego"
+  },
+  "wm_tooltip_watermark_rule": {
+    "message": "Znak wodny musi być widoczny przez cały film"
+  },
+  "wm_save_btn_view": {
+    "message": "Zobacz znak wodny"
+  },
+  "wm_dismiss_btn": {
+    "message": "Odrzuć"
+  },
+  "wm_disclaimer": {
+    "message": "Shorts niskiej jakości z mniej niż 5 000 wyświetleniami otrzymają tylko 50 Robux za 1 000 wyświetleń."
+  },
+  "wm_watermark_notice": {
+    "message": "Czy Twój film zawiera znak wodny RoEarn? Jeśli nie, zostanie odrzucony."
+  },
+  "creator_rule1": {
+    "message": "Twój film musi być <strong>związany z Roblox</strong> — treści niezwiązane z Roblox nie będą akceptowane."
+  },
+  "creator_rule2": {
+    "message": "Twój film musi być <strong>wysokiej jakości i dobrze zmontowany</strong> — włóż wysiłek w swoje treści."
+  },
+  "creator_rule3": {
+    "message": "RoEarn musi być <strong>wyraźnie pokazany w Twoim filmie</strong> — widzowie muszą móc go zobaczyć i zrozumieć."
+  },
+  "creator_rule4": {
+    "message": "<strong>Znak wodny RoEarn musi być w Twoim filmie od początku do końca</strong> — musi przez cały czas pozostawać na ekranie."
+  },
+  "submit_err_missing_fields": {
+    "message": "Najpierw wklej adres URL wideo."
+  },
+  "submit_err_not_a_video_url": {
+    "message": "To nie wygląda jak link YouTube ani TikTok. Upewnij się, że to adres URL wideo."
+  },
+  "submit_err_youtube_channel_url": {
+    "message": "To wygląda jak link do kanału YouTube, a nie do wideo. Wklej link do konkretnego wideo (np. youtube.com/watch?v=...)."
+  },
+  "submit_err_tiktok_profile_url": {
+    "message": "To wygląda jak link do profilu TikTok, a nie do wideo. Wklej link do konkretnego wideo (np. tiktok.com/@user/video/...)."
+  },
+  "submit_err_tiktok_no_video_id": {
+    "message": "Nie udało się znaleźć wideo ani zdjęcia w tym linku TikTok. Wklej link do konkretnego wideo lub posta ze zdjęciem (np. tiktok.com/@user/video/... lub tiktok.com/@user/photo/...)."
+  },
+  "submit_err_invalid_url_yt": {
+    "message": "To nie wygląda jak prawidłowy adres URL wideo YouTube."
+  },
+  "submit_err_invalid_url_tt": {
+    "message": "To nie wygląda jak prawidłowy adres URL wideo TikTok."
+  },
+  "submit_err_invalid_url": {
+    "message": "Nieprawidłowy adres URL wideo."
+  },
+  "submit_err_video_not_found_yt": {
+    "message": "Nie znaleziono tego wideo YouTube. Upewnij się, że jest publiczne i adres URL jest poprawny."
+  },
+  "submit_err_video_not_found_tt": {
+    "message": "Nie znaleziono tego wideo TikTok. Upewnij się, że jest publiczne i adres URL jest poprawny."
+  },
+  "submit_err_video_not_found": {
+    "message": "Wideo nie znalezione."
+  },
+  "submit_err_yt_fetch_failed": {
+    "message": "Nie można teraz załadować tego wideo YouTube. Spróbuj ponownie za chwilę."
+  },
+  "submit_err_tt_fetch_failed": {
+    "message": "Nie można teraz załadować tego wideo TikTok. Spróbuj ponownie za chwilę."
+  },
+  "submit_err_username_not_in_desc_yt": {
+    "message": "Twoja nazwa użytkownika Roblox ($1) musi pojawić się w tytule lub opisie wideo YouTube."
+  },
+  "submit_err_username_not_in_desc_tt": {
+    "message": "Twoja nazwa użytkownika Roblox ($1) musi pojawić się w tytule TikTok. (Edytuj swój post, aby Twoja nazwa użytkownika była w tytule)"
+  },
+  "submit_err_username_not_in_desc": {
+    "message": "Twoja nazwa użytkownika Roblox musi pojawić się w wideo."
+  },
+  "submit_err_insufficient_views": {
+    "message": "Twoje wideo potrzebuje co najmniej $1 wyświetleń, aby się zakwalifikować. Aktualnie ma $2."
+  },
+  "submit_err_already_submitted_yt": {
+    "message": "To wideo YouTube zostało już przesłane."
+  },
+  "submit_err_already_submitted_tt": {
+    "message": "To wideo TikTok zostało już przesłane."
+  },
+  "submit_err_already_submitted": {
+    "message": "To wideo zostało już przesłane."
+  },
+  "submit_err_db_error": {
+    "message": "Wystąpił błąd serwera. Spróbuj ponownie."
+  },
+  "submit_err_network_error": {
+    "message": "Nie można połączyć się z serwerem. Sprawdź połączenie i spróbuj ponownie."
+  },
+  "submit_err_auth_failed": {
+    "message": "Nie można zweryfikować konta Roblox. Odśwież stronę i spróbuj ponownie."
+  },
+  "submit_err_default": {
+    "message": "Coś poszło nie tak. Spróbuj ponownie."
+  },
+  "wm_rejection_dismiss_btn": {
+    "message": "Zamknij"
+  },
+  "donate_recent_label": {
+    "message": "Ostatnie"
+  },
+  "plus_subscribed_title": {
+    "message": "🎉 Kumulujesz oszczędności!"
+  },
+  "plus_unsubscribed_title": {
+    "message": "💰 Podwój każdego wydanego Robuxa"
+  },
+  "plus_body_copy": {
+    "message": "Roblox Plus daje Ci 10–20% zniżki na zakupy — a RoEarn daje Ci cashback na dodatek. Łączą się ze sobą, więc im więcej zaoszczędzisz z Plus, tym więcej cashbacku zarobisz z RoEarn."
+  },
+  "plus_subscribe_btn": {
+    "message": "Subskrybuj z RoEarn (Zarabiaj $1)"
+  },
+  "creator_earn_title": {
+    "message": "Zarabiaj tworząc filmy"
+  },
+  "creator_url_placeholder": {
+    "message": "Wklej URL wideo TikTok lub YouTube.."
+  },
+  "creator_rate_shorts_label": {
+    "message": "YouTube Shorts & TikTok"
+  },
+  "creator_rate_longform_label": {
+    "message": "Długi film YouTube"
+  },
+  "creator_rule1_full": {
+    "message": "Twój film musi być skupiony na <strong>treściach Roblox</strong>, takich jak gameplay lub strona Roblox."
+  },
+  "creator_rule2_full": {
+    "message": "Twój film musi być <strong>wysokiej jakości, dobrze zmontowany i wyraźny</strong> do oglądania."
+  },
+  "creator_rule3_full": {
+    "message": "<strong>Rozszerzenie RoEarn musi być wyraźnie widoczne</strong>, używane lub omówione w twoim filmie."
+  },
+  "creator_rule4_full": {
+    "message": "Oficjalny <strong>znak wodny RoEarn musi być widoczny</strong> na ekranie od początku do końca."
+  },
+  "creator_earn_subtitle_pre": {
+    "message": "Zarabiaj"
+  },
+  "creator_earn_subtitle_post": {
+    "message": "300 za 1 000 wyświetleń na TikTok & YouTube Shorts"
+  }
+}
